@@ -27,10 +27,16 @@ La documentación se encuentra organizada de la siguiente manera:
 7. [Recomendaciones](#id7)
 8. [Anexos](#id8)
 
-## Primer apartado<a name="id1"></a>
+## Introducción<a name="id1"></a>
 Texto del primer apartado
-## Segundo apartado<a name="id2"></a>
+## Marco Teórico<a name="id2"></a>
 Texto del segundo apartado
+## Metodología<a name="id3"></a>
+## Resultados<a name="id4"></a>
+## Discusión<a name="id5"></a>
+## Conclusiones<a name="id6"></a>
+## Recomendaciones<a name="id7"></a>
+## Anexos<a name="id8"></a>
 
 #
 Este documento pretende proporcionar una visión completa y detallada de la tesis, permitiendo a los lectores comprender la investigación realizada y sus contribuciones al campo de estudio.
