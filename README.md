@@ -4,3 +4,38 @@
 <img src="/logoUVG.png" alt="Logo UVG" width="200">
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+
+## Introducción
+
+Esta tesis representa el resultado de un extenso y profundo trabajo de investigación en el campo de *ML*, procesamiento de señales y biomédica; llevado a cabo con el objetivo de abordar la detección de segmentos de interes en señales bioeléctricas.
+
+### Objetivo de la Tesis
+
+El propósito fundamental de esta tesis es: Aplicar los algoritmos de aprendizaje automático desarrollados en fases anteriores a una mayor cantidad de señales bioeléctricas, y mejorar el proceso de detección de segmentos de interés en las señales, para el estudio de la epilepsia. Para alcanzar este objetivo, se han definido una serie de objetivos específicos que se detallan a lo largo de la documentación.
+
+### Estructura de la Documentación
+
+La documentación se encuentra organizada de la siguiente manera:
+
+1. **Introducción**: Esta sección proporciona una visión general del proyecto de tesis, los objetivos y la estructura de la documentación.
+
+2. **Marco Teórico**: Aquí se presenta el contexto teórico y la revisión de la literatura relacionada con [tema principal de la tesis].
+
+3. **Metodología**: Se detallan los métodos, enfoques y herramientas utilizados para llevar a cabo la investigación, incluyendo la recopilación y análisis de datos.
+
+4. **Resultados**: En esta sección se presentan los resultados clave de la investigación, incluyendo hallazgos, estadísticas y visualizaciones relevantes.
+
+5. **Discusión**: Se analizan y discuten los resultados en profundidad, contextualizándolos dentro del marco teórico y respondiendo a las preguntas de investigación.
+
+6. **Conclusiones**: Se resumen las conclusiones más importantes de la tesis y se destacan las implicaciones y posibles direcciones futuras de la investigación.
+
+7. **Recomendaciones**: Se ofrecen recomendaciones prácticas basadas en los resultados y hallazgos de la investigación.
+
+8. **Anexos**: Aquí encontrarás información adicional, tablas de datos, gráficos y otros recursos complementarios.
+
+Este documento pretende proporcionar una visión completa y detallada de la tesis, permitiendo a los lectores comprender la investigación realizada y sus contribuciones al campo de estudio.
+
+¡Gracias por explorar esta tesis y por tu interés en este importante proyecto de investigación!
+
+[Cristhofer_Patzán]
+[2023]
