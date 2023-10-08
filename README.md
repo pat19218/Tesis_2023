@@ -32,7 +32,7 @@ Texto del primer apartado
 ## Segundo apartado<a name="id2"></a>
 Texto del segundo apartado
 
-
+#
 Este documento pretende proporcionar una visión completa y detallada de la tesis, permitiendo a los lectores comprender la investigación realizada y sus contribuciones al campo de estudio.
 
 ¡Gracias por explorar esta tesis y por tu interés en este importante proyecto de investigación!
