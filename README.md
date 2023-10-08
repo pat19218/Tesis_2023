@@ -18,29 +18,20 @@ El propósito fundamental de esta tesis es: Aplicar los algoritmos de aprendizaj
 La documentación se encuentra organizada de la siguiente manera:
 
 **Índice**   
-1. [Introducción](#id1) Esta sección proporciona una visión general del proyecto de tesis, los objetivos y la estructura de la documentación.
+1. [Introducción](#id1) 
 2. [Marco Teórico](#id2)
+3. [Metodología](#id3)
+4. [Resultados](#id4)
+5. [Discusión](#id5)
+6. [Conclusiones](#id6)
+7. [Recomendaciones](#id7)
+8. [Anexos](#id8)
 
 ## Primer apartado<a name="id1"></a>
 Texto del primer apartado
 ## Segundo apartado<a name="id2"></a>
 Texto del segundo apartado
 
-1. **Introducción**: Esta sección proporciona una visión general del proyecto de tesis, los objetivos y la estructura de la documentación.
-
-2. **Marco Teórico**: Aquí se presenta el contexto teórico y la revisión de la literatura relacionada con [tema principal de la tesis].
-
-3. **Metodología**: Se detallan los métodos, enfoques y herramientas utilizados para llevar a cabo la investigación, incluyendo la recopilación y análisis de datos.
-
-4. **Resultados**: En esta sección se presentan los resultados clave de la investigación, incluyendo hallazgos, estadísticas y visualizaciones relevantes.
-
-5. **Discusión**: Se analizan y discuten los resultados en profundidad, contextualizándolos dentro del marco teórico y respondiendo a las preguntas de investigación.
-
-6. **Conclusiones**: Se resumen las conclusiones más importantes de la tesis y se destacan las implicaciones y posibles direcciones futuras de la investigación.
-
-7. **Recomendaciones**: Se ofrecen recomendaciones prácticas basadas en los resultados y hallazgos de la investigación.
-
-8. **Anexos**: Aquí encontrarás información adicional, tablas de datos, gráficos y otros recursos complementarios.
 
 Este documento pretende proporcionar una visión completa y detallada de la tesis, permitiendo a los lectores comprender la investigación realizada y sus contribuciones al campo de estudio.
 
