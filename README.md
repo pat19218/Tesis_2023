@@ -17,6 +17,15 @@ El propósito fundamental de esta tesis es: Aplicar los algoritmos de aprendizaj
 
 La documentación se encuentra organizada de la siguiente manera:
 
+**Índice**   
+1. [Introducción](#id1)
+2. [Marco Teórico](#id2)
+
+## Primer apartado<a name="id1"></a>
+Texto del primer apartado
+## Segundo apartado<a name="id2"></a>
+Texto del segundo apartado
+
 1. **Introducción**: Esta sección proporciona una visión general del proyecto de tesis, los objetivos y la estructura de la documentación.
 
 2. **Marco Teórico**: Aquí se presenta el contexto teórico y la revisión de la literatura relacionada con [tema principal de la tesis].
