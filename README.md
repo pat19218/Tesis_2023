@@ -61,8 +61,16 @@ Finalmente, se hizo una actualización de la herramienta de software utilizada e
 
 
 ## Recomendaciones<a name="id7"></a>
+- Se recomienda continuar la recopilación de datos de señales bioeléctricas, tanto de pacientes con epilepsia como de sujetos sanos, con el fin de enriquecer la base de datos y mejorar la capacidad de detección de patrones. La inclusión de un conjunto más amplio y diverso de datos permitirá una validación más robusta de los algoritmos desarrollados, añadiendo otro tipo de señales bioeléctricas como electrocardiogramas.
+
+- Se sugiere realizar una validación clínica más amplia de la herramienta de software desarrollada en entornos médicos reales. La colaboración continua con instituciones médicas, como el Instituto HUMANA, puede proporcionar una plataforma para aplicar la metodología en la práctica médica y evaluar su utilidad en el diagnóstico y tratamiento de pacientes con epilepsia
+
+- Dado el potencial de los algoritmos de aprendizaje automático para identificar patrones en señales bioeléctricas, se recomienda explorar la aplicación de esta metodología en el estudio de otros trastornos neurológicos. Investigar la detección de patrones relacionados con otras afecciones cerebrales puede ampliar significativamente el impacto y la relevancia de la investigación.
+
+- Es esencial mantener la herramienta de software actualizada con los avances tecnológicos y las mejores prácticas en el campo de aprendizaje automático. Esto garantizará que la herramienta siga siendo eficaz y relevante a medida que evoluciona la investigación y la tecnología médica.
 
 ## Anexos<a name="id8"></a>
+
 
 #
 Este documento pretende proporcionar una visión completa y detallada de la tesis, permitiendo a los lectores comprender la investigación realizada y sus contribuciones al campo de estudio.
