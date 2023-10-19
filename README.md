@@ -33,20 +33,20 @@ En este trabajo de investigación se aborda el tema de la epilepsia y la aplicac
 ## Marco Teórico<a name="id2"></a>
 Una crisis epiléptica consiste en una alteración brusca y transitoria ocasionada por una actividad anormal de las neuronas, manifestándose a través de sensaciones, emociones y comportamientos extraños, espasmos musculares y pérdida de conciencia. La epilepsia implica una predisposición a experimentar crisis epilépticas recurrentes, siendo diagnosticada cuando una persona ha experimentado dos o más de estas crisis. Las crisis epilépticas se dividen en dos tipos principales: crisis generalizadas y crisis parciales o focales. En las crisis generalizadas, la descarga epiléptica afecta simultáneamente a toda la superficie del cerebro, mientras que en las crisis parciales o focales, la descarga epiléptica se origina en una parte específica del cerebro.
 
-# Señales EEG
+### Señales EEG
 La electroencefalografía (EEG) es una prueba de diagnóstico neurofisiológico que consiste en la medición de la actividad eléctrica cerebral en estado de reposo, vigilia o sueño, y durante diversas activaciones. En general, la electroencefalografía se utiliza para el análisis de la actividad eléctrica cerebral en humanos con el fin de obtener información para una inspección exhaustiva de la funcionalidad cerebral, ayudando a la detección y prevención de enfermedades y trastornos. Estas ondas cerebrales se conocen como señales electroencefalográficas (señales EEG), que proporcionan información indirecta relacionada con las funciones cerebrales, incluidas, entre otras, las tareas mentales, las acciones motoras y las expresiones faciales.
 
-# EEG Ictal
+### EEG Ictal
 En el caso de una convulsión, el EEG se denomina EEG ictal y se caracteriza por un patrón inusual con un aumento repentino de la amplitud. Además, el comienzo de una convulsión se acompaña de un cambio repentino en la amplitud. Contenido de frecuencia que con frecuencia progresa a un patrón de picos y ondas. Debido a la variabilidad sustancial en el EEG ictal entre convulsiones, puede ser un desafío identificar el patrón de manera consistente, ya sea por medios manuales o automáticos. 
 
-# Señales EMG
+### Señales EMG
 La  electromiografía (EMG) es una herramienta de diagnóstico utilizada para analizar y registrar la actividad eléctrica producida por los músculos esqueléticos. La EMG se emplea en diversos campos de la medicina, como la neurología, la medicina deportiva, la rehabilitación y el diagnóstico. Los investigadores también utilizan la EMG para estudiar los patrones de
 activación muscular durante el movimiento, así como los patrones de fatiga y recuperación muscular. La EMG registra la actividad eléctrica llevada a cabo por las neuronas motoras durante las contracciones musculares y también mide la fuerza de las contracciones.
 
-# Señales ECG
+### Señales ECG
 Un electrocardiograma (ECG) es una prueba médica común que registra la actividad eléctrica del corazón. Se utiliza para evaluar la salud y el funcionamiento del corazón, y puede ayudar a diagnosticar problemas cardíacos o monitorizar afecciones existentes. Durante un ECG, se colocan electrodos en el pecho, las extremidades y a veces en otros lugares del cuerpo, para medir y registrar la actividad eléctrica del corazón.
 
-# Características en el dominio del tiempo
+### Características en el dominio del tiempo
 Las características en el dominio del tiempo se basan en el análisis de la amplitud de la señal y sus cambios a lo largo del tiempo. Algunas características comunes en el dominio del tiempo incluyen:
 
 - Media: El valor promedio de la señal durante un intervalo de tiempo específico.
@@ -56,7 +56,7 @@ Las características en el dominio del tiempo se basan en el análisis de la amp
 - Asimetría: Una medida de la asimetría de la distribución de la señal.
 - Curtosis: Una medida del pico de la distribución de la señal.
 
-# Características en el dominio de frecuencia
+### Características en el dominio de frecuencia
 Las características en el dominio de la frecuencia se basan en el análisis del espectro de potencia de la señal. El espectro de potencia es un gráfico de la potencia de la señal en función de la frecuencia. Algunas características comunes en el dominio de la frecuencia incluyen:
 
 - Potencia: La potencia total de la señal en una banda de frecuencia especificada.
@@ -65,21 +65,21 @@ Las características en el dominio de la frecuencia se basan en el análisis del
 - Frecuencia centroide: La frecuencia en la que el espectro de potencia de la señal es más alto.
 - Propagación: Una medida del ancho del espectro de potencia de la señal.
 
-# Propiedades de las señales deterministas y estocásticas
+### Propiedades de las señales deterministas y estocásticas
 Las propiedades de las señales deterministas y estocásticas se refieren a las características distintivas de dos tipos de señales en el contexto del procesamiento de señales y la teoría de la probabilidad:
 
 - Señales Deterministas: Estas señales siguen patrones predecibles y están completamente definidas por una función matemática o un conjunto de ecuaciones. Las señales deterministas son reproducibles y no poseen elementos aleatorios. Sus propiedades incluyen una amplitud constante, una frecuencia fija y una fase invariable. Ejemplos comunes de señales deterministas incluyen señales sinusoidales, cuadradas y triangulares. Estas señales son fundamentales en aplicaciones como la teoría de la comunicación, la electrónica y la ingeniería de control.
 
 - Señales Estocásticas: A diferencia de las señales deterministas, las señales estocásticas exhiben variabilidad y aleatoriedad. No pueden predecirse con certeza y su comportamiento se describe en términos de probabilidades y estadísticas. Las señales estocásticas pueden tener propiedades como la media, la varianza y la densidad espectral de potencia que se utilizan para caracterizar su comportamiento probabilístico. Ejemplos de señales estocásticas incluyen ruido aleatorio, señales biológicas y financieras. Estas señales se aplican en campos como el procesamiento de imágenes, el análisis de datos y la modelización de sistemas complejos.
 
-# Aprendizaje automático
+### Aprendizaje automático
 El aprendizaje automático (Machine Learning) es un tipo de inteligencia artificial (IA) que permite a las aplicaciones de software ser más precisas en la predicción de resultados sin estar explícitamente programadas para ello. Los algoritmos de aprendizaje automático utilizan datos históricos como entrada para predecir nuevos valores de salida. Existen tres tipos principales de aprendizaje automático:
 
 - Aprendizaje supervisado
 - Aprendizaje no supervisado
 - Aprendizaje por refuerzo
 
-# Aprendizaje supervisado
+### Aprendizaje supervisado
 El aprendizaje supervisado es un tipo de aprendizaje automático en el que el modelo se entrena en un conjunto de datos etiquetados. Esto significa que los datos se han etiquetado con la salida correcta. El modelo aprende a predecir la salida de nuevos datos en función de los datos etiquetados en los que se ha entrenado.
 
 El aprendizaje supervisado se utiliza para una variedad de tareas, incluidas la clasificación, la regresión y la previsión. Las tareas de clasificación implican predecir la categoría de un punto de datos, como si un correo electrónico es spam o no. Las tareas de regresión implican predecir un valor numérico, como el precio de una casa. Las tareas de previsión implican predecir valores futuros, como el número de ventas en un mes determinado.
@@ -92,7 +92,7 @@ Hay muchos modelos diferentes de aprendizaje supervisado, cada uno con sus propi
 - Bosques aleatorios
 - Máquinas de vectores de soporte
 
-# Aprendizaje no supervisado
+### Aprendizaje no supervisado
 El aprendizaje no supervisado es un tipo de aprendizaje automático en el que el modelo se entrena en un conjunto de datos no etiquetados. Esto significa que los datos no tienen etiquetas asociadas. El modelo aprende a encontrar patrones en los datos y a agrupar puntos de datos similares.
 
 El aprendizaje no supervisado se utiliza para una variedad de tareas, incluida la agrupación, la reducción de la dimensionalidad y la detección de anomalías. Las tareas de agrupamiento implican agrupar puntos de datos en función de sus similitudes. Las tareas de reducción de dimensionalidad implican reducir la cantidad de características en un conjunto de datos mientras se conserva la mayor cantidad de información posible. Las tareas de detección de anomalías implican identificar puntos de datos que son significativamente diferentes del resto de los datos.
@@ -105,7 +105,7 @@ Hay muchos modelos diferentes de aprendizaje no supervisado, cada uno con sus pr
 - Descomposición en valores singulares (SVD)
 - Modelos de mezcla gaussiana (GMM)
 
-# BIOPAC
+### BIOPAC
 Los dispositivos BIOPAC son una línea de productos de calidad avanzada para investigadores y educadores en ciencias de la vida. Proporcionan una forma flexible e integrada de registrar y analizar datos fisiológicos como ECG, EDA (GSR), EEG, EGG, EMG, EOG, y más de 300 otras señales y medidas fisiológicas.
 
 ## Metodología<a name="id3"></a>
