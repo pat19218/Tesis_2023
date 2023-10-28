@@ -1,0 +1,62 @@
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Prefacio}{\es@scroman {iii}}{section*.6}%
+\contentsline {chapter}{Lista de figuras}{\es@scroman {ix}}{section*.8}%
+\contentsline {chapter}{Lista de cuadros}{\es@scroman {x}}{section*.9}%
+\contentsline {chapter}{Resumen}{\es@scroman {xi}}{section*.10}%
+\contentsline {chapter}{Abstract}{\es@scroman {xii}}{section*.11}%
+\contentsline {chapter}{\numberline {1}Introducción}{1}{chapter.12}%
+\contentsline {chapter}{\numberline {2}Antecedentes}{2}{chapter.13}%
+\contentsline {chapter}{\numberline {3}Justificación}{5}{chapter.18}%
+\contentsline {chapter}{\numberline {4}Objetivos}{7}{chapter.19}%
+\contentsline {chapter}{\numberline {5}Alcance}{8}{chapter.22}%
+\contentsline {chapter}{\numberline {6}Marco teórico}{9}{chapter.23}%
+\contentsline {section}{\numberline {6.1}Epilepsia}{9}{section.24}%
+\contentsline {subsection}{\numberline {6.1.1}Tipos de epilepsia}{9}{subsection.25}%
+\contentsline {section}{\numberline {6.2}Señales bioeléctricas}{10}{section.27}%
+\contentsline {section}{\numberline {6.3}Señales electroencefalográficas}{11}{section.28}%
+\contentsline {subsection}{\numberline {6.3.1}Ritmos y formas de onda del EEG}{11}{subsection.29}%
+\contentsline {subsection}{\numberline {6.3.2}Picos y ondas agudas}{12}{subsection.31}%
+\contentsline {subsection}{\numberline {6.3.3}Características de una señal EEG}{13}{subsection.33}%
+\contentsline {subsection}{\numberline {6.3.4}EEG ictal}{13}{subsection.34}%
+\contentsline {subsection}{\numberline {6.3.5}Procesamiento de señales EEG}{13}{subsection.35}%
+\contentsline {section}{\numberline {6.4}Señales electromiográficas}{13}{section.36}%
+\contentsline {section}{\numberline {6.5}Señales electrocardiográficas}{14}{section.37}%
+\contentsline {section}{\numberline {6.6}Características en el dominio del tiempo}{14}{section.38}%
+\contentsline {section}{\numberline {6.7}Características en el dominio de frecuencia}{14}{section.39}%
+\contentsline {section}{\numberline {6.8}Propiedades de las señales deterministas y estocásticas}{15}{section.40}%
+\contentsline {section}{\numberline {6.9}Aprendizaje automático}{16}{section.41}%
+\contentsline {subsection}{\numberline {6.9.1}Aprendizaje supervisado}{16}{subsection.42}%
+\contentsline {subsection}{\numberline {6.9.2}Aprendizaje no supervisado}{17}{subsection.43}%
+\contentsline {subsection}{\numberline {6.9.3}Aprendizaje por refuerzo}{18}{subsection.44}%
+\contentsline {section}{\numberline {6.10}BIOPAC}{18}{section.45}%
+\contentsline {chapter}{\numberline {7}Metodología}{19}{chapter.46}%
+\contentsline {section}{\numberline {7.1}Datos obtenidos con equipo UVG}{19}{section.47}%
+\contentsline {subsection}{\numberline {7.1.1}Señales EMG}{19}{subsection.48}%
+\contentsline {subsection}{\numberline {7.1.2}Señales EEG}{21}{subsection.53}%
+\contentsline {subsection}{\numberline {7.1.3}Estándar en recolección de datos BIOPAC}{21}{subsection.54}%
+\contentsline {subsection}{\numberline {7.1.4}Estructuración de los datos para ser usados en la herramienta de software para el estudio de la epilepsia}{22}{subsection.57}%
+\contentsline {section}{\numberline {7.2}Datos de HUMANA de pacientes con epilepsia }{23}{section.59}%
+\contentsline {section}{\numberline {7.3}Agrupamiento de datos}{24}{section.61}%
+\contentsline {subsection}{\numberline {7.3.1}Análisis de señales EEG de forma intersujeto}{24}{subsection.62}%
+\contentsline {subsection}{\numberline {7.3.2}Análisis de señales EMG de forma intrasujeto}{24}{subsection.63}%
+\contentsline {section}{\numberline {7.4}Aprendizaje automático}{24}{section.64}%
+\contentsline {subsection}{\numberline {7.4.1}Extracción de características}{24}{subsection.65}%
+\contentsline {subsection}{\numberline {7.4.2}Anotaciones automáticas}{25}{subsection.66}%
+\contentsline {subsection}{\numberline {7.4.3}Análisis estadístico}{25}{subsection.68}%
+\contentsline {section}{\numberline {7.5}Actualización de la herramienta de software para el estudio de la epilepsia}{25}{section.69}%
+\contentsline {chapter}{\numberline {8}Resultados de recolección de datos}{29}{chapter.79}%
+\contentsline {section}{\numberline {8.1}Señales Bioeléctricas obtenidas con el equipo de UVG}{29}{section.80}%
+\contentsline {subsection}{\numberline {8.1.1}Resultados de la Extracción de Características}{30}{subsection.83}%
+\contentsline {section}{\numberline {8.2}Anotaciones automáticas}{31}{section.89}%
+\contentsline {chapter}{\numberline {9}Resultados estadísticos}{34}{chapter.94}%
+\contentsline {section}{\numberline {9.1}Clasificadores}{34}{section.95}%
+\contentsline {section}{\numberline {9.2}Algoritmos de agrupamiento}{38}{section.102}%
+\contentsline {chapter}{\numberline {10}Análisis de grupos}{39}{chapter.104}%
+\contentsline {section}{\numberline {10.1}Análisis de Grupos en el Dominio de Tiempo}{39}{section.105}%
+\contentsline {section}{\numberline {10.2}Análisis de Grupos en el Dominio de Frecuencia}{43}{section.117}%
+\contentsline {section}{\numberline {10.3}Análisis de Grupos en el Dominio de Wavelets}{52}{section.139}%
+\contentsline {chapter}{\numberline {11}Actualización de la herramienta de software para el estudio de la epilepsia}{61}{chapter.161}%
+\contentsline {chapter}{\numberline {12}Conclusiones}{62}{chapter.162}%
+\contentsline {chapter}{\numberline {13}Recomendaciones}{63}{chapter.163}%
+\contentsline {chapter}{\numberline {14}Bibliograf\'{\i }a}{64}{chapter.165}%

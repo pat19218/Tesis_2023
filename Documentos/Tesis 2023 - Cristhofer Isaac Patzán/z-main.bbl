@@ -1,0 +1,939 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{pichon2017patogenia}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8ad33201d34a0097e1b7d6e610fe3f4f}{%
+           family={Pichon\bibnamedelima Riviére},
+           familyi={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Enrique},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {UCES-Editorial de la Universidad de Ciencias Empresariales y Sociales}%
+      }
+      \strng{namehash}{8ad33201d34a0097e1b7d6e610fe3f4f}
+      \strng{fullhash}{8ad33201d34a0097e1b7d6e610fe3f4f}
+      \strng{bibnamehash}{8ad33201d34a0097e1b7d6e610fe3f4f}
+      \strng{authorbibnamehash}{8ad33201d34a0097e1b7d6e610fe3f4f}
+      \strng{authornamehash}{8ad33201d34a0097e1b7d6e610fe3f4f}
+      \strng{authorfullhash}{8ad33201d34a0097e1b7d6e610fe3f4f}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Patogenia y dinamismos de la epilepsia}
+      \field{year}{2017}
+    \endentry
+    \entry{Epilepsia_OMS}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0dc35add421ee99a506a390f34d84afb}{%
+           family={salud},
+           familyi={s\bibinitperiod},
+           given={OMS},
+           giveni={O\bibinitperiod},
+           prefix={organización\bibnamedelimb mundial\bibnamedelimb de\bibnamedelima la},
+           prefixi={o\bibinitperiod\bibinitdelim m\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim l\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {World Health Organization}%
+      }
+      \strng{namehash}{0dc35add421ee99a506a390f34d84afb}
+      \strng{fullhash}{0dc35add421ee99a506a390f34d84afb}
+      \strng{bibnamehash}{0dc35add421ee99a506a390f34d84afb}
+      \strng{authorbibnamehash}{0dc35add421ee99a506a390f34d84afb}
+      \strng{authornamehash}{0dc35add421ee99a506a390f34d84afb}
+      \strng{authorfullhash}{0dc35add421ee99a506a390f34d84afb}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{World Health Organization}
+      \field{month}{02}
+      \field{title}{Epilepsia}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.who.int/es/news-room/fact-sheets/detail/epilepsy
+      \endverb
+      \verb{url}
+      \verb https://www.who.int/es/news-room/fact-sheets/detail/epilepsy
+      \endverb
+    \endentry
+    \entry{humana_2021}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2d2aef3046dd9cebff8ff73e6fc53ddf}{%
+           family={Epilepsia\bibnamedelimb y\bibnamedelimb Neurocirugía\bibnamedelima Funcional\textit{,\bibnamedelimb HUMANA}},
+           familyi={E\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Centro},
+           giveni={C\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d2aef3046dd9cebff8ff73e6fc53ddf}
+      \strng{fullhash}{2d2aef3046dd9cebff8ff73e6fc53ddf}
+      \strng{bibnamehash}{2d2aef3046dd9cebff8ff73e6fc53ddf}
+      \strng{authorbibnamehash}{2d2aef3046dd9cebff8ff73e6fc53ddf}
+      \strng{authornamehash}{2d2aef3046dd9cebff8ff73e6fc53ddf}
+      \strng{authorfullhash}{2d2aef3046dd9cebff8ff73e6fc53ddf}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Humana}
+      \field{month}{03}
+      \field{title}{Epilepsia}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://humanagt.org/epilepsia/
+      \endverb
+      \verb{url}
+      \verb https://humanagt.org/epilepsia/
+      \endverb
+    \endentry
+    \entry{camila_2022}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=0ed573435414ea5f3af3b127357c0691}{%
+           family={Lemus},
+           familyi={L\bibinitperiod},
+           given={Camila},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Del Valle de Guatemala}%
+      }
+      \strng{namehash}{0ed573435414ea5f3af3b127357c0691}
+      \strng{fullhash}{0ed573435414ea5f3af3b127357c0691}
+      \strng{bibnamehash}{0ed573435414ea5f3af3b127357c0691}
+      \strng{authorbibnamehash}{0ed573435414ea5f3af3b127357c0691}
+      \strng{authornamehash}{0ed573435414ea5f3af3b127357c0691}
+      \strng{authorfullhash}{0ed573435414ea5f3af3b127357c0691}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Tesis de licenciatura}
+      \field{title}{Análisis y anotación de señales bioeléctricas de pacientes con epilepsia utilizando técnicas de aprendizaje automático supervisado y no supervisado}
+      \field{year}{2022}
+    \endentry
+    \entry{María_ang_2020}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=7f2c1dc245ceb5cefc7941682db7c0e8}{%
+           family={Angulo},
+           familyi={A\bibinitperiod},
+           given={María\bibnamedelima Jesús},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Del Valle de Guatemala}%
+      }
+      \strng{namehash}{7f2c1dc245ceb5cefc7941682db7c0e8}
+      \strng{fullhash}{7f2c1dc245ceb5cefc7941682db7c0e8}
+      \strng{bibnamehash}{7f2c1dc245ceb5cefc7941682db7c0e8}
+      \strng{authorbibnamehash}{7f2c1dc245ceb5cefc7941682db7c0e8}
+      \strng{authornamehash}{7f2c1dc245ceb5cefc7941682db7c0e8}
+      \strng{authorfullhash}{7f2c1dc245ceb5cefc7941682db7c0e8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Tesis de licenciatura}
+      \field{title}{Análisis y Reconocimiento de Patrones de Señales Biomédicas de Pacientes con Epilepsia}
+      \field{year}{2020}
+    \endentry
+    \entry{david_2022}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=e18ae73a9c5cd2ab9c9e65dc650d6095}{%
+           family={Vela},
+           familyi={V\bibinitperiod},
+           given={David\bibnamedelima Alejandro},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Del Valle de Guatemala}%
+      }
+      \strng{namehash}{e18ae73a9c5cd2ab9c9e65dc650d6095}
+      \strng{fullhash}{e18ae73a9c5cd2ab9c9e65dc650d6095}
+      \strng{bibnamehash}{e18ae73a9c5cd2ab9c9e65dc650d6095}
+      \strng{authorbibnamehash}{e18ae73a9c5cd2ab9c9e65dc650d6095}
+      \strng{authornamehash}{e18ae73a9c5cd2ab9c9e65dc650d6095}
+      \strng{authorfullhash}{e18ae73a9c5cd2ab9c9e65dc650d6095}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Tesis de licenciatura}
+      \field{title}{Automatización del Proceso de Anotación de Señales EEG de Pacientes con Epilepsia por Medio de Técnicas de Aprendizaje Automático}
+      \field{year}{2021}
+    \endentry
+    \entry{mendizabal1996prevalence}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ef1856159357c173a3161d63c9a093d2}{%
+           family={Mendizabal},
+           familyi={M\bibinitperiod},
+           given={Jorge\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=c1ffc1c2ede4a3a43110ba42fe22d9be}{%
+           family={Salguero},
+           familyi={S\bibinitperiod},
+           given={Luis\bibnamedelima F},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{5648a67599c6c663ac754960cf9d316b}
+      \strng{fullhash}{5648a67599c6c663ac754960cf9d316b}
+      \strng{bibnamehash}{5648a67599c6c663ac754960cf9d316b}
+      \strng{authorbibnamehash}{5648a67599c6c663ac754960cf9d316b}
+      \strng{authornamehash}{5648a67599c6c663ac754960cf9d316b}
+      \strng{authorfullhash}{5648a67599c6c663ac754960cf9d316b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Epilepsia}
+      \field{number}{4}
+      \field{title}{Prevalence of epilepsy in a rural community of Guatemala}
+      \field{volume}{37}
+      \field{year}{1996}
+      \field{pages}{373\bibrangedash 376}
+      \range{pages}{4}
+    \endentry
+    \entry{rouhiainen2018inteligencia}{article}{}
+      \name{author}{1}{}{%
+        {{hash=34c0c0ed4b6e30e421d55908eacc6276}{%
+           family={Rouhiainen},
+           familyi={R\bibinitperiod},
+           given={Lasse},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{34c0c0ed4b6e30e421d55908eacc6276}
+      \strng{fullhash}{34c0c0ed4b6e30e421d55908eacc6276}
+      \strng{bibnamehash}{34c0c0ed4b6e30e421d55908eacc6276}
+      \strng{authorbibnamehash}{34c0c0ed4b6e30e421d55908eacc6276}
+      \strng{authornamehash}{34c0c0ed4b6e30e421d55908eacc6276}
+      \strng{authorfullhash}{34c0c0ed4b6e30e421d55908eacc6276}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Madrid: Alienta Editorial}
+      \field{title}{Inteligencia artificial}
+      \field{year}{2018}
+    \endentry
+    \entry{felix2002data}{article}{}
+      \name{author}{2}{}{%
+        {{hash=579652c6c9f12e568e5319c9ec52afac}{%
+           family={Félix},
+           familyi={F\bibinitperiod},
+           given={Molina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2853f8bb5c52d472b3c4b6fd38c9a6f8}{%
+           family={Carlos},
+           familyi={C\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{17c5ec6e4540cf3ccee9e4e07e01d334}
+      \strng{fullhash}{17c5ec6e4540cf3ccee9e4e07e01d334}
+      \strng{bibnamehash}{17c5ec6e4540cf3ccee9e4e07e01d334}
+      \strng{authorbibnamehash}{17c5ec6e4540cf3ccee9e4e07e01d334}
+      \strng{authornamehash}{17c5ec6e4540cf3ccee9e4e07e01d334}
+      \strng{authorfullhash}{17c5ec6e4540cf3ccee9e4e07e01d334}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Coordinador del programa de Data mining}
+      \field{title}{Data mining: torturando a los datos hasta que confiesen}
+      \field{year}{2002}
+    \endentry
+    \entry{wyllie2006treatment}{book}{}
+      \name{author}{3}{}{%
+        {{hash=937e089c21370d546070df953abd10f0}{%
+           family={Wyllie},
+           familyi={W\bibinitperiod},
+           given={Elaine},
+           giveni={E\bibinitperiod}}}%
+        {{hash=21e2224e95c37c6b0f339fe57b514a62}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Ajay},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5340c080ca43f94566a83aa725432421}{%
+           family={Lachhwani},
+           familyi={L\bibinitperiod},
+           given={Deepak\bibnamedelima K},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Lippincott Williams \& Wilkins}%
+      }
+      \strng{namehash}{bf513c84aafaf16aed2a454e0c79fc9c}
+      \strng{fullhash}{bf513c84aafaf16aed2a454e0c79fc9c}
+      \strng{bibnamehash}{bf513c84aafaf16aed2a454e0c79fc9c}
+      \strng{authorbibnamehash}{bf513c84aafaf16aed2a454e0c79fc9c}
+      \strng{authornamehash}{bf513c84aafaf16aed2a454e0c79fc9c}
+      \strng{authorfullhash}{bf513c84aafaf16aed2a454e0c79fc9c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The treatment of epilepsy: principles \& practice}
+      \field{year}{2006}
+    \endentry
+    \entry{garcia2011feen}{article}{}
+      \name{author}{5}{}{%
+        {{hash=1c9837da856f588afe617730b0ba6d84}{%
+           family={García-Ramos},
+           familyi={G\bibinithyphendelim R\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=12a9c1cb5e69291709e0acc170e89bba}{%
+           family={Pastor},
+           familyi={P\bibinitperiod},
+           given={A\bibnamedelima García},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=5cabd97708a64e1b311fc1fb93d829d5}{%
+           family={Masjuan},
+           familyi={M\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4380d22922adc3a4adbe59a22b30d9d2}{%
+           family={Sánchez},
+           familyi={S\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=63cd63e0563d8e5a4a9b3f5bc0e864ad}{%
+           family={Gil},
+           familyi={G\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e1c912e8dcd9c6c29d45a2a084ba8a01}
+      \strng{fullhash}{03ecb77e2a6298070d5e7632f83b0f83}
+      \strng{bibnamehash}{03ecb77e2a6298070d5e7632f83b0f83}
+      \strng{authorbibnamehash}{03ecb77e2a6298070d5e7632f83b0f83}
+      \strng{authornamehash}{e1c912e8dcd9c6c29d45a2a084ba8a01}
+      \strng{authorfullhash}{03ecb77e2a6298070d5e7632f83b0f83}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neurología}
+      \field{number}{9}
+      \field{title}{FEEN: Informe sociosantario FEEN sobre la epilepsia en España}
+      \field{volume}{26}
+      \field{year}{2011}
+      \field{pages}{548\bibrangedash 555}
+      \range{pages}{8}
+    \endentry
+    \entry{Clasificacion_ictal_imag}{misc}{}
+      \name{author}{6}{}{%
+        {{hash=bf0da4cc0257c6d4772c0a57ba754c6d}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={Robert\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=4a50db95d572b48ea242b20d3e1e125b}{%
+           family={Cros},
+           familyi={C\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod}}}%
+        {{hash=b6b0d07596a2cd25b3a15b72d8e1d43c}{%
+           family={French},
+           familyi={F\bibinitperiod},
+           given={Jacqueline\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=272d950b563c4abf060a000b3abe1f02}{%
+           family={Higurashi},
+           familyi={H\bibinitperiod},
+           given={Norimichi},
+           giveni={N\bibinitperiod}}}%
+        {{hash=e97aaedea70ac5358415f6d7d8cda25b}{%
+           family={Hirch},
+           familyi={H\bibinitperiod},
+           given={Edouard},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f80b9ede85fb4f9fffe68a1057fc795a}{%
+           family={Jansen},
+           familyi={J\bibinitperiod},
+           given={Floor\bibnamedelima E.},
+           giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{c8d9c3b28d82dbc67f5e29b8681ff3a9}
+      \strng{fullhash}{1d71946ee4c6b374c29d3a5b3428691a}
+      \strng{bibnamehash}{1d71946ee4c6b374c29d3a5b3428691a}
+      \strng{authorbibnamehash}{1d71946ee4c6b374c29d3a5b3428691a}
+      \strng{authornamehash}{c8d9c3b28d82dbc67f5e29b8681ff3a9}
+      \strng{authorfullhash}{1d71946ee4c6b374c29d3a5b3428691a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{La Liga Internacional contra la Epilepsia}
+      \field{title}{Clasificación operacional de los tipos de crisis por la Liga Internacional contra la Epilepsia: Documento - Posición de la Comisión para Clasificación y Terminología de la ILAE}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://www.ilae.org/files/ilaeGuideline/Spanish-Traduccion-Fisher-Seizure-types.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ilae.org/files/ilaeGuideline/Spanish-Traduccion-Fisher-Seizure-types.pdf
+      \endverb
+    \endentry
+    \entry{señales_unam}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=c1ffe189c3afbf2f235adf14ab7ce79b}{%
+           family={Tinoco},
+           familyi={T\bibinitperiod},
+           given={Dr.\bibnamedelimi David},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=c99af9b055dd6a31129e0f869077ffe3}{%
+           family={Gudiño},
+           familyi={G\bibinitperiod},
+           given={Dr.\bibnamedelimi Fernando},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Nacional Autónoma de México}%
+      }
+      \strng{namehash}{c8bf0831ac259e3f41a6ea9c747b6eee}
+      \strng{fullhash}{c8bf0831ac259e3f41a6ea9c747b6eee}
+      \strng{bibnamehash}{c8bf0831ac259e3f41a6ea9c747b6eee}
+      \strng{authorbibnamehash}{c8bf0831ac259e3f41a6ea9c747b6eee}
+      \strng{authornamehash}{c8bf0831ac259e3f41a6ea9c747b6eee}
+      \strng{authorfullhash}{c8bf0831ac259e3f41a6ea9c747b6eee}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{acervo para el mejoramiento del aprendizaje de alumnos de ingeniera en Inteligencia Artificial}
+      \field{title}{Redes neuronales en la Caracterización de Señales bioeléctricas}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://virtual.cuautitlan.unam.mx/intar/?page_id=977
+      \endverb
+      \verb{url}
+      \verb https://virtual.cuautitlan.unam.mx/intar/?page_id=977
+      \endverb
+    \endentry
+    \entry{manipula_arm_eeg}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=ce288d08dda493cd12e99faf67700375}{%
+           family={Elizondo},
+           familyi={E\bibinitperiod},
+           given={Esqueda},
+           giveni={E\bibinitperiod}}}%
+        {{hash=fcb4d8f7ae0728ec8f47fb7b7ad07064}{%
+           family={Manzo},
+           familyi={M\bibinitperiod},
+           given={Hernández},
+           giveni={H\bibinitperiod}}}%
+        {{hash=be58be9078309a669d7461a83389d3b8}{%
+           family={Bermudez},
+           familyi={B\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=2eb867905fbc4d5b1f7fa2691ff84e4c}{%
+           family={Jiménez},
+           familyi={J\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{929f7dc0d4bb39abaeacf4b1d0500cbb}
+      \strng{fullhash}{840485b699ef09a5df98d9ed828001bf}
+      \strng{bibnamehash}{840485b699ef09a5df98d9ed828001bf}
+      \strng{authorbibnamehash}{840485b699ef09a5df98d9ed828001bf}
+      \strng{authornamehash}{929f7dc0d4bb39abaeacf4b1d0500cbb}
+      \strng{authorfullhash}{840485b699ef09a5df98d9ed828001bf}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Manipulación de un brazo robótico mediante señales electroencefalográficas}
+      \field{title}{Manipulación de un brazo robótico mediante señales electroencefalográficas}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.ecorfan.org/bolivia/researchjournals/Tecnologia_e_innovacion/vol3num7/Revista_de_Tecnologia_e_Innovaci\%C3\%B3n_V3_N7.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ecorfan.org/bolivia/researchjournals/Tecnologia_e_innovacion/vol3num7/Revista_de_Tecnologia_e_Innovaci%5C%C3%5C%B3n_V3_N7.pdf
+      \endverb
+    \endentry
+    \entry{Libro_SP_cocoro_neuro_app}{book}{}
+      \name{author}{2}{}{%
+        {{hash=2d7e06658293153871306d7fae9031db}{%
+           family={Sörnmo},
+           familyi={S\bibinitperiod},
+           given={Leif},
+           giveni={L\bibinitperiod}}}%
+        {{hash=db8e12fb065afb65edba230e1adec850}{%
+           family={Laguna},
+           familyi={L\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic press}%
+      }
+      \strng{namehash}{57540f061ee8c9c5c2738b519addf476}
+      \strng{fullhash}{57540f061ee8c9c5c2738b519addf476}
+      \strng{bibnamehash}{57540f061ee8c9c5c2738b519addf476}
+      \strng{authorbibnamehash}{57540f061ee8c9c5c2738b519addf476}
+      \strng{authornamehash}{57540f061ee8c9c5c2738b519addf476}
+      \strng{authorfullhash}{57540f061ee8c9c5c2738b519addf476}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bioelectrical signal processing in cardiac and neurological applications}
+      \field{volume}{8}
+      \field{year}{2005}
+    \endentry
+    \entry{Vallat_2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6dd66e0c58b46bf576913080c48dc83d}{%
+           family={Vallat},
+           familyi={V\bibinitperiod},
+           given={PhD.\bibnamedelimi Raphael},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{6dd66e0c58b46bf576913080c48dc83d}
+      \strng{fullhash}{6dd66e0c58b46bf576913080c48dc83d}
+      \strng{bibnamehash}{6dd66e0c58b46bf576913080c48dc83d}
+      \strng{authorbibnamehash}{6dd66e0c58b46bf576913080c48dc83d}
+      \strng{authornamehash}{6dd66e0c58b46bf576913080c48dc83d}
+      \strng{authorfullhash}{6dd66e0c58b46bf576913080c48dc83d}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bandpower of an EEG signal}
+      \field{title}{Compute the average bandpower of an EEG signal}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://raphaelvallat.com/bandpower.html
+      \endverb
+      \verb{url}
+      \verb https://raphaelvallat.com/bandpower.html
+      \endverb
+    \endentry
+    \entry{emg_def}{article}{}
+      \name{author}{3}{}{%
+        {{hash=68114dddee90fd1284201e8cd4969b58}{%
+           family={Phinyomark},
+           familyi={P\bibinitperiod},
+           given={Angkoon},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5bf6748ddba5b8bbd829c6b13054ebf0}{%
+           family={Limsakul},
+           familyi={L\bibinitperiod},
+           given={Chusak},
+           giveni={C\bibinitperiod}}}%
+        {{hash=81476796849d292f1e96e3411d0213e7}{%
+           family={Phukpattaranont},
+           familyi={P\bibinitperiod},
+           given={Pornchai},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter Poland}%
+      }
+      \strng{namehash}{438404cf5b3d5b35b5d5a2b82ffe2fe6}
+      \strng{fullhash}{438404cf5b3d5b35b5d5a2b82ffe2fe6}
+      \strng{bibnamehash}{438404cf5b3d5b35b5d5a2b82ffe2fe6}
+      \strng{authorbibnamehash}{438404cf5b3d5b35b5d5a2b82ffe2fe6}
+      \strng{authornamehash}{438404cf5b3d5b35b5d5a2b82ffe2fe6}
+      \strng{authorfullhash}{438404cf5b3d5b35b5d5a2b82ffe2fe6}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Measurement Science Review}
+      \field{number}{2}
+      \field{title}{Application of wavelet analysis in EMG feature extraction for pattern classification}
+      \field{volume}{11}
+      \field{year}{2011}
+      \field{pages}{45}
+      \range{pages}{1}
+    \endentry
+    \entry{ecg_def}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2d7e06658293153871306d7fae9031db}{%
+           family={Sörnmo},
+           familyi={S\bibinitperiod},
+           given={Leif},
+           giveni={L\bibinitperiod}}}%
+        {{hash=db8e12fb065afb65edba230e1adec850}{%
+           family={Laguna},
+           familyi={L\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons, Inc. Hoboken, NJ, USA}%
+      }
+      \strng{namehash}{57540f061ee8c9c5c2738b519addf476}
+      \strng{fullhash}{57540f061ee8c9c5c2738b519addf476}
+      \strng{bibnamehash}{57540f061ee8c9c5c2738b519addf476}
+      \strng{authorbibnamehash}{57540f061ee8c9c5c2738b519addf476}
+      \strng{authornamehash}{57540f061ee8c9c5c2738b519addf476}
+      \strng{authorfullhash}{57540f061ee8c9c5c2738b519addf476}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wiley encyclopedia of biomedical engineering}
+      \field{title}{Electrocardiogram (ECG) signal processing}
+      \field{year}{2006}
+    \endentry
+    \entry{zavala2017descripcion}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c4045b8eb2ceee22c5182f59f2ee060f}{%
+           family={Zavala-Villeda},
+           familyi={Z\bibinithyphendelim V\bibinitperiod},
+           given={José\bibnamedelima Alfredo},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Medigraphic}%
+      }
+      \strng{namehash}{c4045b8eb2ceee22c5182f59f2ee060f}
+      \strng{fullhash}{c4045b8eb2ceee22c5182f59f2ee060f}
+      \strng{bibnamehash}{c4045b8eb2ceee22c5182f59f2ee060f}
+      \strng{authorbibnamehash}{c4045b8eb2ceee22c5182f59f2ee060f}
+      \strng{authornamehash}{c4045b8eb2ceee22c5182f59f2ee060f}
+      \strng{authorfullhash}{c4045b8eb2ceee22c5182f59f2ee060f}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista mexicana de anestesiología}
+      \field{number}{S1}
+      \field{title}{Descripción del electrocardiograma normal y lectura del electrocardiograma}
+      \field{volume}{40}
+      \field{year}{2017}
+      \field{pages}{210\bibrangedash 213}
+      \range{pages}{4}
+    \endentry
+    \entry{carac_time}{article}{}
+      \name{author}{4}{}{%
+        {{hash=63a6cd018d735e3fce7b756aa6ff286f}{%
+           family={Boonyakitanont},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=9f8adfeaca36bd9da8a65b8865a36728}{%
+           family={Lek-uthai},
+           familyi={L\bibinithyphendelim u\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1a40a768fe1f1e3a3fbc1dd881de3fbd}{%
+           family={Chomtho},
+           familyi={C\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a60bd8f38891d2fec7fafd9a249ca61e}{%
+           family={Songsiri},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f2b14ee824cc5c670dfe9ec00e81e5b}
+      \strng{fullhash}{ad5999e7fa0783334211794418938982}
+      \strng{bibnamehash}{ad5999e7fa0783334211794418938982}
+      \strng{authorbibnamehash}{ad5999e7fa0783334211794418938982}
+      \strng{authornamehash}{6f2b14ee824cc5c670dfe9ec00e81e5b}
+      \strng{authorfullhash}{ad5999e7fa0783334211794418938982}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{eess.SP}
+      \field{eprinttype}{arXiv}
+      \field{title}{A review of feature extraction and performance evaluation in epileptic seizure detection using EEG}
+      \field{year}{2019}
+      \verb{eprint}
+      \verb 1908.00492
+      \endverb
+    \endentry
+    \entry{carac_freq}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e4e6e81ffbfa5824ddd10f9d786cf1ad}{%
+           family={Stancin},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=f250d2ae4cd92576fe77111a7606f5e3}{%
+           family={Cifrek},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e95688227c4f060548a0e2a6208eacfc}{%
+           family={Jovic},
+           familyi={J\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{2f556c1bbc5097951e642ab76d495f9b}
+      \strng{fullhash}{2f556c1bbc5097951e642ab76d495f9b}
+      \strng{bibnamehash}{2f556c1bbc5097951e642ab76d495f9b}
+      \strng{authorbibnamehash}{2f556c1bbc5097951e642ab76d495f9b}
+      \strng{authornamehash}{2f556c1bbc5097951e642ab76d495f9b}
+      \strng{authorfullhash}{2f556c1bbc5097951e642ab76d495f9b}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors (Basel)}
+      \field{number}{11}
+      \field{title}{A Review of EEG Signal Features and their Application in Driver Drowsiness Detection Systems}
+      \field{volume}{21}
+      \field{year}{2021}
+    \endentry
+    \entry{al2014methods}{article}{}
+      \name{author}{2}{}{%
+        {{hash=bbf5e06e325af14926326eae85a37492}{%
+           family={Al-Fahoum},
+           familyi={A\bibinithyphendelim F\bibinitperiod},
+           given={Amjed\bibnamedelima S},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=6e78dbdaf16951a25e78d2dade5fb22a}{%
+           family={Al-Fraihat},
+           familyi={A\bibinithyphendelim F\bibinitperiod},
+           given={Ausilah\bibnamedelima A},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Hindawi}%
+      }
+      \strng{namehash}{817f5bb989ff3d51b1e3ced69b9dc666}
+      \strng{fullhash}{817f5bb989ff3d51b1e3ced69b9dc666}
+      \strng{bibnamehash}{817f5bb989ff3d51b1e3ced69b9dc666}
+      \strng{authorbibnamehash}{817f5bb989ff3d51b1e3ced69b9dc666}
+      \strng{authornamehash}{817f5bb989ff3d51b1e3ced69b9dc666}
+      \strng{authorfullhash}{817f5bb989ff3d51b1e3ced69b9dc666}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Scholarly Research Notices}
+      \field{title}{Methods of EEG signal features extraction using linear analysis in frequency and time-frequency domains}
+      \field{volume}{2014}
+      \field{year}{2014}
+    \endentry
+    \entry{G-Cloud_2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bfff9a4d044d9659b62eeca5735b2b73}{%
+           family={G-Cloud},
+           familyi={G\bibinithyphendelim C\bibinitperiod},
+           given={Google},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Google}%
+      }
+      \strng{namehash}{bfff9a4d044d9659b62eeca5735b2b73}
+      \strng{fullhash}{bfff9a4d044d9659b62eeca5735b2b73}
+      \strng{bibnamehash}{bfff9a4d044d9659b62eeca5735b2b73}
+      \strng{authorbibnamehash}{bfff9a4d044d9659b62eeca5735b2b73}
+      \strng{authornamehash}{bfff9a4d044d9659b62eeca5735b2b73}
+      \strng{authorfullhash}{bfff9a4d044d9659b62eeca5735b2b73}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Google}
+      \field{title}{¿Qué es el aprendizaje automático?}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://cloud.google.com/learn/what-is-machine-learning?hl=es-419#:~:text=Descargar\%20la\%20gu\%C3\%ADa-,Definici\%C3\%B3n\%20de\%20aprendizaje\%20autom\%C3\%A1tico,de\%20grandes\%20cantidades\%20de\%20datos.
+      \endverb
+      \verb{url}
+      \verb https://cloud.google.com/learn/what-is-machine-learning?hl=es-419#:~:text=Descargar%5C%20la%5C%20gu%5C%C3%5C%ADa-,Definici%5C%C3%5C%B3n%5C%20de%5C%20aprendizaje%5C%20autom%5C%C3%5C%A1tico,de%5C%20grandes%5C%20cantidades%5C%20de%5C%20datos.
+      \endverb
+    \endentry
+    \entry{nguyen2015aprendizaje}{article}{}
+      \name{author}{3}{}{%
+        {{hash=72533ff94a169de8d1fb54ee9e07f8b6}{%
+           family={Nguyen\bibnamedelima Cong},
+           familyi={N\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Bac},
+           giveni={B\bibinitperiod}}}%
+        {{hash=20228d72d1da1042e433af1d0d83e580}{%
+           family={Rivero\bibnamedelima Pérez},
+           familyi={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Jorge\bibnamedelima Luis},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=c77ed64a3f442ad44353913bd3ef7d1f}{%
+           family={Morell},
+           familyi={M\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad de las Ciencias Informáticas}%
+      }
+      \strng{namehash}{ac0a6cc8fbed3ec7b20c3f05296d934c}
+      \strng{fullhash}{ac0a6cc8fbed3ec7b20c3f05296d934c}
+      \strng{bibnamehash}{ac0a6cc8fbed3ec7b20c3f05296d934c}
+      \strng{authorbibnamehash}{ac0a6cc8fbed3ec7b20c3f05296d934c}
+      \strng{authornamehash}{ac0a6cc8fbed3ec7b20c3f05296d934c}
+      \strng{authorfullhash}{ac0a6cc8fbed3ec7b20c3f05296d934c}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Cubana de Ciencias Informáticas}
+      \field{number}{2}
+      \field{title}{Aprendizaje supervisado de funciones de distancia: estado del arte}
+      \field{volume}{9}
+      \field{year}{2015}
+      \field{pages}{14\bibrangedash 28}
+      \range{pages}{15}
+    \endentry
+    \entry{tello2007reconocimiento}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3bb7236c3df308a42a3936cf93a53232}{%
+           family={Tello},
+           familyi={T\bibinitperiod},
+           given={Jesús\bibnamedelima Cáceres},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=b8dce8a134017b198484e2b24b704226}{%
+           family={Informáticos},
+           familyi={I\bibinitperiod},
+           given={Servicios},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{0a846d3390e62caabe1fb2e67910c1b1}
+      \strng{fullhash}{0a846d3390e62caabe1fb2e67910c1b1}
+      \strng{bibnamehash}{0a846d3390e62caabe1fb2e67910c1b1}
+      \strng{authorbibnamehash}{0a846d3390e62caabe1fb2e67910c1b1}
+      \strng{authornamehash}{0a846d3390e62caabe1fb2e67910c1b1}
+      \strng{authorfullhash}{0a846d3390e62caabe1fb2e67910c1b1}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Universidad de Alcalá, Madrid}
+      \field{title}{Reconocimiento de patrones y el aprendizaje no supervisado}
+      \field{year}{2007}
+    \endentry
+    \entry{BIOPAC}{misc}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BIOPAC Systems, Inc.}
+      \field{title}{Data Acquisition, Loggers, Amplifiers, Transducers, Electrodes | BIOPAC}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.biopac.com/
+      \endverb
+      \verb{url}
+      \verb https://www.biopac.com/
+      \endverb
+    \endentry
+    \entry{magy_2023}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=8dbf6ee8198e49f76fe59f0264cbf3f3}{%
+           family={Vela},
+           familyi={V\bibinitperiod},
+           given={Margareth},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Del Valle de Guatemala}%
+      }
+      \strng{namehash}{8dbf6ee8198e49f76fe59f0264cbf3f3}
+      \strng{fullhash}{8dbf6ee8198e49f76fe59f0264cbf3f3}
+      \strng{bibnamehash}{8dbf6ee8198e49f76fe59f0264cbf3f3}
+      \strng{authorbibnamehash}{8dbf6ee8198e49f76fe59f0264cbf3f3}
+      \strng{authornamehash}{8dbf6ee8198e49f76fe59f0264cbf3f3}
+      \strng{authorfullhash}{8dbf6ee8198e49f76fe59f0264cbf3f3}
+      \field{extraname}{2}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Tesis de licenciatura, trabajo en progreso}
+      \field{title}{Análisis cualitativo y cuantitativo del impacto de los pulsos binaurales en el estado de ánimo, concentración y calidad del sueño de las personas}
+      \field{year}{2023}
+    \endentry
+    \entry{oscar_2023}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=4cc26616a7381170c561bb7326d6174f}{%
+           family={Fuentes},
+           familyi={F\bibinitperiod},
+           given={Oscar},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Del Valle de Guatemala}%
+      }
+      \strng{namehash}{4cc26616a7381170c561bb7326d6174f}
+      \strng{fullhash}{4cc26616a7381170c561bb7326d6174f}
+      \strng{bibnamehash}{4cc26616a7381170c561bb7326d6174f}
+      \strng{authorbibnamehash}{4cc26616a7381170c561bb7326d6174f}
+      \strng{authornamehash}{4cc26616a7381170c561bb7326d6174f}
+      \strng{authorfullhash}{4cc26616a7381170c561bb7326d6174f}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Tesis de licenciatura, trabajo en progreso}
+      \field{title}{Aplicación de técnicas de aprendizaje automático y reconocimiento de patrones a señales bioeléctricas para el estudio del impacto de los pulsos binaurales en el estado ánimo, concentración y calidad de sueño de las personas}
+      \field{year}{2023}
+    \endentry
+    \entry{diego_2023}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=dac7f66a8e1f95f6281ff56c42f4a5cc}{%
+           family={Mendez},
+           familyi={M\bibinitperiod},
+           given={Diego},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Del Valle de Guatemala}%
+      }
+      \strng{namehash}{dac7f66a8e1f95f6281ff56c42f4a5cc}
+      \strng{fullhash}{dac7f66a8e1f95f6281ff56c42f4a5cc}
+      \strng{bibnamehash}{dac7f66a8e1f95f6281ff56c42f4a5cc}
+      \strng{authorbibnamehash}{dac7f66a8e1f95f6281ff56c42f4a5cc}
+      \strng{authornamehash}{dac7f66a8e1f95f6281ff56c42f4a5cc}
+      \strng{authorfullhash}{dac7f66a8e1f95f6281ff56c42f4a5cc}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Tesis de licenciatura, trabajo en progreso}
+      \field{title}{Extensión, validación y migración de una herramienta de software para el estudio de la epilepsia para su uso en el Centro de Epilepsia y Neurocirugía Funcional (HUMANA)}
+      \field{year}{2023}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
