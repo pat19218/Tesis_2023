@@ -399,7 +399,7 @@ Los clasificadores empleados para esta etapa mediante aprendizaje supervisado fu
 
 Las SVM presentaron una mejor clasificación de los segmentos de las  señales bioeléctricas, como se puede observar en las Figuras~\ref{fig: Matriz confusion svm wavelets}, \ref{fig: Matriz confusion svm time} y  \ref{fig: Matriz confusion svm freq}. Estando por encima de un 85\% de exactitud. Presentando que las características de mejor comportamiento para clasificación son las  ``wavelets'' seguidas de las características de ``tiempo continuo'' y por ultimo las características de ``frecuencia''.
 
-Las RNA por su parte, también produjeron resultados positivos con ligera diferencia respecto a las SVM, como se puede observar en las Figuras~\ref{fig: Matriz confusion RNA wavelet}, \ref{fig: Matriz confusion RNA tiempo} y \ref{fig: Matriz confusion RNA freq}. Las cuales también se encuentran por encima del 85\% de exactitud. Se percibe nuevamente que las mejores características para la clasificación de señales bioeléctricas son ``wavelets'', en cuanto a las  características de ``tiempo continuo'' se nota una perdida del 0.4\% de exactitud respecto a la clasificación por SVM y una perdida del 0.2\% de exactitud empleando las características de ``frecuencia'' respecto a la clasificación por SVM
+Las RNA por su parte, también produjeron resultados positivos con ligera diferencia respecto a las SVM, como se puede observar en las Figuras~\ref{fig: Matriz confusion RNA wavelet}, \ref{fig: Matriz confusion RNA tiempo} y \ref{fig: Matriz confusion RNA freq}. Las cuales también se encuentran por encima del 85\% de exactitud. Se percibe nuevamente que las mejores características para la clasificación de señales bioeléctricas son ``wavelets'', en cuanto a las  características de ``tiempo continuo'' se nota una perdida del 0.4\% de exactitud respecto a la clasificación por SVM y una perdida del 0.2\% de exactitud empleando las características de ``frecuencia'' respecto a la clasificación por SVM.
 
 \begin{figure}[H]
     \centering
@@ -464,7 +464,8 @@ Por lo que nuevamente las características ``wavelets'' son las que presentan me
 \end{table}
 
 \chapter{Análisis de grupos}
-El análisis de grupos (\textit{clustering}) desempeña un papel fundamental en la investigación, ya que permite explorar la estructura subyacente de las señales bioeléctricas recopiladas. En este capítulo, se presentan los resultados del uso de algoritmos de agrupamiento, en particular el método de K-means, aplicados a las señales bioeléctricas en diferentes dominios: tiempo, frecuencia y wavelets.
+El análisis de grupos (\textit{clustering}) desempeña un papel fundamental en la investigación, ya que permite explorar la estructura subyacente de las señales bioeléctricas recopiladas. En este capítulo, se presentan los resultados del uso de algoritmos de agrupamiento, en particular el método de K-means, aplicados a las señales bioeléctricas en diferentes dominios: tiempo, frecuencia y wavelets. Cabe mencionar que los datos utilizados son el resultado de una época de 0.4 segundos, por lo que la densidad de muestras cambiara según la frecuencia con la que se haya grabado la señal bioeléctrica para las clases ictal, sano, preictal e interictal.
+%revisar app "generacionesalgoritmo.mlapp" linea 323, variable "app.s_ventana"
 
 La agrupación de señales bioeléctricas es esencial para identificar patrones, tendencias y características comunes en los datos. Al aplicar K-means en distintos dominios, se exploran las similitudes y diferencias en la estructura de las señales, lo que permite obtener una visión más completa de los conjuntos de datos.
 
@@ -761,3 +762,13 @@ Con las actualizaciones hechas, la herramienta tiene las siguientes característ
 La presente versión de la herramienta de software para el estudio de la epilepsia concluirá siendo implementada en el trabajo de graduación de Diego Méndez titulado ``Extensión, validación y migración de una herramienta
 de software para el estudio de la epilepsia para su uso en el Centro de Epilepsia y Neurocirugía Funcional (HUMANA)''~\cite{diego_2023}. Dicha implementación permitirá obtener una herramienta de software para el estudio de la epilepsia capaz de ser ejecutada en cualquier computadora siendo amigable con el usuario, además de contar con una base de datos local.  
 
+
+\section{Herramienta para la evaluación visual de la tendencia}
+Se añadió la herramienta ``VAT: \textit{ A Tool for Visual Assessment of (Cluster) Tendency}'' como una herramienta valiosa para la evaluación visual de la tendencia de agrupación de datos en señales bioeléctricas como se observa en la Figura~\ref{fig: Vat_toolbox}. Esta herramienta desempeñó un papel esencial al proporcionar una representación visual clara de la estructura de agrupación de datos en múltiples dimensiones. Su uso se justifica en la necesidad de comprender la tendencia de agrupación en un conjunto de características que puede ser complejo y visualmente abrumador al aplicar técnicas de agrupamiento como K-means.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.6\textwidth]{figuras/39_VAT.png}
+	\caption{VAT en la herramienta de software para el estudio de la epilepsia.}
+	\label{fig: Vat_toolbox}
+\end{figure}

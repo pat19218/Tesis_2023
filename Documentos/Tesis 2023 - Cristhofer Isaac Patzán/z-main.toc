@@ -57,6 +57,7 @@
 \contentsline {section}{\numberline {10.2}Análisis de Grupos en el Dominio de Frecuencia}{43}{section.117}%
 \contentsline {section}{\numberline {10.3}Análisis de Grupos en el Dominio de Wavelets}{52}{section.139}%
 \contentsline {chapter}{\numberline {11}Actualización de la herramienta de software para el estudio de la epilepsia}{61}{chapter.161}%
-\contentsline {chapter}{\numberline {12}Conclusiones}{62}{chapter.162}%
-\contentsline {chapter}{\numberline {13}Recomendaciones}{63}{chapter.163}%
-\contentsline {chapter}{\numberline {14}Bibliograf\'{\i }a}{64}{chapter.165}%
+\contentsline {section}{\numberline {11.1}Herramienta para la evaluación visual de la tendencia}{62}{section.162}%
+\contentsline {chapter}{\numberline {12}Conclusiones}{63}{chapter.164}%
+\contentsline {chapter}{\numberline {13}Recomendaciones}{64}{chapter.165}%
+\contentsline {chapter}{\numberline {14}Bibliograf\'{\i }a}{65}{chapter.167}%
