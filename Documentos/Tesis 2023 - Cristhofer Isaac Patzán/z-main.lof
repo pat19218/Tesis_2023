@@ -32,8 +32,8 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {23}{\ignorespaces Structs generados a partir de los datos obtenidos con el equipo UVG.}}{30}{figure.caption.82}%
 \contentsline {figure}{\numberline {24}{\ignorespaces Características en el dominio del tiempo continuo.}}{30}{figure.caption.85}%
-\contentsline {figure}{\numberline {26}{\ignorespaces Características en el dominio de la frecuencia.}}{31}{figure.caption.87}%
 \contentsline {figure}{\numberline {25}{\ignorespaces Características con wavelets.}}{31}{figure.caption.86}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Características en el dominio de la frecuencia.}}{31}{figure.caption.87}%
 \contentsline {figure}{\numberline {27}{\ignorespaces Ventana de inicio para generar anotaciones automáticas.}}{32}{figure.caption.90}%
 \contentsline {figure}{\numberline {28}{\ignorespaces Anotaciones automáticas de 33 canales analizados.}}{33}{figure.caption.92}%
 \contentsline {figure}{\numberline {29}{\ignorespaces Anotaciones automáticas de 33 canales analizados con menor cantidad de EEG de personas sin actividad ictal.}}{33}{figure.caption.93}%
@@ -83,9 +83,9 @@
 \contentsline {figure}{\numberline {71}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 5 y 6 tipo wavelets de actividad ictal y no ictal.}}{60}{figure.caption.160}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {72}{\ignorespaces VAT en la herramienta de software para el estudio de la epilepsia.}}{62}{figure.caption.163}%
-\contentsline {figure}{\numberline {73}{\ignorespaces Resultado tras aplicar VAT al vector de características de 5 dimensiones en el dominio tiempo.}}{62}{figure.caption.164}%
+\contentsline {figure}{\numberline {73}{\ignorespaces Resultado tras aplicar VAT al vector de características de 5 dimensiones en el dominio tiempo.}}{63}{figure.caption.164}%
 \contentsline {figure}{\numberline {74}{\ignorespaces Resultado tras aplicar VAT al vector de características de 6 dimensiones en el dominio frecuencia.}}{63}{figure.caption.165}%
-\contentsline {figure}{\numberline {75}{\ignorespaces Resultado tras aplicar VAT al vector de características de 6 dimensiones en el dominio wavelets.}}{63}{figure.caption.166}%
+\contentsline {figure}{\numberline {75}{\ignorespaces Resultado tras aplicar VAT al vector de características de 6 dimensiones en el dominio wavelets.}}{64}{figure.caption.166}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

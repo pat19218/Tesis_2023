@@ -316,7 +316,7 @@ Posteriormente se procedió a generar los vectores de características en tiempo
 
 En cuanto a las características en el dominio de la frecuencia, la primera corrida se intento recolectar todas las características a la vez, como se puede observar en la Figura~\ref{fig: carac_freq}; pero el proceso se interrumpió al transcurrir las 6 horas y no finalizar. Por lo que se procedió a extraer las características una a la vez, obteniendo periodos de duración muy grandes en comparación a las características en el dominio del tiempo y wavelets. 
 
-\begin{figure}[t]
+\begin{figure}[H]
     \centering
     \includegraphics[width=0.4\textwidth]{figuras/28_carac_freq.png}
     \caption{Características en el dominio de la frecuencia.}
@@ -772,6 +772,9 @@ Se añadió la herramienta ``VAT: \textit{ A Tool for Visual Assessment of (Clus
 	\caption{VAT en la herramienta de software para el estudio de la epilepsia.}
 	\label{fig: Vat_toolbox}
 \end{figure}
+
+Para la aplicación de VAT se utilizaron los vectores de características completos, mencionados en el capitulo anterior. 
+Como se puede observar en la Figura~\ref{fig: Vat_time} no es posible notar una cantidad de grupos. Lo cual implica que todos los datos independientemente de su clase (ictal o sano) están muy cerca unos de otros. Permitiendo así validar de forma visual que las características en el dominio del tiempo de las señales EEG no son las más optimas. 
 
 \begin{figure}[H]
 	\centering
