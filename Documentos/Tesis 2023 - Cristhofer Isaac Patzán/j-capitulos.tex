@@ -298,7 +298,7 @@ Para los datos recolectados se procedió a extraer sus características. Cabe me
 \end{table}
 
 Para la generación de los vectores de características se cargaron solo 2 sets de datos, los de HUMANA tienen segmentos ictales (crisis) y no ictales (no crisis).
-Posteriormente se procedió a generar los vectores de características en tiempo continuo y waveletes, con todas las características seleccionadas, como se puede ver en las Figuras~\ref{fig: carac_tiempo} y \ref{fig: carac_wavelets}. Considerando que las grabaciones de HUMANA tienen una duración mayor a 2 horas, como se observa en el Cuadro~\ref{cuadro:tabla_edf_info}, los tiempos en los que se extrajo las características fue favorable, como se puede ver en el Cuadro~\ref{cuadro:Duracion caracteristicas}. 
+Posteriormente se procedió a generar los vectores de características en tiempo continuo y wavelets, con todas las características seleccionadas, como se puede ver en las Figuras~\ref{fig: carac_tiempo} y \ref{fig: carac_wavelets}. Considerando que las grabaciones de HUMANA tienen una duración mayor a 2 horas, como se observa en el Cuadro~\ref{cuadro:tabla_edf_info}, los tiempos en los que se extrajo las características fue favorable, como se puede ver en el Cuadro~\ref{cuadro:Duracion caracteristicas}. 
 
 \begin{figure}[H]
     \centering
@@ -771,4 +771,23 @@ Se añadió la herramienta ``VAT: \textit{ A Tool for Visual Assessment of (Clus
 	\includegraphics[width=0.6\textwidth]{figuras/39_VAT.png}
 	\caption{VAT en la herramienta de software para el estudio de la epilepsia.}
 	\label{fig: Vat_toolbox}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.6\textwidth]{figuras/vat_edf_n_Uban15_time.eps}
+	\caption{Resultado tras aplicar VAT al vector de características de 5 dimensiones en el dominio tiempo.}
+	\label{fig: Vat_time}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.6\textwidth]{figuras/vat_edf_n_Uban15_freq.eps}
+	\caption{Resultado tras aplicar VAT al vector de características de 6 dimensiones en el dominio frecuencia.}
+	\label{fig: Vat_freq}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.6\textwidth]{figuras/vat_edf_n_Uban15_wavelet.eps}
+	\caption{Resultado tras aplicar VAT al vector de características de 6 dimensiones en el dominio wavelets.}
+	\label{fig: Vat_wavelet}
 \end{figure}

@@ -83,6 +83,9 @@
 \contentsline {figure}{\numberline {71}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 5 y 6 tipo wavelets de actividad ictal y no ictal.}}{60}{figure.caption.160}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {72}{\ignorespaces VAT en la herramienta de software para el estudio de la epilepsia.}}{62}{figure.caption.163}%
+\contentsline {figure}{\numberline {73}{\ignorespaces Resultado tras aplicar VAT al vector de características de 5 dimensiones en el dominio tiempo.}}{62}{figure.caption.164}%
+\contentsline {figure}{\numberline {74}{\ignorespaces Resultado tras aplicar VAT al vector de características de 6 dimensiones en el dominio frecuencia.}}{63}{figure.caption.165}%
+\contentsline {figure}{\numberline {75}{\ignorespaces Resultado tras aplicar VAT al vector de características de 6 dimensiones en el dominio wavelets.}}{63}{figure.caption.166}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
