@@ -774,7 +774,14 @@ Se añadió la herramienta ``VAT: \textit{ A Tool for Visual Assessment of (Clus
 \end{figure}
 
 Para la aplicación de VAT se utilizaron los vectores de características completos, mencionados en el capitulo anterior. 
-Como se puede observar en la Figura~\ref{fig: Vat_time} no es posible notar una cantidad de grupos. Lo cual implica que todos los datos independientemente de su clase (ictal o sano) están muy cerca unos de otros. Permitiendo así validar de forma visual que las características en el dominio del tiempo de las señales EEG no son las más optimas. 
+Como se puede observar en la Figura~\ref{fig: Vat_time} no es posible determinar una cantidad de grupos para las características en el dominio del tiempo. Lo cual implica que todos los datos independientemente de su clase (ictal o sano) están muy cerca unos de otros. Permitiendo así validar de forma visual que las características en el dominio del tiempo de las señales EEG no son las más optimas. 
+
+En el caso de las características en el dominio de la frecuencia, revelaron ser más discriminatorias como se puede observar en la Figura~\ref{fig: Vat_freq}. Se perciben varias subgrupos los cuales pertenecen a cada tipo de característica y clase. Se puede inferir que las características en el dominio de la frecuencia presentan un mejor comportamiento para realizar predicciones correctas. En cuanto a las características wavelets, son las que mejor discriminación realizan entre clases, como se puede observar en la Figura~\ref{fig: Vat_wavelet}. Dejando bastante evidente la cantidad de clases que existen en el vector de características.
+
+En las Figuras~\ref{fig: Vat_freq} y \ref{fig: Vat_wavelet}, se puede percibir que a la fecha no se cuenta con la misma cantidad de grabaciones de personas Ictales respecto a grabaciones de personas sanas. 
+
+La aplicación de ``VAT'' permitió una evaluación efectiva de la tendencia de agrupación en los datos de señales bioeléctricas. Los resultados generados por esta herramienta se alinearon con las expectativas teóricas y ayudaron a identificar patrones de agrupación en el conjunto de datos y visualizar el ruido que se puede encontrar entre los tipos de clases. Esta validación refuerza la fiabilidad y utilidad de la herramienta ``VAT'' en el contexto de este estudio y respalda su contribución a la comprensión de la tendencia de agrupación en señales bioeléctricas.
+
 
 \begin{figure}[H]
 	\centering

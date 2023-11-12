@@ -195,5 +195,37 @@ Estas son algunas de las características del aprendizaje no supervisado:
 \subsection{Aprendizaje por refuerzo}
 El aprendizaje por refuerzo (\textit{RL}) es un tipo de aprendizaje automático en el que un agente aprende a realizar acciones en un entorno para maximizar una recompensa. El agente aprende por prueba y error, y es recompensado por realizar acciones que conducen a los resultados deseados. Por ejemplo, un agente de aprendizaje por refuerzo podría ser entrenado para jugar un juego como el ajedrez jugando contra sí mismo una y otra vez. El agente sería recompensado por ganar juegos y penalizado por perder juegos. Con el tiempo, el agente aprendería a jugar el juego de manera más y más efectiva \cite{G-Cloud_2023}.
 
+\section{Algoritmos jerárquicos}
+
+Los algoritmos jerárquicos son un tipo de algoritmo de agrupamiento que construyen una jerarquía de grupos, desde grupos pequeños hasta grupos más grandes. Estos algoritmos se utilizan comúnmente en el análisis de datos, ya que pueden proporcionar una comprensión más profunda de los datos que los algoritmos de agrupamiento no jerárquicos \cite{pascual2007algoritmos}.
+
+En los algoritmos jerárquicos, los datos se inicializan como grupos individuales. Luego, los grupos se combinan de manera iterativa, de acuerdo con un criterio de agrupación. El criterio de agrupación puede ser cualquier función que mida la similitud entre dos grupos \cite{pascual2007algoritmos}.
+
+Los algoritmos jerárquicos se pueden clasificar en dos tipos principales: algoritmos aglomerativos y algoritmos de división. Los algoritmos aglomerativos comienzan con grupos individuales y luego combinan los grupos hasta que queda un solo grupo. Los algoritmos de división comienzan con un solo grupo y luego dividen los grupos hasta que quedan grupos individuales \cite{gonzalez2010algoritmos}.
+
+Los algoritmos jerárquicos tienen una serie de ventajas sobre los algoritmos de agrupamiento no jerárquicos. En primer lugar, los algoritmos jerárquicos pueden proporcionar una comprensión más profunda de los datos, ya que muestran cómo los grupos están relacionados entre sí. En segundo lugar, los algoritmos jerárquicos son más robustos a los valores atípicos, ya que los valores atípicos pueden ser asignados a grupos individuales \cite{gonzalez2010algoritmos}.
+
+Sin embargo, los algoritmos jerárquicos también tienen algunas desventajas. En primer lugar, los algoritmos jerárquicos pueden ser más costosos computacionalmente que los algoritmos de agrupamiento no jerárquicos. En segundo lugar, los algoritmos jerárquicos pueden ser más difíciles de interpretar que los algoritmos de agrupamiento no jerárquicos \cite{pascual2007algoritmos}.
+
+\subsection{Algoritmo Chameleon}
+El algoritmo Chameleon es un método de agrupamiento jerárquico que fue diseñado para analizar y agrupar grandes conjuntos de datos de alta dimensionalidad, comúnmente utilizados en aplicaciones como minería de datos, reconocimiento de patrones, entre otros. Este algoritmo se centra en la identificación de estructuras jerárquicas complejas dentro de los datos \cite{chameleon}.
+
+Chameleon se destaca por su capacidad para lidiar con conjuntos de datos dispersos y de alta dimensionalidad, lo que lo hace útil en contextos donde los datos pueden tener múltiples atributos o características. Utiliza una medida de similitud específica que se adapta dinámicamente a la densidad y la distribución de los datos en el espacio, lo que le permite identificar clústeres de diferentes formas y tamaños \cite{chameleon}.
+
+Una de las particularidades del algoritmo Chameleon es su capacidad para ajustar dinámicamente la medida de similitud a diferentes escalas en el espacio de características, lo que le permite capturar estructuras complejas y variadas dentro de los datos \cite{chameleon}.
+
 \section{BIOPAC}
 Los dispositivos BIOPAC son una línea de productos de calidad avanzada para investigadores y educadores en ciencias de la vida. Proporcionan una forma flexible e integrada de registrar y analizar datos fisiológicos como ECG, EDA (GSR), EEG, EGG, EMG, EOG, y más de 300 otras señales y medidas fisiológicas \cite{BIOPAC}.
+
+\section{VAT}
+VAT (\textit{Visual Assessment of (Cluster) Tendency}) es un método para evaluar visualmente la tendencia a la agrupación de un conjunto de objetos. La tendencia a la agrupación se refiere al grado en que un conjunto de objetos puede dividirse de forma natural en grupos o clusters. El VAT es una herramienta útil para determinar si un algoritmo de agrupación debe aplicarse a un conjunto de datos concreto \cite{VAT}.
+
+El método VAT consta de dos pasos:
+
+\begin{itemize}
+ 	\item Reordenación de los objetos: Los objetos se reordenan de forma que los objetos similares se coloquen más cerca unos de otros.
+ 	\item Creación de una imagen de intensidad: La matriz reordenada de disimilitudes entre objetos se muestra como una imagen de intensidad. Las agrupaciones se indican mediante bloques oscuros de píxeles a lo largo de la diagonal.
+\end{itemize}
+
+El método VAT es fácil de implementar y puede aplicarse a cualquier conjunto de datos que pueda representarse como un conjunto de vectores de objetos o valores de disimilitud por pares. El método también es eficaz para identificar conglomerados en conjuntos de datos con ruido y valores atípicos \cite{VAT}.
+

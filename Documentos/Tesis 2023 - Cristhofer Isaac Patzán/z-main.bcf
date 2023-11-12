@@ -2418,11 +2418,21 @@
     <bcf:citekey order="58" intorder="1">G-Cloud_2023</bcf:citekey>
     <bcf:citekey order="59" intorder="1">tello2007reconocimiento</bcf:citekey>
     <bcf:citekey order="60" intorder="1">G-Cloud_2023</bcf:citekey>
-    <bcf:citekey order="61" intorder="1">BIOPAC</bcf:citekey>
-    <bcf:citekey order="62" intorder="1">magy_2023</bcf:citekey>
-    <bcf:citekey order="63" intorder="1">oscar_2023</bcf:citekey>
-    <bcf:citekey order="64" intorder="1">BIOPAC</bcf:citekey>
-    <bcf:citekey order="65" intorder="1">diego_2023</bcf:citekey>
+    <bcf:citekey order="61" intorder="1">pascual2007algoritmos</bcf:citekey>
+    <bcf:citekey order="62" intorder="1">pascual2007algoritmos</bcf:citekey>
+    <bcf:citekey order="63" intorder="1">gonzalez2010algoritmos</bcf:citekey>
+    <bcf:citekey order="64" intorder="1">gonzalez2010algoritmos</bcf:citekey>
+    <bcf:citekey order="65" intorder="1">pascual2007algoritmos</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">chameleon</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">chameleon</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">chameleon</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">BIOPAC</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">VAT</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">VAT</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">magy_2023</bcf:citekey>
+    <bcf:citekey order="73" intorder="1">oscar_2023</bcf:citekey>
+    <bcf:citekey order="74" intorder="1">BIOPAC</bcf:citekey>
+    <bcf:citekey order="75" intorder="1">diego_2023</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

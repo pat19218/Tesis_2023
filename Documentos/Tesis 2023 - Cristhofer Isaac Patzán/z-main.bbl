@@ -843,6 +843,104 @@
       \field{title}{Reconocimiento de patrones y el aprendizaje no supervisado}
       \field{year}{2007}
     \endentry
+    \entry{pascual2007algoritmos}{article}{}
+      \name{author}{3}{}{%
+        {{hash=849c9c503a2f9b67e81a9668b4135b7d}{%
+           family={Pascual},
+           familyi={P\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7a3bb5a0ccd7e9baf10bd1c9711c6827}{%
+           family={Pla},
+           familyi={P\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=20776b5ce82db3bf82aab6bd20305569}{%
+           family={Sánchez},
+           familyi={S\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{2455fecbc6231a358ee0aa8d2c5f16cc}
+      \strng{fullhash}{2455fecbc6231a358ee0aa8d2c5f16cc}
+      \strng{bibnamehash}{2455fecbc6231a358ee0aa8d2c5f16cc}
+      \strng{authorbibnamehash}{2455fecbc6231a358ee0aa8d2c5f16cc}
+      \strng{authornamehash}{2455fecbc6231a358ee0aa8d2c5f16cc}
+      \strng{authorfullhash}{2455fecbc6231a358ee0aa8d2c5f16cc}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Método Informáticos Avanzados}
+      \field{title}{Algoritmos de agrupamiento}
+      \field{year}{2007}
+      \field{pages}{164\bibrangedash 174}
+      \range{pages}{11}
+    \endentry
+    \entry{gonzalez2010algoritmos}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=68f6c3ec146ca6c109b36aa36bc2e356}{%
+           family={González},
+           familyi={G\bibinitperiod},
+           given={Damaris\bibnamedelima Pascual},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universitat Jaume I}%
+      }
+      \strng{namehash}{68f6c3ec146ca6c109b36aa36bc2e356}
+      \strng{fullhash}{68f6c3ec146ca6c109b36aa36bc2e356}
+      \strng{bibnamehash}{68f6c3ec146ca6c109b36aa36bc2e356}
+      \strng{authorbibnamehash}{68f6c3ec146ca6c109b36aa36bc2e356}
+      \strng{authornamehash}{68f6c3ec146ca6c109b36aa36bc2e356}
+      \strng{authorfullhash}{68f6c3ec146ca6c109b36aa36bc2e356}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Algoritmos de agrupamiento basados en densidad y validación de clusters}
+      \field{type}{phdthesis}
+      \field{year}{2010}
+    \endentry
+    \entry{chameleon}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3db7df6401b206bb040d6735adbe81e2}{%
+           family={Karypis},
+           familyi={K\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+        {{hash=fc36823fce5233c4449debb83281af10}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Eui-Hong},
+           giveni={E\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=efb90d78e35ff61d3bc639f5c6f3d822}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Vipin},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7fb20001fa8c73bbe185618fb4c29f84}
+      \strng{fullhash}{7fb20001fa8c73bbe185618fb4c29f84}
+      \strng{bibnamehash}{7fb20001fa8c73bbe185618fb4c29f84}
+      \strng{authorbibnamehash}{7fb20001fa8c73bbe185618fb4c29f84}
+      \strng{authornamehash}{7fb20001fa8c73bbe185618fb4c29f84}
+      \strng{authorfullhash}{7fb20001fa8c73bbe185618fb4c29f84}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{computer}
+      \field{number}{8}
+      \field{title}{Chameleon: Hierarchical clustering using dynamic modeling}
+      \field{volume}{32}
+      \field{year}{1999}
+      \field{pages}{68\bibrangedash 75}
+      \range{pages}{8}
+    \endentry
     \entry{BIOPAC}{misc}{}
       \field{sortinit}{6}
       \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
@@ -856,6 +954,39 @@
       \verb{url}
       \verb https://www.biopac.com/
       \endverb
+    \endentry
+    \entry{VAT}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=9bc317c854b8895530b7b24770d46267}{%
+           family={Bezdek},
+           familyi={B\bibinitperiod},
+           given={James\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=7a3e1a01c877134909dc50f0f9810c88}{%
+           family={Hathaway},
+           familyi={H\bibinitperiod},
+           given={Richard\bibnamedelima J},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{fccd86f382f7c10d66ac43ac5c660494}
+      \strng{fullhash}{fccd86f382f7c10d66ac43ac5c660494}
+      \strng{bibnamehash}{fccd86f382f7c10d66ac43ac5c660494}
+      \strng{authorbibnamehash}{fccd86f382f7c10d66ac43ac5c660494}
+      \strng{authornamehash}{fccd86f382f7c10d66ac43ac5c660494}
+      \strng{authorfullhash}{fccd86f382f7c10d66ac43ac5c660494}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2002 International Joint Conference on Neural Networks. IJCNN'02 (Cat. No. 02CH37290)}
+      \field{title}{VAT: A tool for visual assessment of (cluster) tendency}
+      \field{volume}{3}
+      \field{year}{2002}
+      \field{pages}{2225\bibrangedash 2230}
+      \range{pages}{6}
     \endentry
     \entry{magy_2023}{thesis}{}
       \name{author}{1}{}{%
@@ -875,8 +1006,8 @@
       \strng{authornamehash}{8dbf6ee8198e49f76fe59f0264cbf3f3}
       \strng{authorfullhash}{8dbf6ee8198e49f76fe59f0264cbf3f3}
       \field{extraname}{2}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Tesis de licenciatura, trabajo en progreso}
@@ -900,8 +1031,8 @@
       \strng{authorbibnamehash}{4cc26616a7381170c561bb7326d6174f}
       \strng{authornamehash}{4cc26616a7381170c561bb7326d6174f}
       \strng{authorfullhash}{4cc26616a7381170c561bb7326d6174f}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Tesis de licenciatura, trabajo en progreso}
@@ -925,8 +1056,8 @@
       \strng{authorbibnamehash}{dac7f66a8e1f95f6281ff56c42f4a5cc}
       \strng{authornamehash}{dac7f66a8e1f95f6281ff56c42f4a5cc}
       \strng{authorfullhash}{dac7f66a8e1f95f6281ff56c42f4a5cc}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Tesis de licenciatura, trabajo en progreso}
