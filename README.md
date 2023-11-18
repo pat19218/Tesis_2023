@@ -123,9 +123,9 @@ Finalmente, se hizo una actualización de la herramienta de software utilizada e
 
 ## Resultados<a name="id4"></a>
 
-<img src="/Documentos/Tesis 2023 - Cristhofer Isaac Patzán/figuras/vat_edf_n_Uban15_freq.png" alt="Vat frecuencia" width="600">
+<img src="/Documentos/Tesis 2023 - Cristhofer Isaac Patzán/figuras/vat_edf_n_Uban15_freq.png" alt="Vat frecuencia" width="800">
 
-<img src="/Documentos/Tesis 2023 - Cristhofer Isaac Patzán/figuras/vat_edf_n_Uban15_time.png" alt="VAT tiempo" width="700">
+<img src="/Documentos/Tesis 2023 - Cristhofer Isaac Patzán/figuras/vat_edf_n_Uban15_time.png" alt="VAT tiempo" width="800">
 
 <img src="/Documentos/Tesis 2023 - Cristhofer Isaac Patzán/figuras/vat_edf_n_Uban15_wavelet.png" alt="VAT wavelets" width="800">
 
