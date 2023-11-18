@@ -22,7 +22,6 @@ La documentación se encuentra organizada de la siguiente manera:
 2. [Marco Teórico](#id2)
 3. [Metodología](#id3)
 4. [Resultados](#id4)
-5. [Discusión](#id5)
 6. [Conclusiones](#id6)
 7. [Recomendaciones](#id7)
 8. [Anexos](#id8)
