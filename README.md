@@ -129,6 +129,14 @@ Finalmente, se hizo una actualización de la herramienta de software utilizada e
 
 <img src="/Documentos/Tesis 2023 - Cristhofer Isaac Patzán/figuras/vat_edf_n_Uban15_wavelet.png" alt="VAT wavelets" width="800">
 
+<img src="/Documentos/Tesis 2023 - Cristhofer Isaac Patzán/figuras/39_VAT.png" alt="VAT en ToolBox" width="800">
+
+<img src="/Documentos/Tesis 2023 - Cristhofer Isaac Patzán/figuras/31_ventana_preAnotaciones.png" alt="Nueva ventana de preanotaciones" width="800">
+
+<img src="/Documentos/Tesis 2023 - Cristhofer Isaac Patzán/figuras/13_modificacion_anotaciones.png" alt="Actualizacion anotaciones" width="800">
+
+
+
 ## Discusión<a name="id5"></a>
 
 ## Conclusiones<a name="id6"></a>
