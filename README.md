@@ -123,22 +123,22 @@ Finalmente, se hizo una actualización de la herramienta de software utilizada e
 
 ## Resultados<a name="id4"></a>
 
-# Resultado de aplicar VAT en dominio de la frecuencia
+### Resultado de aplicar VAT en dominio de la frecuencia
 <img src="/Documentos/Tesis 2023 - Cristhofer Isaac Patzán/figuras/vat_edf_n_Uban15_freq.png" alt="Vat frecuencia" width="800">
 
-# Resultado de aplicar VAT en dominio de tiempo continuo
+Resultado de aplicar VAT en dominio de tiempo continuo
 <img src="/Documentos/Tesis 2023 - Cristhofer Isaac Patzán/figuras/vat_edf_n_Uban15_time.png" alt="VAT tiempo" width="800">
 
-# Resultado de aplicar VAT en dominio Wavelets
+Resultado de aplicar VAT en dominio Wavelets
 <img src="/Documentos/Tesis 2023 - Cristhofer Isaac Patzán/figuras/vat_edf_n_Uban15_wavelet.png" alt="VAT wavelets" width="800">
 
-# Nueva ventana para analisis y generación de modelos por aprendizaje no supervizado
+Nueva ventana para analisis y generación de modelos por aprendizaje no supervizado
 <img src="/Documentos/Tesis 2023 - Cristhofer Isaac Patzán/figuras/39_VAT.png" alt="VAT en ToolBox" width="800">
 
-# Nueva ventana de preanotaciones 
+Nueva ventana de preanotaciones 
 <img src="/Documentos/Tesis 2023 - Cristhofer Isaac Patzán/figuras/31_ventana_preAnotaciones.png" alt="Nueva ventana de preanotaciones" width="800">
 
-# Actualización de la ventana de anotaciones automaticas
+Actualización de la ventana de anotaciones automaticas
 <img src="/Documentos/Tesis 2023 - Cristhofer Isaac Patzán/figuras/13_modificacion_anotaciones.png" alt="Actualizacion anotaciones" width="800">
 
 
