@@ -164,7 +164,8 @@ Finalmente, se hizo una actualización de la herramienta de software utilizada e
 - Es esencial mantener la herramienta de software actualizada con los avances tecnológicos y las mejores prácticas en el campo de aprendizaje automático. Esto garantizará que la herramienta siga siendo eficaz y relevante a medida que evoluciona la investigación y la tecnología médica.
 
 ## Anexos<a name="id8"></a>
-
+Link de datos obtenidos con el equipo BIOPAC de UVG
+- https://drive.google.com/drive/folders/1aTNy2e-KkGNi9qVemx3-I05KnxCGLlTQ?usp=drive_link
 
 #
 Este documento pretende proporcionar una visión completa y detallada de la tesis, permitiendo a los lectores comprender la investigación realizada y sus contribuciones al campo de estudio.
