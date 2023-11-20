@@ -57,18 +57,56 @@ Las grabaciones tuvieron una duración mínima de un minuto. Las personas mantuv
     Contraer paulatinamente cada uno de los dedos de la mano hacia el interior de la palma, como se observa en la Figura~\ref{fig:actividad3_emg}.    
 \end{itemize}
 
+
+
 \subsection{Señales EEG}
 Para las señales EEG, el sujeto de prueba debía de encontrarse en estado de relajación, lo cual implicaba ojos cerrados y haber realizado al menos 3 repeticiones de inhalación y exhalación profundas.
 Las grabaciones tuvieron una duración mínima de un minuto. Las personas mantuvieron la pose de relajación durante al menos 30 segundos al inicio, posteriormente se procedió a realizar una de las actividades especificas. Las actividades fueron:
 
 \begin{itemize}    
     \item Actividad 1:
-    Abrir los ojos durante 10 segundos y luego, volver a cerrar los ojos durante otros 10 segundo.   
+    Abrir los ojos durante 10 segundos y luego, volver a cerrar los ojos durante otros 10 segundo.       
     \item Actividad 2:
-    Abrir los ojos y realizar una prueba matemática nivel medio, la cual consistía en sumas, restas, multiplicaciones y divisiones de números enteros de hasta 7 dígitos.
+    Abrir los ojos y realizar una prueba matemática nivel medio, la cual consistía en sumas, restas, multiplicaciones y divisiones de números enteros de hasta 7 dígitos.    
     \item Actividad 3:
-    En los trabajos de graduación presentados por Margareth Vela \cite{magy_2023} y Oscar Fuentes \cite{oscar_2023}, los cuales consistieron en el estudio cualitativo y cuantitativo del impacto de los pulsos binaurales en el estado de ánimo, concentración y calidad del sueño de las personas y aplicación de técnicas de aprendizaje automático y reconocimiento de patrones en las señales bioeléctricas. Se realizaron las actividades 1 y 2 nuevamente pero ahora, mediante audífonos se aplicaron pulsos binaurales.
+    En los trabajos de graduación presentados por Margareth Vela \cite{magy_2023} y Oscar Fuentes \cite{oscar_2023}, los cuales consistieron en el estudio cualitativo y cuantitativo del impacto de los pulsos binaurales en el estado de ánimo, concentración y calidad del sueño de las personas y aplicación de técnicas de aprendizaje automático y reconocimiento de patrones en las señales bioeléctricas. Se realizaron las actividades 1 y 2 nuevamente pero ahora, mediante audífonos se aplicaron pulsos binaurales.    
+    \item  Actividad 4:
+    Esta expresión involucra activar los músculos ubicados en la frente con el fin de levantar las cejas de forma rítmica y deliberada, tal como se evidencia en la Figura~\ref{fig: eeg_actividad4}.    
+    \item Actividad 5:
+    Inclinación de la cabeza hacia abajo. Este movimiento implica girar la cabeza hacia abajo, en dirección al pecho o hacia el suelo, como se ilustra en la Figura~\ref{fig: eeg_actividad5}.    
+    \item Actividad 6:
+    Inclinación de la cabeza hacia arriba. Este movimiento implica girar la cabeza hacia arriba, en dirección contraria al pecho, como se ilustra en la Figura~\ref{fig: eeg_actividad6}.    
+    \item Actividad 7:
+    Inclinación de la cabeza. Este movimiento consiste en girar la cabeza hacia la derecha, como se ilustra en la Figura~\ref{fig: eeg_actividad7}.
 \end{itemize}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.3\textwidth]{figuras/40_cejas_arriba.png}
+	\caption{Actividad 4 movimiento controlado de cejas.}
+	\label{fig: eeg_actividad4}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.15\textwidth]{figuras/41_head_down.png}
+	\caption{Actividad 5 inclinación de la cabeza hacia abajo.}
+	\label{fig: eeg_actividad5}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.15\textwidth]{figuras/42_head_up.png}
+	\caption{Actividad 6 inclinación de la cabeza hacia arriba.}
+	\label{fig: eeg_actividad6}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.2\textwidth]{figuras/43_inclinar.png}
+	\caption{Actividad 7 inclinación de la cabeza hacia el lateral derecho.}
+	\label{fig: eeg_actividad7}
+\end{figure}
 
 \subsection{Estándar en recolección de datos BIOPAC}
 Se definió un documento estándar de formato ``.xlsx'' para el almacenamiento de las señales EMG y EEG obtenidas con el equipo BIOPAC,  como se observa en la Figura~\ref{fig:Estandar_bipoac_uvg}. Los datos principales que se necesitan son:
@@ -139,6 +177,8 @@ HUMANA ha compartido 4 grabaciones de señales EEG, la información de dichas gr
     CLEA.edf& 29  & 02:39:42 & 200 Hz   \\ \hline
     GIKA.edf& 29  & 02:58:06 & 200 Hz   \\ \hline
     HCHC.edf& 29  & 23:02:44 & 200 Hz   \\ \hline
+    Ajczalar Mayra.edf& 30  & 15:57:13 & 300 Hz   \\ \hline
+    GUADRON TONITA.edf& 30  & 03:02:01 & 300 Hz   \\ \hline
     \end{tabular}
     \caption[Información de grabaciones dadas por HUMANA]{Información de grabaciones de señales bioeléctricas de pacientes con epilepsia brindadas por HUMANA.} 
     \label{cuadro:tabla_edf_info}
@@ -254,7 +294,7 @@ Por lo que se procedió a realizar las respectivas correcciones, como se muestra
 En el presente capitulo se presentarán los datos de señales bioeléctricas obtenidas con el equipo de UVG y brindadas de HUMANA. Estas señales fueron la materia prima para la comprobación de funcionalidad de los algoritmos.
 
 \section{Señales Bioeléctricas obtenidas con el equipo de UVG}
-La recolección de señales bioeléctricas con el equipo de UVG ha dado como resultado un total de 60 grabaciones, como se puede ver en el Cuadro~\ref{cuadro:tabla datos UVG}. Para el caso de las señales EEG, se cuenta con una duración promedio de 20 minutos por grabación. En el caso de las señales EMG, se cuenta con una duración promedio de 1 minuto por grabación. Por lo que ahora se cuenta con una base de datos de Señales EEG y EMG, recolectadas y procesadas en la Universidad del Valle de Guatemala.
+La recolección de señales bioeléctricas con el equipo de UVG ha dado como resultado un total de 187 grabaciones, como se puede ver en el Cuadro~\ref{cuadro:tabla datos UVG}. Para el caso de las señales EEG, se cuenta con una duración promedio de 20 minutos por grabación. En el caso de las señales EMG, se cuenta con una duración promedio de 1 minuto por grabación. Por lo que ahora se cuenta con una base de datos de Señales EEG y EMG, recolectadas y procesadas en la Universidad del Valle de Guatemala.
 
 En el Cuadro \ref{cuadro:tabla datos UVG} de datos recolectados, la categoría ``sin plantilla'' se refiere a grabaciones de señales bioeléctricas que no se guardaron con el ``Estándar en recolección de datos BIOPAC'', mientras que la categoría ``con plantilla'' hace referencia a grabaciones de señales bioeléctricas que sí utilizaban dicho estándar. 
 
@@ -263,10 +303,10 @@ En el Cuadro \ref{cuadro:tabla datos UVG} de datos recolectados, la categoría `
     \begin{tabular}{|l|l|l|l|l|}
     \hline
         \multicolumn{1}{|c|}{\textbf{Tipo}} & \multicolumn{1}{c|}{\textbf{Cantidad}} & \multicolumn{1}{c|}{\textbf{Formato}}\\ \hline
-        EEG sin plantilla & 12  & XLSX \\ \hline
-        EEG con plantilla & 0  & No aplica \\ \hline
-        EMG sin plantilla & 12  & XLSX \\ \hline
-        EMG con plantilla & 36  & XLSX \\ \hline
+        EEG sin plantilla & 34  & XLSX \\ \hline
+        EEG con plantilla & 18  & XLSX  \\ \hline
+        EMG sin plantilla & 18  & XLSX y CSV \\ \hline
+        EMG con plantilla & 117  & XLSX \\ \hline
     \end{tabular}
     \caption[Datos en nube con equipo UVG]{Datos recolectados con equipo UVG.} 
     \label{cuadro:tabla datos UVG}
