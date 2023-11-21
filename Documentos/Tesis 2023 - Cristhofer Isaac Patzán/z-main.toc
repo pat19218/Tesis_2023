@@ -65,3 +65,7 @@
 \contentsline {chapter}{\numberline {13}Recomendaciones}{70}{chapter.175}%
 \contentsline {chapter}{\numberline {14}Bibliograf\'{\i }a}{71}{chapter.177}%
 \contentsline {chapter}{\numberline {15}Anexos}{74}{chapter.178}%
+\contentsline {section}{\numberline {15.1}Pruebas con algoritmo VAT}{74}{section.179}%
+\contentsline {subsection}{\numberline {15.1.1}VAT características en el dominio de frecuencia}{74}{subsection.180}%
+\contentsline {subsection}{\numberline {15.1.2}VAT características en el dominio de tiempo continuo}{79}{subsection.189}%
+\contentsline {subsection}{\numberline {15.1.3}VAT características en el dominio de wavelets}{83}{subsection.198}%
