@@ -148,7 +148,7 @@ Tras recolectar estos datos la norma de almacenamiento consiste en, nombrar el d
 \end{figure}
 
 \subsection{Estructuración de los datos para ser usados en la herramienta de software para el estudio de la epilepsia}
-Para los datos obtenidos con el equipo BIOPAC de la UVG, es necesario convertirlos en un formato tipo \textit{Struct}, de esta manera se podrá usar dicha información dentro de la la herramienta de software para su análisis y estudio, como se muestra en la Figura~\ref{fig:struc_func}. 
+Para los datos obtenidos con el equipo BIOPAC de la UVG, es necesario convertirlos en un formato tipo \textit{\gls{Struct}}, de esta manera se podrá usar dicha información dentro de la la herramienta de software para su análisis y estudio, como se muestra en la Figura~\ref{fig:struc_func}. 
 
 \begin{figure}[H]
     \centering
@@ -161,7 +161,7 @@ Para ello se creo la función ``gen\_struc'' la cual, posee como primer argument
 \begin{itemize}
     \item Datos (mV)
     \item Cantidad de datos
-    \item Frecuencia de muestreo (Hz)
+    \item \gls{Frecuencia de muestreo} (Hz)
     \item Cantidad de canales
 \end{itemize}
 
@@ -186,7 +186,7 @@ HUMANA ha compartido 4 grabaciones de señales EEG, la información de dichas gr
 \end{table}
 
 \section{Agrupamiento de datos}
-Con el equipo UVG se recopilaron señales bioeléctricas del tipo EEG y EMG, las cuales se agruparon de forma intersujeto e intrasujeto respectivamente. En el caso de señales brindadas por HUMANA estas no necesitan agrupación, ya que por lo general son de una duración mayor a una hora de grabación contando como mínimo 29 canales, por lo que esto ya son datos suficientes para proceder a realizar su análisis.
+Con el equipo UVG se recopilaron señales bioeléctricas del tipo EEG y EMG, las cuales se agruparon de forma \gls{intersujeto} e \gls{intrasujeto} respectivamente. En el caso de señales brindadas por HUMANA estas no necesitan agrupación, ya que por lo general son de una duración mayor a una hora de grabación contando como mínimo 29 canales, por lo que esto ya son datos suficientes para proceder a realizar su análisis.
 
 El análisis de señales EEG de forma intersujeto y señales EMG de forma intrasujeto se realiza de esta manera debido a las diferencias fundamentales en la naturaleza de estas dos tipos de señales y los objetivos específicos de análisis en cada caso.
 
@@ -203,7 +203,7 @@ Las señales EMG, que registran la actividad eléctrica de los músculos, tiende
 En la presente sección se presentan los algoritmos y métodos que se usaron para medir la efectividad de los algoritmos en el reconocimiento de patrones en señales bioeléctricas que sean de interés. 
 
 \subsection{Extracción de características}
-Se extrajo características en el dominio tiempo, frecuencia y wavelets, de cada uno de los datos obtenidos con el equipo UVG o brindados por HUMANA. Se analizó la generación de estas características, para optimizar el tiempo de entrenamiento de los algoritmos de aprendizaje automático y de ser posible la mejora de clasificación de las señales bioeléctricas.
+Se extrajo características en el dominio tiempo, frecuencia y \gls{wavelets}, de cada uno de los datos obtenidos con el equipo UVG o brindados por HUMANA. Se analizó la generación de estas características, para optimizar el tiempo de entrenamiento de los algoritmos de aprendizaje automático y de ser posible la mejora de clasificación de las señales bioeléctricas.
 
 \subsection{Anotaciones automáticas}
 Empleando los algoritmos de aprendizaje automático desarrollados en las fases anteriores, se clasificó la señal bioeléctrica entre, ``Ictal'', ``Sano'', ``Interictal'' o Preictal'', según fuera su caso. A su vez, se implemento una sección para exportar los segmentos de interés a un documento CSV, como se puede observar en la Figura~\ref{fig:yo_anotaciones}.
@@ -432,10 +432,10 @@ Para solventar el inconveniente anterior sin contar con más datos por parte de 
 Para solucionar este inconveniente, lo adecuado será entrenar el modelo con la misma cantidad de datos de señales bioeléctricas, además de, contar con la misma cantidad de personas sanas y personas con episodios epilépticos de las que se extraen las señales bioeléctricas. Esto permitirá al modelo encontrar las características necesarias de cada estado de interés, sin importar el sujeto. Ya que actualmente el modelo es preciso solo con las mismas personas con las que se entreno el modelo. Esto quiere decir que la predicción del modelo se ve afectada si, las señales bioeléctricas provienen de personas distintas de las que se obtuvieron los datos con los que se entrenó el modelo. 
 
 \chapter{Resultados estadísticos}
-En este capítulo, se presentan los resultados estadísticos obtenidos a partir de la aplicación de diversos métodos de análisis en el estudio de las señales bioeléctricas. Se analizan los resultados de los clasificadores empleados, se presentan las matrices de confusión que reflejan la capacidad de predicción, y se evalúan los resultados de los algoritmos de \textit{clustering} mediante el algoritmo \textit{rand index}.
+En este capítulo, se presentan los resultados estadísticos obtenidos a partir de la aplicación de diversos métodos de análisis en el estudio de las señales bioeléctricas. Se analizan los resultados de los clasificadores empleados, se presentan las \gls{matrices de confusión} que reflejan la capacidad de predicción, y se evalúan los resultados de los algoritmos de \textit{clustering} mediante el algoritmo \textit{rand index}.
 
 \section{Clasificadores}
-Los clasificadores empleados para esta etapa mediante aprendizaje supervisado fueron las RNA y las SVM, dando resultados positivos. 
+Los clasificadores empleados para esta etapa mediante aprendizaje supervisado fueron las \gls{RNA}y las \gls{SVM}, dando resultados positivos. 
 
 Las SVM presentaron una mejor clasificación de los segmentos de las  señales bioeléctricas, como se puede observar en las Figuras~\ref{fig: Matriz confusion svm wavelets}, \ref{fig: Matriz confusion svm time} y  \ref{fig: Matriz confusion svm freq}. Estando por encima de un 85\% de exactitud. Presentando que las características de mejor comportamiento para clasificación son las  ``wavelets'' seguidas de las características de ``tiempo continuo'' y por ultimo las características de ``frecuencia''.
 
