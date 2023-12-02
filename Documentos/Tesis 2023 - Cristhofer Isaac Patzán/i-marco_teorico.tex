@@ -115,6 +115,20 @@ Las características en el dominio de la frecuencia se basan en el análisis del
 
 La elección de características para extraer de las señales de EEG depende de la aplicación. Por ejemplo, las funciones en el dominio del tiempo se usan a menudo para estudiar los cambios en la actividad cerebral a lo largo del tiempo, mientras que las funciones en el dominio de la frecuencia se usan a menudo para estudiar las diferentes bandas de frecuencia de la actividad cerebral \cite{al2014methods}.
 
+\section{Características en el dominio de tiempo-frecuencia}
+Las wavelets, también conocidas como funciones de onda madre, son funciones matemáticas utilizadas en el procesamiento de señales y la análisis de datos. Se destacan por tener una duración finita y estar localizadas tanto en el dominio del tiempo como en el dominio de la frecuencia. La característica principal de las wavelets es que pueden representar tanto características de alta como de baja frecuencia en una señal, lo que las hace útiles para el análisis de señales complejas \cite{wavelet_intro}.
+
+Algunas características comunes en el dominio de la frecuencia incluyen:
+\begin{itemize}
+    \item Potencia: La potencia indica la cantidad de energía en una señal. En el contexto de las wavelets, se puede calcular la potencia en diferentes bandas de frecuencia, lo que proporciona información sobre cómo se distribuye la energía a lo largo de la señal.
+    \item Media: La media es el promedio de los valores de una señal. Puede calcularse en diferentes niveles de descomposición wavelet para obtener la media en diferentes escalas.
+    \item Desviación Estándar: La desviación estándar mide la dispersión de los valores con respecto a la media. En el análisis wavelet, puede indicar la variabilidad de la señal en diferentes escalas.
+    \item Curtosis: La curtosis es una medida de la forma de la distribución de los valores de una señal. Indica la "colas" de la distribución y su nivel de apuntamiento. Valores altos de curtosis indican una distribución más concentrada alrededor de la media.
+    \item Asimetría: La asimetría mide la falta de simetría en la distribución de los valores de una señal. Un valor positivo indica una cola más larga en el lado derecho de la distribución, mientras que un valor negativo indica una cola más larga en el lado izquierdo.
+    \item Cruces por Cero (ZC): Las cruces por cero indican el número de veces que una señal cruza el eje horizontal. En el análisis wavelet, esto puede utilizarse para evaluar la cantidad de cambios de polaridad en diferentes niveles de descomposición.
+\end{itemize}
+
+La transformada wavelet, se utilizan para descomponer una señal en componentes de diferente frecuencia y amplitud en varios niveles de resolución. Esta descomposición multiresolución es especialmente útil para analizar señales que contienen información en diferentes escalas de tiempo. Las wavelets han encontrado aplicaciones en una amplia gama de campos, como la compresión de imágenes, el procesamiento de señales biomédicas, el análisis de audio y la detección de patrones en datos \cite{wavelet_def}.
 
 \section{Propiedades de las señales deterministas y estocásticas}
 Las señales deterministas son aquellas que pueden describirse mediante un conjunto de ecuaciones que definen su comportamiento en el tiempo. Las señales estocásticas, por otro lado, son aquellas que se caracterizan por fluctuaciones aleatorias.

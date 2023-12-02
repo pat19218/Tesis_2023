@@ -172,13 +172,14 @@ HUMANA ha compartido 4 grabaciones de señales EEG, la información de dichas gr
 \begin{center}    
     \begin{tabular}{|l|l|l|l|l|}
     \hline
-    \multicolumn{1}{|c|}{\textbf{Nombre}} & \multicolumn{1}{c|}{\textbf{Canales}} & \multicolumn{1}{c|}{\textbf{Duración (HH:MM:SS)}} & \multicolumn{1}{c|}{\textbf{Frecuencia de muestreo}}\\ \hline
+    \multicolumn{1}{|c|}{\textbf{Nombre}} & \multicolumn{1}{c|}{\textbf{Canales}} & \multicolumn{1}{c|}{\textbf{Duración}} & \multicolumn{1}{c|}{\textbf{Frecuencia de muestreo}}\\ %\hline
+          &  & (hh:mm:ss) & \\ \hline
     AL.edf  & 33  & 03:01:56 & 200 Hz   \\ \hline
     CLEA.edf& 29  & 02:39:42 & 200 Hz   \\ \hline
     GIKA.edf& 29  & 02:58:06 & 200 Hz   \\ \hline
     HCHC.edf& 29  & 23:02:44 & 200 Hz   \\ \hline
-    Ajczalar Mayra.edf& 30  & 15:57:13 & 300 Hz   \\ \hline
-    GUADRON TONITA.edf& 30  & 03:02:01 & 300 Hz   \\ \hline
+    Ajczalar M.edf& 30  & 15:57:13 & 300 Hz   \\ \hline
+    GUADRON T.edf& 30  & 03:02:01 & 300 Hz   \\ \hline
     \end{tabular}
     \caption[Información de grabaciones dadas por HUMANA]{Información de grabaciones de señales bioeléctricas de pacientes con epilepsia brindadas por HUMANA.} 
     \label{cuadro:tabla_edf_info}
@@ -203,7 +204,7 @@ Las señales EMG, que registran la actividad eléctrica de los músculos, tiende
 En la presente sección se presentan los algoritmos y métodos que se usaron para medir la efectividad de los algoritmos en el reconocimiento de patrones en señales bioeléctricas que sean de interés. 
 
 \subsection{Extracción de características}
-Se extrajo características en el dominio tiempo, frecuencia y \gls{wavelets}, de cada uno de los datos obtenidos con el equipo UVG o brindados por HUMANA. Se analizó la generación de estas características, para optimizar el tiempo de entrenamiento de los algoritmos de aprendizaje automático y de ser posible la mejora de clasificación de las señales bioeléctricas.
+Se extrajeron características en el dominio del tiempo, la frecuencia y \gls{wavelets} de cada uno de los conjuntos de datos obtenidos mediante el equipo UVG o proporcionados por HUMANA. Se aplicó la transformada a cada dominio a las señales, seguida de la extracción de características. A partir de este punto, estas características obtenidas mediante las transformadas serán referidas simplemente como ``características frecuencia'', ``características tiempo'' o ``características wavelets'' por conveniencia. Este proceso de extracción de características fue analizado detalladamente con el objetivo de optimizar el tiempo de entrenamiento de los algoritmos de aprendizaje automático y, en la medida de lo posible, mejorar la clasificación de las señales bioeléctricas.
 
 \subsection{Anotaciones automáticas}
 Empleando los algoritmos de aprendizaje automático desarrollados en las fases anteriores, se clasificó la señal bioeléctrica entre, ``Ictal'', ``Sano'', ``Interictal'' o Preictal'', según fuera su caso. A su vez, se implemento una sección para exportar los segmentos de interés a un documento CSV, como se puede observar en la Figura~\ref{fig:yo_anotaciones}.
@@ -235,21 +236,21 @@ El primer paso para la actualización de la herramienta de software para el estu
     \label{fig:yo_warning_uno}
 \end{figure}
 
-\begin{figure}[t]
+En todos los casos al momento de extraer las características de las señales bioeléctricas, se tenía que no se pre-creaba el vector donde se almacenarían dichas características, además de contar con variables y condicionales innecesarias, como se puede observar en la Figura~\ref{flu:vfeatures malo}. Esto resulta ser computacionalmente costoso, lo que da paso a pérdida de tiempo innecesaria. Por lo que se procedió a corregirlo, creando el vector de características con las dimensiones máximas que podría tener, siendo la cantidad de filas del tamaño del vector de datos y la cantidad de columnas, del tamaño de las posibles características de interés, como se puede observar en la Figura~\ref{flu:vfeatures bueno}.
+
+\begin{figure}[H]
     \centering
-    \includegraphics[width=0.40\textwidth]{figuras/21_flujograma_vfeatures_mal.png}
+    \includegraphics[width=0.5\textwidth]{figuras/21_flujograma_vfeatures_mal.pdf}
     \caption{Flujograma de la creación del vector de características versión 2022.}
     \label{flu:vfeatures malo}
 \end{figure}
 
-\begin{figure}[t]
+\begin{figure}[H]
     \centering
-    \includegraphics[width=0.45\textwidth]{figuras/22_flujograma_vfeatures_bien.png}
+    \includegraphics[width=0.5\textwidth]{figuras/22_flujograma_vfeatures_bien.pdf}
     \caption{Flujograma de la creación del vector de características versión 2023.}
     \label{flu:vfeatures bueno}
 \end{figure}
-
-En todos los casos al momento de extraer las características de las señales bioeléctricas, se tenía que no se pre-creaba el vector donde se almacenarían dichas características, además de contar con variables y condicionales innecesarias, como se puede observar en la Figura~\ref{flu:vfeatures malo}. Esto resulta ser computacionalmente costoso, lo que da paso a pérdida de tiempo innecesaria. Por lo que se procedió a corregirlo, creando el vector de características con las dimensiones máximas que podría tener, siendo la cantidad de filas del tamaño del vector de datos y la cantidad de columnas, del tamaño de las posibles características de interés, como se puede observar en la Figura~\ref{flu:vfeatures bueno}.
 
 Al momento de establecer rangos de datos a analizar por ventanas, se encontraba como limite superior la expresión de la Ecuación(\ref{eq: Limite superior vfeatures}), lo cual al tratarse de un vector los valores ingresados para los índices deben ser enteros, característica que no cumple el limite superior cuando la variable ``muestras'' es un número impar. Por lo que se procedió a redondear el valor al mínimo más próximo, dando la expresión de la Ecuación(\ref{eq: vfeatures_rango}). Un claro ejemplo de este proceso se puede observar en la Figura~\ref{fig: redondeo minimo}. 
 
@@ -263,7 +264,7 @@ Al momento de establecer rangos de datos a analizar por ventanas, se encontraba 
     \label{eq: vfeatures_rango}
 \end{equation}
 
-\begin{figure}[t]
+\begin{figure}[H]
     \centering
     \includegraphics[width=0.45\textwidth]{figuras/23_redondeo_indicevector.png}
     \caption{Segmento de código para el calculo de características de una señal bioeléctrica.}
@@ -274,15 +275,15 @@ En el proceso de generación de característica, el algoritmo para determinar el
 El algoritmo creaba variables que no se utilizaban, sin embargo, si se realizaban operaciones matemáticas con ellos, lo que implica tiempo y calculo computacional innecesario. A su vez, el algoritmo verificaba el cambio de signo directamente, sin usar el argumento ``umbral'', el cual es de gran relevancia ya que es este, quien permite el conteo adecuado de cambio de signo, sin tomar en cuenta aquellos cruces por cero que ocurren debido al ruido dentro de la señal. 
 Por lo que se procedió a realizar las respectivas correcciones, como se muestra en la Figura~\ref{flu: ZC bueno}. En la presente versión se toma en cuenta el umbral para un correcto conteo, además de, ser una versión simplificada lo que lo hace más simple de realizar los cálculos computacionales.
 
-\begin{figure}[t]
+\begin{figure}[H]
     \centering
-    \includegraphics[width=0.7\textwidth]{figuras/24_flujograma_zc_mal.png}
+    \includegraphics[width=0.75\textwidth]{figuras/24_flujograma_zc_mal.pdf}
     \caption{Flujograma de algoritmo ZC versión 2022.}
     \label{flu: ZC malo}
 \end{figure}
-\begin{figure}[t]
+\begin{figure}[H]
     \centering
-    \includegraphics[width=0.4\textwidth]{figuras/25_flujograma_zc_bien.png}
+    \includegraphics[width=0.5\textwidth]{figuras/25_flujograma_zc_bien.pdf}
     \caption{Flujograma de algoritmo ZC versión 2023.}
     \label{flu: ZC bueno}
 \end{figure}
@@ -291,7 +292,7 @@ Por lo que se procedió a realizar las respectivas correcciones, como se muestra
 % A partir de aqui se discuten los resultados
 %-------------------------------------------------------
 \chapter{Resultados de recolección de datos}
-En el presente capitulo se presentarán los datos de señales bioeléctricas obtenidas con el equipo de UVG y brindadas de HUMANA. Estas señales fueron la materia prima para la comprobación de funcionalidad de los algoritmos.
+En el presente capitulo se presentarán los datos de señales bioeléctricas obtenidas con el equipo de UVG y brindadas de HUMANA. Estas señales fueron la materia prima para la comprobación de funcionalidad de los algoritmos. En el capitulo de anexos, se incluyen los vínculos correspondientes a los datos recopilados.
 
 \section{Señales Bioeléctricas obtenidas con el equipo de UVG}
 La recolección de señales bioeléctricas con el equipo de UVG ha dado como resultado un total de 187 grabaciones, como se puede ver en el Cuadro~\ref{cuadro:tabla datos UVG}. Para el caso de las señales EEG, se cuenta con una duración promedio de 20 minutos por grabación. En el caso de las señales EMG, se cuenta con una duración promedio de 1 minuto por grabación. Por lo que ahora se cuenta con una base de datos de Señales EEG y EMG, recolectadas y procesadas en la Universidad del Valle de Guatemala.
@@ -368,7 +369,8 @@ En cuanto a las características en el dominio de la frecuencia, la primera corr
 \begin{tabular}{|l|l|l|l|l|}
 \hline
         \multicolumn{1}{|c|}{\textbf{Tipo}} &
-   \textbf{ Hora inicio (hh:mm:ss)} & \textbf{Hora fin (hh:mm:ss)} & \textbf{Duración (hh:mm:ss)}   \\ \hline
+   \textbf{ Hora inicio} & \textbf{Hora fin} & \textbf{Duración}\\ %\hline
+          & (hh:mm:ss)  & (hh:mm:ss) & (hh:mm:ss)\\ \hline
     Tiempo continuo     & 14:54:00  & 15:33:07 & 00:39:07   \\ \hline
     Wavelet             & 15:35:00  & 15:35:32 & 00:00:32   \\ \hline
     Frecuencia          & 11:18:00  & 11:09:32 & 23:50:28   \\ \hline
@@ -397,7 +399,8 @@ Para lo que se procedió a comprobar los tiempos de anotación según el clasifi
 \begin{center}
 \begin{tabular}{|l|l|l|l|l|}
 \hline
-    \multicolumn{1}{|c|}{\textbf{Clasificador}} & \multicolumn{1}{c|}{\textbf{Duración (hh:mm:ss)}} & \multicolumn{1}{c|}{\textbf{Grabación }} \\ \hline
+    \multicolumn{1}{|c|}{\textbf{Clasificador}} & \multicolumn{1}{c|}{\textbf{Duración }} & \multicolumn{1}{c|}{\textbf{Grabación }} \\ %\hline
+          & (hh:mm:ss) & \\ \hline
     RNA Tiempo   & 01:27:00  & AL.edf   \\ \hline
     RNA Frecuencia& 01:07:00  & AL.edf   \\ \hline
     RNA Wavelet   & 00:12:00  & AL.edf   \\ \hline
@@ -429,7 +432,7 @@ Para solventar el inconveniente anterior sin contar con más datos por parte de 
     \label{fig: 33_chn_grafica_menos}
 \end{figure}
 
-Para solucionar este inconveniente, lo adecuado será entrenar el modelo con la misma cantidad de datos de señales bioeléctricas, además de, contar con la misma cantidad de personas sanas y personas con episodios epilépticos de las que se extraen las señales bioeléctricas. Esto permitirá al modelo encontrar las características necesarias de cada estado de interés, sin importar el sujeto. Ya que actualmente el modelo es preciso solo con las mismas personas con las que se entreno el modelo. Esto quiere decir que la predicción del modelo se ve afectada si, las señales bioeléctricas provienen de personas distintas de las que se obtuvieron los datos con los que se entrenó el modelo. 
+Para solucionar este inconveniente, lo adecuado será entrenar el modelo con una cantidad similar de datos de señales bioeléctricas, además de, contar con la misma cantidad de personas sanas y personas con episodios epilépticos de las que se extraen las señales bioeléctricas. Esto permitirá al modelo encontrar las características necesarias de cada estado de interés, sin importar el sujeto. Ya que actualmente el modelo es preciso solo con las mismas personas con las que se entreno el modelo. Esto quiere decir que la predicción del modelo se ve afectada si, las señales bioeléctricas provienen de personas distintas de las que se obtuvieron los datos con los que se entrenó el modelo. 
 
 \chapter{Resultados estadísticos}
 En este capítulo, se presentan los resultados estadísticos obtenidos a partir de la aplicación de diversos métodos de análisis en el estudio de las señales bioeléctricas. Se analizan los resultados de los clasificadores empleados, se presentan las \gls{matrices de confusión} que reflejan la capacidad de predicción, y se evalúan los resultados de los algoritmos de \textit{clustering} mediante el algoritmo \textit{rand index}.
@@ -504,12 +507,14 @@ Por lo que nuevamente las características ``wavelets'' son las que presentan me
 \end{table}
 
 \chapter{Análisis de grupos}
-El análisis de grupos (\textit{clustering}) desempeña un papel fundamental en la investigación, ya que permite explorar la estructura subyacente de las señales bioeléctricas recopiladas. En este capítulo, se presentan los resultados del uso de algoritmos de agrupamiento, en particular el método de K-means, aplicados a las señales bioeléctricas en diferentes dominios: tiempo, frecuencia y wavelets. Cabe mencionar que los datos utilizados son el resultado de una época de 0.4 segundos, por lo que la densidad de muestras cambiara según la frecuencia con la que se haya grabado la señal bioeléctrica para las clases ictal, sano, preictal e interictal.
+El análisis de grupos (\textit{clustering}) desempeña un papel fundamental en la investigación, ya que permite explorar la estructura subyacente de las señales bioeléctricas recopiladas. En este capítulo, se presentan los resultados del uso de algoritmos de agrupamiento, en particular el método de K-means y jerárquico, aplicados a las señales bioeléctricas en diferentes dominios: tiempo, frecuencia y wavelets. Cabe mencionar que los datos utilizados son el resultado de una época de 0.4 segundos, por lo que la densidad de muestras cambiara según la frecuencia con la que se haya grabado la señal bioeléctrica para las clases ictal, sano, preictal e interictal.
 %revisar app "generacionesalgoritmo.mlapp" linea 323, variable "app.s_ventana"
 
-La agrupación de señales bioeléctricas es esencial para identificar patrones, tendencias y características comunes en los datos. Al aplicar K-means en distintos dominios, se exploran las similitudes y diferencias en la estructura de las señales, lo que permite obtener una visión más completa de los conjuntos de datos.
+En el enfoque de análisis, se aplicó el método de \textit{clustering} utilizando todos las características extraídas de las señales bioeléctricas. La decisión de emplear el conjunto completo de características se basa en la premisa de que cada característica contribuye de manera única a la representación de la información en los datos. Utilizando todas las características, se busca capturar la complejidad y la variabilidad completa presente en las señales.
 
-Los resultados presentados en las figuras se derivan de un enfoque de características a pares, lo que se justifica por la complejidad visual asociada al uso de K-means con un conjunto de características que excede las tres dimensiones. Esta estrategia permite una representación más clara y manejable de los datos, facilitando la identificación y análisis de patrones en las señales bioeléctricas.
+Posteriormente, para la visualización de los resultados, se graficaron pares específicos de características seleccionadas. Dada la naturaleza multidimensional de los datos, la representación gráfica de las características se limita a graficar pares específicos, ya que la visualización directa de espacios de características con más de tres dimensiones se vuelve inherentemente compleja. La elección de graficar pares específicos permite explorar las relaciones bidimensionales entre características seleccionadas, ofreciendo una perspectiva visual que facilita la interpretación de patrones y tendencias. A pesar de la limitación en la representación tridimensional, la estrategia de graficar pares específicos proporciona una visión detallada de las interacciones entre características, contribuyendo a la comprensión global de la estructura de los datos y respaldando el análisis de los resultados obtenidos mediante los algoritmos de \textit{clustering} aplicados al conjunto completo de características.
+
+En la ultima sección de este capitulo se hablará acerca de la incorporación de la herramienta VAT, la cual ha resultado fundamental para abordar el desafío de visualizar las clases en un espacio multidimensional sin perder información relevante debido a la alta dimensionalidad de los datos. VAT proporciona una representación visual eficaz al reducir la complejidad de los datos, permitiendo la observación de patrones y relaciones entre clases. Esta herramienta ha facilitado la identificación de estructuras y la evaluación de la tendencia de agrupamiento en el conjunto de datos, mejorando así la comprensión y la interpretación de los resultados de los algoritmos de clustering aplicados en contextos de alta dimensionalidad.
 
 \section{Análisis de Grupos en el Dominio de Tiempo}
 En esta sección, se presenta el análisis de grupos aplicado a las características extraídas en el dominio del tiempo. 
@@ -522,6 +527,8 @@ Las características que se extrajeron en el dominio del tiempo fueron:
     \item Energía acumulada
 \end{enumerate}
 
+\subsection{Resultados K-means}
+
 Los resultados del proceso de agrupamiento en el dominio de tiempo revelan una interesante distribución de los datos. En particular,como se observa en las Figuras~\ref{fig: k_means_Time_1_2} y \ref{fig: k_means_time_1_4} la distribución de los datos son muy continuos, lo cual indica que las características 1 respecto de 2 y 1 respecto de 4 podrían no ser muy efectivas para la predicción del tipo de señal bioeléctrica. Mientras que en las Figuras ~\ref{fig: k_means_time_1_5}, \ref{fig: k_means_time_2_4}, \ref{fig: k_means_time_2_5} y \ref{fig: k_means_time_4_5}. Los datos tienden a concentrarse de manera significativa en uno de los grupos, mientras que el otro grupo muestra una menor concentración de datos. 
 
 La gran concentración de datos en un grupo y la menor concentración en el otro grupo indican que las señales bioeléctricas pueden categorizarse de manera efectiva en función de estas características en el dominio del tiempo. Esto sugiere la existencia de patrones distintivos que permiten la separación de las señales en dos grupos significativos. Aunque cabe destacar que es aquí donde se percibe la necesidad de una mayor cantidad de datos de pacientes con epilepsia, lo que permitiría tener dos grupos igual de densos en datos. 
@@ -532,6 +539,7 @@ La gran concentración de datos en un grupo y la menor concentración en el otro
     \caption{Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 2 en el dominio del tiempo  de actividad ictal y no ictal.}
     \label{fig: k_means_Time_1_2}
 \end{figure}
+
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.90\textwidth]{figuras/k_means_time_1and4_sano_ictal.eps}
@@ -563,6 +571,82 @@ La gran concentración de datos en un grupo y la menor concentración en el otro
     \label{fig: k_means_time_4_5}
 \end{figure}
 
+\subsection{Resultados jerárquico}
+Se observó que al aplicar el algoritmo de agrupación jerárquica a las características extraídas en el dominio del tiempo, los datos resultantes mostraron una disposición continua. 
+
+En las Figuras~\ref{fig: jerar_Time_1_2} - \ref{fig: jerar_Time_3_4}, sugiriendo un comportamiento lineal en la distribución de las señales bioeléctricas. En cuanto a la Figura~\ref{fig: jerar_Time_1_4}, se percibe que los datos son muy similares entre ellos. Por lo que diferenciar clases es complejo utilizando las características 1 y 4. Por ultimo, como se observa en las Figuras~\ref{fig: jerar_Time_1_5} - \ref{fig: jerar_Time_4_5}, la combinación de la característica 5 con cualquier otra es altamente discriminatoria entre clases, además de, tener la peculiaridad que los datos se superponen, para la clase ictal. 
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_time_1and_2_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 2 en el dominio del tiempo  de actividad ictal y no ictal.}
+    \label{fig: jerar_Time_1_2}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_time_1and_3_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 3 en el dominio del tiempo  de actividad ictal y no ictal.}
+    \label{fig: jerar_Time_1_3}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_time_2and_3_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 2 y 3 en el dominio del tiempo  de actividad ictal y no ictal.}
+    \label{fig: jerar_Time_2_3}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_time_2and_4_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 2 y 4 en el dominio del tiempo  de actividad ictal y no ictal.}
+    \label{fig: jerar_Time_2_4}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_time_3and_4_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 3 y 4 en el dominio del tiempo  de actividad ictal y no ictal.}
+    \label{fig: jerar_Time_3_4}
+\end{figure}
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_time_1and_4_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 4 en el dominio del tiempo  de actividad ictal y no ictal.}
+    \label{fig: jerar_Time_1_4}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_time_1and_5_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 5 en el dominio del tiempo  de actividad ictal y no ictal.}
+    \label{fig: jerar_Time_1_5}
+\end{figure}
+
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_time_2and_5_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 2 y 5 en el dominio del tiempo  de actividad ictal y no ictal.}
+    \label{fig: jerar_Time_2_5}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_time_3and_5_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 3 y 5 en el dominio del tiempo  de actividad ictal y no ictal.}
+    \label{fig: jerar_Time_3_5}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_time_4and_5_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 4 y 5 en el dominio del tiempo  de actividad ictal y no ictal.}
+    \label{fig: jerar_Time_4_5}
+\end{figure}
+
+
+
+
+
 
 \section{Análisis de Grupos en el Dominio de Frecuencia}
 En el análisis de agrupamiento de señales EEG en el dominio de la frecuencia se trabajaron con las siguientes características:
@@ -578,13 +662,12 @@ En el análisis de agrupamiento de señales EEG en el dominio de la frecuencia s
 
 %, \ref{fig: k_means_freq_1_3}, \ref{fig: k_means_freq_1_4}, \ref{fig: k_means_freq_1_5}, \ref{fig: k_means_freq_1_6}, \ref{fig: k_means_freq_2_3}, \ref{fig: k_means_freq_2_4}, \ref{fig: k_means_freq_2_5}, \ref{fig: k_means_freq_2_6}, \ref{fig: k_means_freq_3_4}, \ref{fig: k_means_freq_3_5}, \ref{fig: k_means_freq_3_6}, \ref{fig: k_means_freq_4_5},\ref{fig: k_means_freq_4_6} y
 
+\subsection{Resultados K-means}
 Los resultados fueron satisfactorios, como se puede observar en las Figuras~\ref{fig: k_means_freq_1_2} -  \ref{fig: k_means_freq_5_6}. Los datos forman un contorno similar a una elipse estirada por uno o dos bordes. Este patrón de agrupación resultó en una correcta separación de los datos en dos grupos, que consisten en señales EEG de individuos con actividad epiléptica y personas sanas. 
 
 La capacidad de K-means para realizar esta separación respalda la validez de los resultados y sugiere la utilidad de las características de frecuencia en la discriminación entre individuos con actividad epiléptica y personas sanas, además de, poder notar que para este dominio la densidad de datos es muy similar para cada grupo. Por lo que el tener una mayor cantidad de datos y de manera diversificada (distintos pacientes) sin duda alguna se obtendrá una predicción excelente. 
 
 Para las figuras anteriormente mencionadas en esta sección, cabe mencionar que con la transición entre cada grupo, se aprecia una disminución en la densidad de datos de manera gradual y significativa. Lo cual es esperado, ya que las grabaciones por parte de HUMANA contienen segmentos donde el paciente no esta pasando por un episodio epiléptico, lo que se interpretar como ruido en las características de su clase (ictal).
-
-
 
 \begin{figure}[H]
     \centering
@@ -594,7 +677,7 @@ Para las figuras anteriormente mencionadas en esta sección, cabe mencionar que 
 \end{figure}
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.90\textwidth]{figuras/k_means_freq_1and3_sano_ictal.eps}
+    \includegraphics[width=0.80\textwidth]{figuras/k_means_freq_1and3_sano_ictal.eps}
     \caption{Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 3 en el dominio de la frecuencia de actividad ictal y no ictal.}
     \label{fig: k_means_freq_1_3}
 \end{figure}
@@ -677,6 +760,100 @@ Para las figuras anteriormente mencionadas en esta sección, cabe mencionar que 
     \label{fig: k_means_freq_5_6}
 \end{figure}
 
+\subsection{Resultados jerárquico}
+Los resultados para este algoritmo de agrupación fueron exitosos como se puede observar en las Figuras~\ref{fig: jerar_freq_1_2} - \ref{fig: jerar_freq_5_6}. Respecto al algoritmo \textit{K-means} se percibe ligeras diferencias, siendo una de estas que la cantidad de épocas percibidas como clase ictal, aumenta considerablemente. Esto sugiere que el análisis de agrupamiento jerárquico, la estructura de árbol permite identificar relaciones de subgrupo dentro de las clases principales, capturando así patrones más complejos y sutiles en los datos. Además, el agrupamiento jerárquico no asume la misma forma esférica de los \textit{clusters} que hace \textit{k-means}, lo que le confiere una mayor flexibilidad para adaptarse a distribuciones de datos más complejas.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_freq_1and_2_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 2 en el dominio de la frecuencia de actividad ictal y no ictal.}
+    \label{fig: jerar_freq_1_2}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_freq_1and_3_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 3 en el dominio de la frecuencia de actividad ictal y no ictal.}
+    \label{fig: jerar_freq_1_3}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_freq_1and_4_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 4 en el dominio de la frecuencia de actividad ictal y no ictal.}
+    \label{fig: jerar_freq_1_4}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_freq_1and_5_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 5 en el dominio de la frecuencia de actividad ictal y no ictal.}
+    \label{fig: jerar_freq_1_5}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_freq_1and_6_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 6 en el dominio de la frecuencia de actividad ictal y no ictal.}
+    \label{fig: jerar_freq_1_6}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_freq_2and_3_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 2 y 3 en el dominio de la frecuencia de actividad ictal y no ictal.}
+    \label{fig: jerar_freq_2_3}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_freq_2and_4_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 2 y 4 en el dominio de la frecuencia de actividad ictal y no ictal.}
+    \label{fig: jerar_freq_2_4}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_freq_2and_5_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 2 y 5 en el dominio de la frecuencia de actividad ictal y no ictal.}
+    \label{fig: jerar_freq_2_5}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_freq_2and_6_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 2 y 6 en el dominio de la frecuencia de actividad ictal y no ictal.}
+    \label{fig: jerar_freq_2_6}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_freq_3and_4_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 3 y 4 en el dominio de la frecuencia de actividad ictal y no ictal.}
+    \label{fig: jerar_freq_3_4}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_freq_3and_5_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 3 y 5 en el dominio de la frecuencia de actividad ictal y no ictal.}
+    \label{fig: jerar_freq_3_5}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_freq_3and_6_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 3 y 6 en el dominio de la frecuencia de actividad ictal y no ictal.}
+    \label{fig: jerar_freq_3_6}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_freq_4and_5_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 4 y 5 en el dominio de la frecuencia de actividad ictal y no ictal.}
+    \label{fig: jerar_freq_4_5}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_freq_4and_6_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 4 y 6 en el dominio de la frecuencia de actividad ictal y no ictal.}
+    \label{fig: jerar_freq_4_6}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_freq_5and_6_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 5 y 6 en el dominio de la frecuencia de actividad ictal y no ictal.}
+    \label{fig: jerar_freq_5_6}
+\end{figure}
 
 
 \section{Análisis de Grupos en el Dominio de Wavelets}
@@ -693,7 +870,7 @@ En esta sección, se aborda el análisis de grupos resultantes de la aplicación
 
 %, \ref{fig: k_means_wave_1_3}, \ref{fig: k_means_wave_1_4}, \ref{fig: k_means_wave_1_5}, \ref{fig: k_means_wave_1_6},
 
-%, \ref{fig: k_means_wave_4_5}, \ref{fig: k_means_wave_4_6} y
+\subsection{Resultados K-means}
  La identificación de dos grupos de señales bioeléctricas que están ampliamente separados en el espacio de características es un hallazgo de gran relevancia, como se observa en las Figuras~\ref{fig: k_means_wave_1_2} - \ref{fig: k_means_wave_2_4}, \ref{fig: k_means_wave_2_6}, \ref{fig: k_means_wave_3_4}, \ref{fig: k_means_wave_3_6} - \ref{fig: k_means_wave_5_6}. Esta distinción evidente indica que las características analizadas, como la potencia, desviación, asimetría, media, curtosis y cruces por cero (ZC), son altamente discriminatorias entre las clases ictal y sana. Esta observación respalda la utilidad de estas características en la detección y diferenciación de estados epilépticos y salud.
 
 La agrupación de datos en dos grupos cercanos, pero con diferentes características de densidad, también presenta un aspecto interesante, como se observar en las Figuras~\ref{fig: k_means_wave_2_3}, \ref{fig: k_means_wave_2_5} y \ref{fig: k_means_wave_3_5}. La concentración de datos en una región más pequeña en un grupo y su expansión en el otro indican que, si bien estos grupos están próximos, aún mantienen diferencias notables. Esta observación puede ser esclarecedora para la comprensión de las variaciones sutiles en las señales bioeléctricas y cómo estas variaciones pueden influir en la clasificación.
@@ -789,22 +966,103 @@ La agrupación de datos en dos grupos cercanos, pero con diferentes característ
     \label{fig: k_means_wave_5_6}
 \end{figure}
 
+\subsection{Resultados jerárquicos}
+Como se puede observar en las Figuras~\ref{fig: jerar_freq_1_2} - \ref{fig: jerar_wave_5_6}, los resultados fueron exitosos, al ser altamente discriminatorios para cada tipo de clase. Se puede notar también que independientemente del algoritmo de agrupamiento empleado para realizar los modelos, se obtendrán resultados muy similares cuando se utilizan características wavelets. 
 
-\chapter{Actualización de la herramienta de software para el estudio de la epilepsia}
-La actualización de la herramienta de software para el estudio de la epilepsia ha resultado en una herramienta más simple de actualizar, ya que los códigos están mejor comentados lo que ayuda definitivamente para la documentación y modificación del mismo. La herramienta ahora cuenta con más programación defensiva, lo cual es de gran ayuda a que la herramienta de software para el estudio de la epilepsia no colapse cuando se produce una advertencia o error inesperado, o por el mal uso de la misma herramienta.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_wavelets_1and_2_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 2 tipo wavelets de actividad ictal y no ictal.}
+    \label{fig: jerar_wave_1_2}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_wavelets_1and_3_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 3 tipo wavelets de actividad ictal y no ictal.}
+    \label{fig: jerar_wave_1_3}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_wavelets_1and_4_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 4 tipo wavelets de actividad ictal y no ictal.}
+    \label{fig: jerar_wave_1_4}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_wavelets_1and_5_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 5 tipo wavelets de actividad ictal y no ictal.}
+    \label{fig: jerar_wave_1_5}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_wavelets_1and_6_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 6 tipo wavelets de actividad ictal y no ictal.}
+    \label{fig: jerar_wave_1_6}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_wavelets_2and_3_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 2 y 3 tipo wavelets de actividad ictal y no ictal.}
+    \label{fig: jerar_wave_2_3}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_wavelets_2and_4_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 2 y 4 tipo wavelets de actividad ictal y no ictal.}
+    \label{fig: jerar_wave_2_4}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_wavelets_2and_5_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 2 y 5 tipo wavelets de actividad ictal y no ictal.}
+    \label{fig: jerar_wave_2_5}
+\end{figure}
 
-Con las actualizaciones hechas, la herramienta tiene las siguientes características:
-\begin{itemize}
-    \item Un software más liviano: al no contar con funciones y variables innecesarias, además de, contar con métodos más sofisticados para realizar tareas en especifico y funciones nativas de MATLAB que se han descontinuado. 
-    \item Facilidad para manipulación de datos: para la importación y exportación de datos, ya que en la actual versión se pueden importar datos del tipo ``edf'', ``MAT'' y de la base de datos local. La exportación de datos se da en formato ``MAT'', ``XLSX'' y ``CSV''.
-\end{itemize}
-
-La presente versión de la herramienta de software para el estudio de la epilepsia concluirá siendo implementada en el trabajo de graduación de Diego Méndez titulado ``Extensión, validación y migración de una herramienta
-de software para el estudio de la epilepsia para su uso en el Centro de Epilepsia y Neurocirugía Funcional (HUMANA)''~\cite{diego_2023}. Dicha implementación permitirá obtener una herramienta de software para el estudio de la epilepsia capaz de ser ejecutada en cualquier computadora siendo amigable con el usuario, además de contar con una base de datos local.  
-
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_wavelets_2and_6_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 2 y 6 tipo wavelets de actividad ictal y no ictal.}
+    \label{fig: jerar_wave_2_6}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_wavelets_3and_4_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 3 y 4 tipo wavelets de actividad ictal y no ictal.}
+    \label{fig: jerar_wave_3_4}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_wavelets_3and_5_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 3 y 5 tipo wavelets de actividad ictal y no ictal.}
+    \label{fig: jerar_wave_3_5}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_wavelets_3and_6_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 3 y 6 tipo wavelets de actividad ictal y no ictal.}
+    \label{fig: jerar_wave_3_6}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_wavelets_4and_5_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 4 y 5 tipo wavelets de actividad ictal y no ictal.}
+    \label{fig: jerar_wave_4_5}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_wavelets_4and_6_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 4 y 6 tipo wavelets de actividad ictal y no ictal.}
+    \label{fig: jerar_wave_4_6}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/jerar_wavelets_5and_6_sano_ictal.eps}
+    \caption{Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 5 y 6 tipo wavelets de actividad ictal y no ictal.}
+    \label{fig: jerar_wave_5_6}
+\end{figure}
 
 \section{Herramienta para la evaluación visual de la tendencia}
-Se añadió la herramienta ``VAT: \textit{ A Tool for Visual Assessment of (Cluster) Tendency}'' como una herramienta valiosa para la evaluación visual de la tendencia de agrupación de datos en señales bioeléctricas como se observa en la Figura~\ref{fig: Vat_toolbox}. Esta herramienta desempeñó un papel esencial al proporcionar una representación visual clara de la estructura de agrupación de datos en múltiples dimensiones. Su uso se justifica en la necesidad de comprender la tendencia de agrupación en un conjunto de características que puede ser complejo y visualmente abrumador al aplicar técnicas de agrupamiento como K-means.
+Se añadió la herramienta ``VAT: \textit{ A Tool for Visual Assessment of (Cluster) Tendency}'' como una herramienta valiosa para la evaluación visual de la tendencia de agrupación de datos en señales bioeléctricas como se observa en la Figura~\ref{fig: Vat_toolbox}. Esta herramienta desempeñó un papel esencial al proporcionar una representación visual clara de la estructura de agrupación de datos en múltiples dimensiones. Su uso se justifica en la necesidad de comprender la tendencia de agrupación en un conjunto de características que puede ser complejo y visualmente abrumador al aplicar técnicas de agrupamiento como K-means o jerárquico.
 
 \begin{figure}[H]
 	\centering
@@ -820,24 +1078,57 @@ En el caso de las características en el dominio de la frecuencia, revelaron ser
 
 En las Figuras~\ref{fig: Vat_freq} y \ref{fig: Vat_wavelet}, se puede percibir que a la fecha no se cuenta con la misma cantidad de grabaciones de personas Ictales respecto a grabaciones de personas sanas. 
 
-La aplicación de ``VAT'' permitió una evaluación efectiva de la tendencia de agrupación en los datos de señales bioeléctricas. Los resultados generados por esta herramienta se alinearon con las expectativas teóricas y ayudaron a identificar patrones de agrupación en el conjunto de datos y visualizar el ruido que se puede encontrar entre los tipos de clases. Esta validación refuerza la fiabilidad y utilidad de la herramienta ``VAT'' en el contexto de este estudio y respalda su contribución a la comprensión de la tendencia de agrupación en señales bioeléctricas.
+La aplicación de ``VAT'' permitió una evaluación efectiva de la tendencia de agrupación en los datos de señales bioeléctricas. Los resultados generados por esta herramienta se alinearon con las expectativas teóricas y ayudaron a identificar patrones de agrupación en el conjunto de datos y visualizar el ruido que se puede encontrar entre los tipos de clases. Esta validación refuerza la fiabilidad y utilidad de la herramienta ``VAT'' en el contexto de este estudio y respalda su contribución a la comprensión de la tendencia de agrupación en señales bioeléctricas.  En los anexos se presentan resultados adicionales a los presentados en esta sección.
 
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.6\textwidth]{figuras/vat_edf_n_Uban15_time.eps}
+	\includegraphics[width=0.75\textwidth]{figuras/vat_edf_n_Uban15_time.eps}
 	\caption{Resultado tras aplicar VAT al vector de características de 5 dimensiones en el dominio tiempo.}
 	\label{fig: Vat_time}
 \end{figure}
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.6\textwidth]{figuras/vat_edf_n_Uban15_freq.eps}
+	\includegraphics[width=0.75\textwidth]{figuras/vat_edf_n_Uban15_freq.eps}
 	\caption{Resultado tras aplicar VAT al vector de características de 6 dimensiones en el dominio frecuencia.}
 	\label{fig: Vat_freq}
 \end{figure}
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.6\textwidth]{figuras/vat_edf_n_Uban15_wavelet.eps}
+	\includegraphics[width=0.8\textwidth]{figuras/vat_edf_n_Uban15_wavelet.eps}
 	\caption{Resultado tras aplicar VAT al vector de características de 6 dimensiones en el dominio wavelets.}
 	\label{fig: Vat_wavelet}
 \end{figure}
+
+
+
+\chapter{Actualización de la herramienta de software para el estudio de la epilepsia}
+La actualización de la herramienta de software para el estudio de la epilepsia ha resultado en una herramienta más simple de actualizar, ya que los códigos están mejor comentados lo que ayuda definitivamente para la documentación y modificación del mismo. La herramienta ahora cuenta con más programación defensiva, lo cual es de gran ayuda a que la herramienta de software para el estudio de la epilepsia no colapse cuando se produce una advertencia o error inesperado, o por el mal uso de la misma herramienta.
+
+Con las actualizaciones hechas, la herramienta tiene las siguientes características:
+\begin{itemize}
+    \item Un software más liviano: al no contar con funciones y variables innecesarias, además de, contar con métodos más sofisticados para realizar tareas en especifico y funciones nativas de MATLAB que se han descontinuado. 
+    \item Facilidad para manipulación de datos: para la importación y exportación de datos, ya que en la actual versión se pueden importar datos del tipo ``edf'', ``MAT'' y de la base de datos local. La exportación de datos se da en formato ``MAT'', ``XLSX'' y ``CSV''.
+\end{itemize}
+
+Se implementó una funcionalidad crucial para mejorar la experiencia del usuario: la incorporación de ventanas de avisos. Estas notificaciones están diseñadas para mantener informado al usuario sobre las acciones en curso dentro de la herramienta de software, como se observa en la Figura~\ref{fig: avisos_toolbox}. Además, ofrecen indicaciones sobre el progreso de procesos extensos, alertan sobre la necesidad de esperar durante operaciones específicas y notifican cualquier problema o inconveniente que pueda surgir durante el uso de la herramienta. Esta adición no solo busca proporcionar una interacción más transparente, sino también brindar al usuario un mayor control y comprensión de las operaciones realizadas en la herramienta de software.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.4\textwidth]{figuras/44_ventana_aviso.png}
+    \caption{Ventana de avisos.}
+    \label{fig: avisos_toolbox}
+\end{figure}
+
+En el marco del continuo desarrollo y mejora de la herramienta de software, se ha integrado una funcionalidad fundamental para facilitar la comprensión y el depurado del sistema. Ahora, la consola de MATLAB presenta mensajes y anuncios, proporcionando información sobre las acciones que se están llevando a cabo dentro de la herramienta de software. Esta característica no solo contribuye al desarrollo continuo del software, sino que también facilita el proceso de depuración, permitiendo a los desarrolladores identificar y abordar eficientemente cualquier problema que pueda surgir durante la ejecución. Dicha inclusión de mensajes en la consola respalda así un entorno de desarrollo más efectivo y eficiente, observese la Figura~\ref{fig: debbug_matlab}.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.65\textwidth]{figuras/46_notes_debug.png}
+    \caption{Notas en consola de MATLAB.}
+    \label{fig: debbug_matlab}
+\end{figure}
+
+La presente versión de la herramienta de software para el estudio de la epilepsia concluirá siendo implementada en el trabajo de graduación de Diego Méndez titulado ``Extensión, validación y migración de una herramienta de software para el estudio de la epilepsia para su uso en el Centro de Epilepsia y Neurocirugía Funcional HUMANA)''~\cite{diego_2023}. Dicha implementación permitirá obtener una herramienta de software para el estudio de la epilepsia capaz de ser ejecutada en cualquier computadora siendo amigable con el usuario, además de contar con una base de datos local.  
+
+

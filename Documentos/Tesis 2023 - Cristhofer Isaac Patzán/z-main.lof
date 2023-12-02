@@ -14,107 +14,149 @@
 \contentsline {figure}{\numberline {6}{\ignorespaces EEG multicanal que muestra el inicio de un ataque epiléptico después del primer segundo. El inicio se caracteriza por un aumento en la amplitud y un cambio en el contenido espectral. La convulsión es particularmente pronunciada en ciertos canales. Tenga en cuenta que el ECG se muestra en la parte inferior \blx@tocontentsinit {0}\cite {Libro_SP_cocoro_neuro_app}.}}{12}{figure.caption.30}%
 \contentsline {figure}{\numberline {7}{\ignorespaces Ejemplo de ritmos cerebrales presentes en un EEG \blx@tocontentsinit {0}\cite {Vallat_2018}.}}{12}{figure.caption.32}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {8}{\ignorespaces Pose de relajación para toma de señales EMG con equipo BIOPAC.}}{22}{figure.caption.52}%
-\contentsline {figure}{\numberline {9}{\ignorespaces Pose de actividad 1 en toma de grabación señal EMG.}}{22}{figure.caption.53}%
-\contentsline {figure}{\numberline {10}{\ignorespaces Pose de actividad 2 en toma de grabación señal EMG.}}{22}{figure.caption.54}%
-\contentsline {figure}{\numberline {11}{\ignorespaces Pose de actividad 3 en toma de grabación señal EMG.}}{22}{figure.caption.55}%
-\contentsline {figure}{\numberline {12}{\ignorespaces Actividad 4 movimiento controlado de cejas.}}{23}{figure.caption.57}%
-\contentsline {figure}{\numberline {13}{\ignorespaces Actividad 5 inclinación de la cabeza hacia abajo.}}{24}{figure.caption.58}%
-\contentsline {figure}{\numberline {14}{\ignorespaces Actividad 6 inclinación de la cabeza hacia arriba.}}{24}{figure.caption.59}%
-\contentsline {figure}{\numberline {15}{\ignorespaces Actividad 7 inclinación de la cabeza hacia el lateral derecho.}}{24}{figure.caption.60}%
-\contentsline {figure}{\numberline {16}{\ignorespaces Estándar para el almacenamiento de datos obtenidos con el equipo BIOPAC de la UVG.}}{24}{figure.caption.62}%
-\contentsline {figure}{\numberline {17}{\ignorespaces Señales bioeléctricas extraídas con el equipo BIOPAC almacenadas según la norma establecida.}}{25}{figure.caption.63}%
-\contentsline {figure}{\numberline {18}{\ignorespaces Contenido de \textit {struct} para el uso de datos dentro de la herramienta de software para el estudio de la epilepsia.}}{26}{figure.caption.65}%
-\contentsline {figure}{\numberline {19}{\ignorespaces Ventana de anotaciones automáticas con nueva sección para exportar datos de interés.}}{28}{figure.caption.74}%
-\contentsline {figure}{\numberline {20}{\ignorespaces Error al utilizar botón de visualización de canales en la ventana de anotaciones automáticas.}}{29}{figure.caption.77}%
-\contentsline {figure}{\numberline {21}{\ignorespaces Alerta al emplear el algoritmo FeaturesMorf.}}{29}{figure.caption.78}%
-\contentsline {figure}{\numberline {22}{\ignorespaces Flujograma de la creación del vector de características versión 2022.}}{30}{figure.caption.79}%
-\contentsline {figure}{\numberline {23}{\ignorespaces Flujograma de la creación del vector de características versión 2023.}}{31}{figure.caption.80}%
-\contentsline {figure}{\numberline {24}{\ignorespaces Segmento de código para el calculo de características de una señal bioeléctrica.}}{31}{figure.caption.83}%
-\contentsline {figure}{\numberline {25}{\ignorespaces Flujograma de algoritmo ZC versión 2022.}}{31}{figure.caption.84}%
-\contentsline {figure}{\numberline {26}{\ignorespaces Flujograma de algoritmo ZC versión 2023.}}{32}{figure.caption.85}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Pose de relajación para toma de señales EMG con equipo BIOPAC.}}{23}{figure.caption.53}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Pose de actividad 1 en toma de grabación señal EMG.}}{23}{figure.caption.54}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Pose de actividad 2 en toma de grabación señal EMG.}}{23}{figure.caption.55}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Pose de actividad 3 en toma de grabación señal EMG.}}{23}{figure.caption.56}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Actividad 4 movimiento controlado de cejas.}}{24}{figure.caption.58}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Actividad 5 inclinación de la cabeza hacia abajo.}}{25}{figure.caption.59}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Actividad 6 inclinación de la cabeza hacia arriba.}}{25}{figure.caption.60}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Actividad 7 inclinación de la cabeza hacia el lateral derecho.}}{25}{figure.caption.61}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Estándar para el almacenamiento de datos obtenidos con el equipo BIOPAC de la UVG.}}{25}{figure.caption.63}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Señales bioeléctricas extraídas con el equipo BIOPAC almacenadas según la norma establecida.}}{26}{figure.caption.64}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Contenido de \textit {struct} para el uso de datos dentro de la herramienta de software para el estudio de la epilepsia.}}{27}{figure.caption.66}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Ventana de anotaciones automáticas con nueva sección para exportar datos de interés.}}{29}{figure.caption.75}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Error al utilizar botón de visualización de canales en la ventana de anotaciones automáticas.}}{30}{figure.caption.78}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Alerta al emplear el algoritmo FeaturesMorf.}}{30}{figure.caption.79}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Flujograma de la creación del vector de características versión 2022.}}{31}{figure.caption.80}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Flujograma de la creación del vector de características versión 2023.}}{31}{figure.caption.81}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Segmento de código para el calculo de características de una señal bioeléctrica.}}{32}{figure.caption.84}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Flujograma de algoritmo ZC versión 2022.}}{33}{figure.caption.85}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Flujograma de algoritmo ZC versión 2023.}}{33}{figure.caption.86}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {27}{\ignorespaces Structs generados a partir de los datos obtenidos con el equipo UVG.}}{34}{figure.caption.89}%
-\contentsline {figure}{\numberline {28}{\ignorespaces Características en el dominio del tiempo continuo.}}{34}{figure.caption.92}%
-\contentsline {figure}{\numberline {29}{\ignorespaces Características con wavelets.}}{35}{figure.caption.93}%
-\contentsline {figure}{\numberline {30}{\ignorespaces Características en el dominio de la frecuencia.}}{35}{figure.caption.94}%
-\contentsline {figure}{\numberline {31}{\ignorespaces Ventana de inicio para generar anotaciones automáticas.}}{36}{figure.caption.97}%
-\contentsline {figure}{\numberline {32}{\ignorespaces Anotaciones automáticas de 33 canales analizados.}}{37}{figure.caption.99}%
-\contentsline {figure}{\numberline {33}{\ignorespaces Anotaciones automáticas de 33 canales analizados con menor cantidad de EEG de personas sin actividad ictal.}}{37}{figure.caption.100}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Structs generados a partir de los datos obtenidos con el equipo UVG.}}{35}{figure.caption.90}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Características en el dominio del tiempo continuo.}}{36}{figure.caption.93}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Características con wavelets.}}{36}{figure.caption.94}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Características en el dominio de la frecuencia.}}{36}{figure.caption.95}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Ventana de inicio para generar anotaciones automáticas.}}{37}{figure.caption.98}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Anotaciones automáticas de 33 canales analizados.}}{38}{figure.caption.100}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Anotaciones automáticas de 33 canales analizados con menor cantidad de EEG de personas sin actividad ictal.}}{38}{figure.caption.101}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {34}{\ignorespaces Matriz de confusión para las clases Ictal y Sano utilizando SVM con características wavelets.}}{39}{figure.caption.103}%
-\contentsline {figure}{\numberline {35}{\ignorespaces Matriz de confusión para las clases Ictal y Sano utilizando SVM con características en tiempo continuo.}}{39}{figure.caption.104}%
-\contentsline {figure}{\numberline {36}{\ignorespaces Matriz de confusión para las clases Ictal y Sano utilizando SVM con características frecuencia.}}{40}{figure.caption.105}%
-\contentsline {figure}{\numberline {37}{\ignorespaces Matriz de confusión para las clases Ictal y Sano utilizando RNA con características wavelets.}}{40}{figure.caption.106}%
-\contentsline {figure}{\numberline {38}{\ignorespaces Matriz de confusión para las clases Ictal y Sano utilizando RNA con características en tiempo continuo.}}{41}{figure.caption.107}%
-\contentsline {figure}{\numberline {39}{\ignorespaces Matriz de confusión para las clases Ictal y Sano utilizando RNA con características en frecuencia.}}{41}{figure.caption.108}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Matriz de confusión para las clases Ictal y Sano utilizando SVM con características wavelets.}}{41}{figure.caption.104}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Matriz de confusión para las clases Ictal y Sano utilizando SVM con características en tiempo continuo.}}{41}{figure.caption.105}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Matriz de confusión para las clases Ictal y Sano utilizando SVM con características frecuencia.}}{42}{figure.caption.106}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Matriz de confusión para las clases Ictal y Sano utilizando RNA con características wavelets.}}{42}{figure.caption.107}%
+\contentsline {figure}{\numberline {38}{\ignorespaces Matriz de confusión para las clases Ictal y Sano utilizando RNA con características en tiempo continuo.}}{43}{figure.caption.108}%
+\contentsline {figure}{\numberline {39}{\ignorespaces Matriz de confusión para las clases Ictal y Sano utilizando RNA con características en frecuencia.}}{43}{figure.caption.109}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {40}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 2 en el dominio del tiempo de actividad ictal y no ictal.}}{44}{figure.caption.118}%
-\contentsline {figure}{\numberline {41}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 4 en el dominio del tiempo de actividad ictal y no ictal.}}{45}{figure.caption.119}%
-\contentsline {figure}{\numberline {42}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 5 en el dominio del tiempo de actividad ictal y no ictal.}}{45}{figure.caption.120}%
-\contentsline {figure}{\numberline {43}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 2 y 4 en el dominio del tiempo de actividad ictal y no ictal.}}{46}{figure.caption.121}%
-\contentsline {figure}{\numberline {44}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 2 y 5 en el dominio del tiempo de actividad ictal y no ictal.}}{46}{figure.caption.122}%
-\contentsline {figure}{\numberline {45}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 4 y 5 en el dominio del tiempo de actividad ictal y no ictal.}}{47}{figure.caption.123}%
-\contentsline {figure}{\numberline {46}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 2 en el dominio de la frecuencia de actividad ictal y no ictal.}}{48}{figure.caption.131}%
-\contentsline {figure}{\numberline {47}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 3 en el dominio de la frecuencia de actividad ictal y no ictal.}}{49}{figure.caption.132}%
-\contentsline {figure}{\numberline {48}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 4 en el dominio de la frecuencia de actividad ictal y no ictal.}}{50}{figure.caption.133}%
-\contentsline {figure}{\numberline {49}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 5 en el dominio de la frecuencia de actividad ictal y no ictal.}}{50}{figure.caption.134}%
-\contentsline {figure}{\numberline {50}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 6 en el dominio de la frecuencia de actividad ictal y no ictal.}}{51}{figure.caption.135}%
-\contentsline {figure}{\numberline {51}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 2 y 3 en el dominio de la frecuencia de actividad ictal y no ictal.}}{51}{figure.caption.136}%
-\contentsline {figure}{\numberline {52}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 2 y 4 en el dominio de la frecuencia de actividad ictal y no ictal.}}{52}{figure.caption.137}%
-\contentsline {figure}{\numberline {53}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 2 y 5 en el dominio de la frecuencia de actividad ictal y no ictal.}}{52}{figure.caption.138}%
-\contentsline {figure}{\numberline {54}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 2 y 6 en el dominio de la frecuencia de actividad ictal y no ictal.}}{53}{figure.caption.139}%
-\contentsline {figure}{\numberline {55}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 3 y 4 en el dominio de la frecuencia de actividad ictal y no ictal.}}{53}{figure.caption.140}%
-\contentsline {figure}{\numberline {56}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 3 y 5 en el dominio de la frecuencia de actividad ictal y no ictal.}}{54}{figure.caption.141}%
-\contentsline {figure}{\numberline {57}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 3 y 6 en el dominio de la frecuencia de actividad ictal y no ictal.}}{54}{figure.caption.142}%
-\contentsline {figure}{\numberline {58}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 4 y 5 en el dominio de la frecuencia de actividad ictal y no ictal.}}{55}{figure.caption.143}%
-\contentsline {figure}{\numberline {59}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 4 y 6 en el dominio de la frecuencia de actividad ictal y no ictal.}}{55}{figure.caption.144}%
-\contentsline {figure}{\numberline {60}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 5 y 6 en el dominio de la frecuencia de actividad ictal y no ictal.}}{56}{figure.caption.145}%
-\contentsline {figure}{\numberline {61}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 2 tipo wavelets de actividad ictal y no ictal.}}{57}{figure.caption.153}%
-\contentsline {figure}{\numberline {62}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 3 tipo wavelets de actividad ictal y no ictal.}}{58}{figure.caption.154}%
-\contentsline {figure}{\numberline {63}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 4 tipo wavelets de actividad ictal y no ictal.}}{58}{figure.caption.155}%
-\contentsline {figure}{\numberline {64}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 5 tipo wavelets de actividad ictal y no ictal.}}{59}{figure.caption.156}%
-\contentsline {figure}{\numberline {65}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 6 tipo wavelets de actividad ictal y no ictal.}}{59}{figure.caption.157}%
-\contentsline {figure}{\numberline {66}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 2 y 3 tipo wavelets de actividad ictal y no ictal.}}{60}{figure.caption.158}%
-\contentsline {figure}{\numberline {67}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 2 y 4 tipo wavelets de actividad ictal y no ictal.}}{60}{figure.caption.159}%
-\contentsline {figure}{\numberline {68}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 2 y 5 tipo wavelets de actividad ictal y no ictal.}}{61}{figure.caption.160}%
-\contentsline {figure}{\numberline {69}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 2 y 6 tipo wavelets de actividad ictal y no ictal.}}{61}{figure.caption.161}%
-\contentsline {figure}{\numberline {70}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 3 y 4 tipo wavelets de actividad ictal y no ictal.}}{62}{figure.caption.162}%
-\contentsline {figure}{\numberline {71}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 3 y 5 tipo wavelets de actividad ictal y no ictal.}}{62}{figure.caption.163}%
-\contentsline {figure}{\numberline {72}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 3 y 6 tipo wavelets de actividad ictal y no ictal.}}{63}{figure.caption.164}%
-\contentsline {figure}{\numberline {73}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 4 y 5 tipo wavelets de actividad ictal y no ictal.}}{63}{figure.caption.165}%
-\contentsline {figure}{\numberline {74}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 4 y 6 tipo wavelets de actividad ictal y no ictal.}}{64}{figure.caption.166}%
-\contentsline {figure}{\numberline {75}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 5 y 6 tipo wavelets de actividad ictal y no ictal.}}{64}{figure.caption.167}%
+\contentsline {figure}{\numberline {40}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 2 en el dominio del tiempo de actividad ictal y no ictal.}}{47}{figure.caption.120}%
+\contentsline {figure}{\numberline {41}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 4 en el dominio del tiempo de actividad ictal y no ictal.}}{47}{figure.caption.121}%
+\contentsline {figure}{\numberline {42}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 5 en el dominio del tiempo de actividad ictal y no ictal.}}{48}{figure.caption.122}%
+\contentsline {figure}{\numberline {43}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 2 y 4 en el dominio del tiempo de actividad ictal y no ictal.}}{48}{figure.caption.123}%
+\contentsline {figure}{\numberline {44}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 2 y 5 en el dominio del tiempo de actividad ictal y no ictal.}}{49}{figure.caption.124}%
+\contentsline {figure}{\numberline {45}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 4 y 5 en el dominio del tiempo de actividad ictal y no ictal.}}{49}{figure.caption.125}%
+\contentsline {figure}{\numberline {46}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 2 en el dominio del tiempo de actividad ictal y no ictal.}}{50}{figure.caption.127}%
+\contentsline {figure}{\numberline {47}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 3 en el dominio del tiempo de actividad ictal y no ictal.}}{50}{figure.caption.128}%
+\contentsline {figure}{\numberline {48}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 2 y 3 en el dominio del tiempo de actividad ictal y no ictal.}}{51}{figure.caption.129}%
+\contentsline {figure}{\numberline {49}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 2 y 4 en el dominio del tiempo de actividad ictal y no ictal.}}{51}{figure.caption.130}%
+\contentsline {figure}{\numberline {50}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 3 y 4 en el dominio del tiempo de actividad ictal y no ictal.}}{52}{figure.caption.131}%
+\contentsline {figure}{\numberline {51}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 4 en el dominio del tiempo de actividad ictal y no ictal.}}{52}{figure.caption.132}%
+\contentsline {figure}{\numberline {52}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 5 en el dominio del tiempo de actividad ictal y no ictal.}}{53}{figure.caption.133}%
+\contentsline {figure}{\numberline {53}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 2 y 5 en el dominio del tiempo de actividad ictal y no ictal.}}{53}{figure.caption.134}%
+\contentsline {figure}{\numberline {54}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 3 y 5 en el dominio del tiempo de actividad ictal y no ictal.}}{54}{figure.caption.135}%
+\contentsline {figure}{\numberline {55}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 4 y 5 en el dominio del tiempo de actividad ictal y no ictal.}}{54}{figure.caption.136}%
+\contentsline {figure}{\numberline {56}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 2 en el dominio de la frecuencia de actividad ictal y no ictal.}}{55}{figure.caption.145}%
+\contentsline {figure}{\numberline {57}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 3 en el dominio de la frecuencia de actividad ictal y no ictal.}}{56}{figure.caption.146}%
+\contentsline {figure}{\numberline {58}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 4 en el dominio de la frecuencia de actividad ictal y no ictal.}}{56}{figure.caption.147}%
+\contentsline {figure}{\numberline {59}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 5 en el dominio de la frecuencia de actividad ictal y no ictal.}}{57}{figure.caption.148}%
+\contentsline {figure}{\numberline {60}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 6 en el dominio de la frecuencia de actividad ictal y no ictal.}}{57}{figure.caption.149}%
+\contentsline {figure}{\numberline {61}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 2 y 3 en el dominio de la frecuencia de actividad ictal y no ictal.}}{58}{figure.caption.150}%
+\contentsline {figure}{\numberline {62}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 2 y 4 en el dominio de la frecuencia de actividad ictal y no ictal.}}{58}{figure.caption.151}%
+\contentsline {figure}{\numberline {63}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 2 y 5 en el dominio de la frecuencia de actividad ictal y no ictal.}}{59}{figure.caption.152}%
+\contentsline {figure}{\numberline {64}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 2 y 6 en el dominio de la frecuencia de actividad ictal y no ictal.}}{59}{figure.caption.153}%
+\contentsline {figure}{\numberline {65}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 3 y 4 en el dominio de la frecuencia de actividad ictal y no ictal.}}{60}{figure.caption.154}%
+\contentsline {figure}{\numberline {66}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 3 y 5 en el dominio de la frecuencia de actividad ictal y no ictal.}}{60}{figure.caption.155}%
+\contentsline {figure}{\numberline {67}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 3 y 6 en el dominio de la frecuencia de actividad ictal y no ictal.}}{61}{figure.caption.156}%
+\contentsline {figure}{\numberline {68}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 4 y 5 en el dominio de la frecuencia de actividad ictal y no ictal.}}{61}{figure.caption.157}%
+\contentsline {figure}{\numberline {69}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 4 y 6 en el dominio de la frecuencia de actividad ictal y no ictal.}}{62}{figure.caption.158}%
+\contentsline {figure}{\numberline {70}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 5 y 6 en el dominio de la frecuencia de actividad ictal y no ictal.}}{62}{figure.caption.159}%
+\contentsline {figure}{\numberline {71}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 2 en el dominio de la frecuencia de actividad ictal y no ictal.}}{63}{figure.caption.161}%
+\contentsline {figure}{\numberline {72}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 3 en el dominio de la frecuencia de actividad ictal y no ictal.}}{64}{figure.caption.162}%
+\contentsline {figure}{\numberline {73}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 4 en el dominio de la frecuencia de actividad ictal y no ictal.}}{64}{figure.caption.163}%
+\contentsline {figure}{\numberline {74}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 5 en el dominio de la frecuencia de actividad ictal y no ictal.}}{65}{figure.caption.164}%
+\contentsline {figure}{\numberline {75}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 6 en el dominio de la frecuencia de actividad ictal y no ictal.}}{65}{figure.caption.165}%
+\contentsline {figure}{\numberline {76}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 2 y 3 en el dominio de la frecuencia de actividad ictal y no ictal.}}{66}{figure.caption.166}%
+\contentsline {figure}{\numberline {77}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 2 y 4 en el dominio de la frecuencia de actividad ictal y no ictal.}}{66}{figure.caption.167}%
+\contentsline {figure}{\numberline {78}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 2 y 5 en el dominio de la frecuencia de actividad ictal y no ictal.}}{67}{figure.caption.168}%
+\contentsline {figure}{\numberline {79}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 2 y 6 en el dominio de la frecuencia de actividad ictal y no ictal.}}{67}{figure.caption.169}%
+\contentsline {figure}{\numberline {80}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 3 y 4 en el dominio de la frecuencia de actividad ictal y no ictal.}}{68}{figure.caption.170}%
+\contentsline {figure}{\numberline {81}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 3 y 5 en el dominio de la frecuencia de actividad ictal y no ictal.}}{68}{figure.caption.171}%
+\contentsline {figure}{\numberline {82}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 3 y 6 en el dominio de la frecuencia de actividad ictal y no ictal.}}{69}{figure.caption.172}%
+\contentsline {figure}{\numberline {83}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 4 y 5 en el dominio de la frecuencia de actividad ictal y no ictal.}}{69}{figure.caption.173}%
+\contentsline {figure}{\numberline {84}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 4 y 6 en el dominio de la frecuencia de actividad ictal y no ictal.}}{70}{figure.caption.174}%
+\contentsline {figure}{\numberline {85}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 5 y 6 en el dominio de la frecuencia de actividad ictal y no ictal.}}{70}{figure.caption.175}%
+\contentsline {figure}{\numberline {86}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 2 tipo wavelets de actividad ictal y no ictal.}}{71}{figure.caption.184}%
+\contentsline {figure}{\numberline {87}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 3 tipo wavelets de actividad ictal y no ictal.}}{72}{figure.caption.185}%
+\contentsline {figure}{\numberline {88}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 4 tipo wavelets de actividad ictal y no ictal.}}{72}{figure.caption.186}%
+\contentsline {figure}{\numberline {89}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 5 tipo wavelets de actividad ictal y no ictal.}}{73}{figure.caption.187}%
+\contentsline {figure}{\numberline {90}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 1 y 6 tipo wavelets de actividad ictal y no ictal.}}{73}{figure.caption.188}%
+\contentsline {figure}{\numberline {91}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 2 y 3 tipo wavelets de actividad ictal y no ictal.}}{74}{figure.caption.189}%
+\contentsline {figure}{\numberline {92}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 2 y 4 tipo wavelets de actividad ictal y no ictal.}}{74}{figure.caption.190}%
+\contentsline {figure}{\numberline {93}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 2 y 5 tipo wavelets de actividad ictal y no ictal.}}{75}{figure.caption.191}%
+\contentsline {figure}{\numberline {94}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 2 y 6 tipo wavelets de actividad ictal y no ictal.}}{75}{figure.caption.192}%
+\contentsline {figure}{\numberline {95}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 3 y 4 tipo wavelets de actividad ictal y no ictal.}}{76}{figure.caption.193}%
+\contentsline {figure}{\numberline {96}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 3 y 5 tipo wavelets de actividad ictal y no ictal.}}{76}{figure.caption.194}%
+\contentsline {figure}{\numberline {97}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 3 y 6 tipo wavelets de actividad ictal y no ictal.}}{77}{figure.caption.195}%
+\contentsline {figure}{\numberline {98}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 4 y 5 tipo wavelets de actividad ictal y no ictal.}}{77}{figure.caption.196}%
+\contentsline {figure}{\numberline {99}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 4 y 6 tipo wavelets de actividad ictal y no ictal.}}{78}{figure.caption.197}%
+\contentsline {figure}{\numberline {100}{\ignorespaces Gráfica de agrupamiento por k-means de señales bioeléctricas de las características 5 y 6 tipo wavelets de actividad ictal y no ictal.}}{78}{figure.caption.198}%
+\contentsline {figure}{\numberline {101}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 2 tipo wavelets de actividad ictal y no ictal.}}{79}{figure.caption.200}%
+\contentsline {figure}{\numberline {102}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 3 tipo wavelets de actividad ictal y no ictal.}}{79}{figure.caption.201}%
+\contentsline {figure}{\numberline {103}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 4 tipo wavelets de actividad ictal y no ictal.}}{80}{figure.caption.202}%
+\contentsline {figure}{\numberline {104}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 5 tipo wavelets de actividad ictal y no ictal.}}{80}{figure.caption.203}%
+\contentsline {figure}{\numberline {105}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 1 y 6 tipo wavelets de actividad ictal y no ictal.}}{81}{figure.caption.204}%
+\contentsline {figure}{\numberline {106}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 2 y 3 tipo wavelets de actividad ictal y no ictal.}}{81}{figure.caption.205}%
+\contentsline {figure}{\numberline {107}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 2 y 4 tipo wavelets de actividad ictal y no ictal.}}{82}{figure.caption.206}%
+\contentsline {figure}{\numberline {108}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 2 y 5 tipo wavelets de actividad ictal y no ictal.}}{82}{figure.caption.207}%
+\contentsline {figure}{\numberline {109}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 2 y 6 tipo wavelets de actividad ictal y no ictal.}}{83}{figure.caption.208}%
+\contentsline {figure}{\numberline {110}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 3 y 4 tipo wavelets de actividad ictal y no ictal.}}{83}{figure.caption.209}%
+\contentsline {figure}{\numberline {111}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 3 y 5 tipo wavelets de actividad ictal y no ictal.}}{84}{figure.caption.210}%
+\contentsline {figure}{\numberline {112}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 3 y 6 tipo wavelets de actividad ictal y no ictal.}}{84}{figure.caption.211}%
+\contentsline {figure}{\numberline {113}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 4 y 5 tipo wavelets de actividad ictal y no ictal.}}{85}{figure.caption.212}%
+\contentsline {figure}{\numberline {114}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 4 y 6 tipo wavelets de actividad ictal y no ictal.}}{85}{figure.caption.213}%
+\contentsline {figure}{\numberline {115}{\ignorespaces Gráfica de agrupamiento jerárquico de señales bioeléctricas de las características 5 y 6 tipo wavelets de actividad ictal y no ictal.}}{86}{figure.caption.214}%
+\contentsline {figure}{\numberline {116}{\ignorespaces VAT en la herramienta de software para el estudio de la epilepsia.}}{87}{figure.caption.216}%
+\contentsline {figure}{\numberline {117}{\ignorespaces Resultado tras aplicar VAT al vector de características de 5 dimensiones en el dominio tiempo.}}{88}{figure.caption.217}%
+\contentsline {figure}{\numberline {118}{\ignorespaces Resultado tras aplicar VAT al vector de características de 6 dimensiones en el dominio frecuencia.}}{88}{figure.caption.218}%
+\contentsline {figure}{\numberline {119}{\ignorespaces Resultado tras aplicar VAT al vector de características de 6 dimensiones en el dominio wavelets.}}{89}{figure.caption.219}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {76}{\ignorespaces VAT en la herramienta de software para el estudio de la epilepsia.}}{66}{figure.caption.170}%
-\contentsline {figure}{\numberline {77}{\ignorespaces Resultado tras aplicar VAT al vector de características de 5 dimensiones en el dominio tiempo.}}{67}{figure.caption.171}%
-\contentsline {figure}{\numberline {78}{\ignorespaces Resultado tras aplicar VAT al vector de características de 6 dimensiones en el dominio frecuencia.}}{67}{figure.caption.172}%
-\contentsline {figure}{\numberline {79}{\ignorespaces Resultado tras aplicar VAT al vector de características de 6 dimensiones en el dominio wavelets.}}{68}{figure.caption.173}%
+\contentsline {figure}{\numberline {120}{\ignorespaces Ventana de avisos.}}{91}{figure.caption.221}%
+\contentsline {figure}{\numberline {121}{\ignorespaces Notas en consola de MATLAB.}}{91}{figure.caption.222}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {80}{\ignorespaces VAT usando 100 épocas de características tipo frecuencia.}}{75}{figure.caption.181}%
-\contentsline {figure}{\numberline {81}{\ignorespaces VAT usando 500épocas de características tipo frecuencia.}}{75}{figure.caption.182}%
-\contentsline {figure}{\numberline {82}{\ignorespaces VAT usando 1000 épocas de características tipo frecuencia.}}{76}{figure.caption.183}%
-\contentsline {figure}{\numberline {83}{\ignorespaces VAT usando 1500 épocas de características tipo frecuencia.}}{76}{figure.caption.184}%
-\contentsline {figure}{\numberline {84}{\ignorespaces VAT usando 2000 épocas de características tipo frecuencia.}}{77}{figure.caption.185}%
-\contentsline {figure}{\numberline {85}{\ignorespaces VAT usando 2500 épocas de características tipo frecuencia.}}{77}{figure.caption.186}%
-\contentsline {figure}{\numberline {86}{\ignorespaces VAT usando 2600 épocas de características tipo frecuencia.}}{78}{figure.caption.187}%
-\contentsline {figure}{\numberline {87}{\ignorespaces VAT usando 2700 épocas de características tipo frecuencia.}}{78}{figure.caption.188}%
-\contentsline {figure}{\numberline {88}{\ignorespaces VAT usando 100 épocas de características tipo tiempo continuo.}}{79}{figure.caption.190}%
-\contentsline {figure}{\numberline {89}{\ignorespaces VAT usando 500 épocas de características tipo tiempo continuo.}}{80}{figure.caption.191}%
-\contentsline {figure}{\numberline {90}{\ignorespaces VAT usando 1000 épocas de características tipo tiempo continuo.}}{80}{figure.caption.192}%
-\contentsline {figure}{\numberline {91}{\ignorespaces VAT usando 1500 épocas de características tipo tiempo continuo.}}{81}{figure.caption.193}%
-\contentsline {figure}{\numberline {92}{\ignorespaces VAT usando 2000 épocas de características tipo tiempo continuo.}}{81}{figure.caption.194}%
-\contentsline {figure}{\numberline {93}{\ignorespaces VAT usando 2100 épocas de características tipo tiempo continuo.}}{82}{figure.caption.195}%
-\contentsline {figure}{\numberline {94}{\ignorespaces VAT usando 2200 épocas de características tipo tiempo continuo.}}{82}{figure.caption.196}%
-\contentsline {figure}{\numberline {95}{\ignorespaces VAT usando 2300 épocas de características tipo tiempo continuo.}}{83}{figure.caption.197}%
-\contentsline {figure}{\numberline {96}{\ignorespaces VAT usando 100 épocas de características tipo wavelets.}}{84}{figure.caption.199}%
-\contentsline {figure}{\numberline {97}{\ignorespaces VAT usando 500 épocas de características tipo wavelets.}}{84}{figure.caption.200}%
-\contentsline {figure}{\numberline {98}{\ignorespaces VAT usando 1000 épocas de características tipo wavelets.}}{85}{figure.caption.201}%
-\contentsline {figure}{\numberline {99}{\ignorespaces VAT usando 1500 épocas de características tipo wavelets.}}{85}{figure.caption.202}%
-\contentsline {figure}{\numberline {100}{\ignorespaces VAT usando 2000 épocas de características tipo wavelets.}}{86}{figure.caption.203}%
-\contentsline {figure}{\numberline {101}{\ignorespaces VAT usando 2100 épocas de características tipo wavelets.}}{86}{figure.caption.204}%
-\contentsline {figure}{\numberline {102}{\ignorespaces VAT usando 2200 épocas de características tipo wavelets.}}{87}{figure.caption.205}%
-\contentsline {figure}{\numberline {103}{\ignorespaces VAT usando 2300 épocas de características tipo wavelets.}}{87}{figure.caption.206}%
+\contentsline {figure}{\numberline {122}{\ignorespaces VAT usando 100 épocas de características tipo frecuencia.}}{99}{figure.caption.231}%
+\contentsline {figure}{\numberline {123}{\ignorespaces VAT usando 500épocas de características tipo frecuencia.}}{100}{figure.caption.232}%
+\contentsline {figure}{\numberline {124}{\ignorespaces VAT usando 1000 épocas de características tipo frecuencia.}}{100}{figure.caption.233}%
+\contentsline {figure}{\numberline {125}{\ignorespaces VAT usando 1500 épocas de características tipo frecuencia.}}{101}{figure.caption.234}%
+\contentsline {figure}{\numberline {126}{\ignorespaces VAT usando 2000 épocas de características tipo frecuencia.}}{101}{figure.caption.235}%
+\contentsline {figure}{\numberline {127}{\ignorespaces VAT usando 2500 épocas de características tipo frecuencia.}}{102}{figure.caption.236}%
+\contentsline {figure}{\numberline {128}{\ignorespaces VAT usando 2600 épocas de características tipo frecuencia.}}{102}{figure.caption.237}%
+\contentsline {figure}{\numberline {129}{\ignorespaces VAT usando 2700 épocas de características tipo frecuencia.}}{103}{figure.caption.238}%
+\contentsline {figure}{\numberline {130}{\ignorespaces VAT usando 100 épocas de características tipo tiempo continuo.}}{104}{figure.caption.240}%
+\contentsline {figure}{\numberline {131}{\ignorespaces VAT usando 500 épocas de características tipo tiempo continuo.}}{104}{figure.caption.241}%
+\contentsline {figure}{\numberline {132}{\ignorespaces VAT usando 1000 épocas de características tipo tiempo continuo.}}{105}{figure.caption.242}%
+\contentsline {figure}{\numberline {133}{\ignorespaces VAT usando 1500 épocas de características tipo tiempo continuo.}}{105}{figure.caption.243}%
+\contentsline {figure}{\numberline {134}{\ignorespaces VAT usando 2000 épocas de características tipo tiempo continuo.}}{106}{figure.caption.244}%
+\contentsline {figure}{\numberline {135}{\ignorespaces VAT usando 2100 épocas de características tipo tiempo continuo.}}{106}{figure.caption.245}%
+\contentsline {figure}{\numberline {136}{\ignorespaces VAT usando 2200 épocas de características tipo tiempo continuo.}}{107}{figure.caption.246}%
+\contentsline {figure}{\numberline {137}{\ignorespaces VAT usando 2300 épocas de características tipo tiempo continuo.}}{107}{figure.caption.247}%
+\contentsline {figure}{\numberline {138}{\ignorespaces VAT usando 100 épocas de características tipo wavelets.}}{108}{figure.caption.249}%
+\contentsline {figure}{\numberline {139}{\ignorespaces VAT usando 500 épocas de características tipo wavelets.}}{109}{figure.caption.250}%
+\contentsline {figure}{\numberline {140}{\ignorespaces VAT usando 1000 épocas de características tipo wavelets.}}{109}{figure.caption.251}%
+\contentsline {figure}{\numberline {141}{\ignorespaces VAT usando 1500 épocas de características tipo wavelets.}}{110}{figure.caption.252}%
+\contentsline {figure}{\numberline {142}{\ignorespaces VAT usando 2000 épocas de características tipo wavelets.}}{110}{figure.caption.253}%
+\contentsline {figure}{\numberline {143}{\ignorespaces VAT usando 2100 épocas de características tipo wavelets.}}{111}{figure.caption.254}%
+\contentsline {figure}{\numberline {144}{\ignorespaces VAT usando 2200 épocas de características tipo wavelets.}}{111}{figure.caption.255}%
+\contentsline {figure}{\numberline {145}{\ignorespaces VAT usando 2300 épocas de características tipo wavelets.}}{112}{figure.caption.256}%
