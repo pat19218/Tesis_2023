@@ -1,0 +1,8 @@
+/root/.local/include/metis.h
+/root/.local/lib/libmetis.so
+/root/.local/bin/gpmetis
+/root/.local/bin/ndmetis
+/root/.local/bin/mpmetis
+/root/.local/bin/m2gmetis
+/root/.local/bin/graphchk
+/root/.local/bin/cmpfillin
