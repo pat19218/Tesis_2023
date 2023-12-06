@@ -68,12 +68,13 @@
 \contentsline {subsection}{\numberline {10.3.2}Resultados jerárquicos}{79}{subsection.199}%
 \contentsline {section}{\numberline {10.4}Herramienta para la evaluación visual de la tendencia}{86}{section.215}%
 \contentsline {chapter}{\numberline {11}Actualización de la herramienta de software para el estudio de la epilepsia}{90}{chapter.220}%
-\contentsline {chapter}{\numberline {12}Conclusiones}{93}{chapter.223}%
-\contentsline {chapter}{\numberline {13}Recomendaciones}{94}{chapter.224}%
-\contentsline {chapter}{\numberline {14}Bibliograf\'{\i }a}{95}{chapter.226}%
-\contentsline {chapter}{\numberline {15}Anexos}{98}{chapter.227}%
-\contentsline {section}{\numberline {15.1}Sitios web con herramienta de software y datos recolectados}{98}{section.228}%
-\contentsline {section}{\numberline {15.2}Pruebas con algoritmo VAT}{98}{section.229}%
-\contentsline {subsection}{\numberline {15.2.1}VAT características en el dominio de frecuencia}{99}{subsection.230}%
-\contentsline {subsection}{\numberline {15.2.2}VAT características en el dominio de tiempo continuo}{103}{subsection.239}%
-\contentsline {subsection}{\numberline {15.2.3}VAT características en el dominio de wavelets}{108}{subsection.248}%
+\contentsline {chapter}{\numberline {12}Exploración con algoritmo CHAMELEON}{94}{chapter.226}%
+\contentsline {chapter}{\numberline {13}Conclusiones}{97}{chapter.230}%
+\contentsline {chapter}{\numberline {14}Recomendaciones}{98}{chapter.231}%
+\contentsline {chapter}{\numberline {15}Bibliograf\'{\i }a}{99}{chapter.233}%
+\contentsline {chapter}{\numberline {16}Anexos}{102}{chapter.234}%
+\contentsline {section}{\numberline {16.1}Sitios web con herramienta de software y datos recolectados}{102}{section.235}%
+\contentsline {section}{\numberline {16.2}Pruebas con algoritmo VAT}{102}{section.236}%
+\contentsline {subsection}{\numberline {16.2.1}VAT características en el dominio de frecuencia}{103}{subsection.237}%
+\contentsline {subsection}{\numberline {16.2.2}VAT características en el dominio de tiempo continuo}{107}{subsection.246}%
+\contentsline {subsection}{\numberline {16.2.3}VAT características en el dominio de wavelets}{112}{subsection.255}%

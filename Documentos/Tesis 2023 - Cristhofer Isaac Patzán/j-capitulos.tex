@@ -1105,6 +1105,8 @@ La aplicación de ``VAT'' permitió una evaluación efectiva de la tendencia de 
 \chapter{Actualización de la herramienta de software para el estudio de la epilepsia}
 La actualización de la herramienta de software para el estudio de la epilepsia ha resultado en una herramienta más simple de actualizar, ya que los códigos están mejor comentados lo que ayuda definitivamente para la documentación y modificación del mismo. La herramienta ahora cuenta con más programación defensiva, lo cual es de gran ayuda a que la herramienta de software para el estudio de la epilepsia no colapse cuando se produce una advertencia o error inesperado, o por el mal uso de la misma herramienta.
 
+La presente versión de la herramienta de software para el estudio de la epilepsia concluirá siendo implementada en el trabajo de graduación de Diego Méndez titulado ``Extensión, validación y migración de una herramienta de software para el estudio de la epilepsia para su uso en el Centro de Epilepsia y Neurocirugía Funcional HUMANA)''~\cite{diego_2023}. Dicha implementación permitirá obtener una herramienta de software para el estudio de la epilepsia capaz de ser ejecutada en cualquier computadora siendo amigable con el usuario, además de contar con una base de datos local.  
+
 Con las actualizaciones hechas, la herramienta tiene las siguientes características:
 \begin{itemize}
     \item Un software más liviano: al no contar con funciones y variables innecesarias, además de, contar con métodos más sofisticados para realizar tareas en especifico y funciones nativas de MATLAB que se han descontinuado. 
@@ -1129,6 +1131,58 @@ En el marco del continuo desarrollo y mejora de la herramienta de software, se h
     \label{fig: debbug_matlab}
 \end{figure}
 
-La presente versión de la herramienta de software para el estudio de la epilepsia concluirá siendo implementada en el trabajo de graduación de Diego Méndez titulado ``Extensión, validación y migración de una herramienta de software para el estudio de la epilepsia para su uso en el Centro de Epilepsia y Neurocirugía Funcional HUMANA)''~\cite{diego_2023}. Dicha implementación permitirá obtener una herramienta de software para el estudio de la epilepsia capaz de ser ejecutada en cualquier computadora siendo amigable con el usuario, además de contar con una base de datos local.  
+En la etapa previa del prototipo, se empleó MATLAB 2022, lo que demanda la actualización de las funciones para garantizar la funcionalidad, eficacia y sostenibilidad de la herramienta. En particular, se llevó a cabo la actualización de la función insert() debido a su futura falta de disponibilidad en versiones venideras. Como consecuencia, se ajustó el procedimiento de escritura en la base de datos para adecuarse a la función más reciente sqlwrite().
 
+En la fase anterior, se llevó a cabo una labor preliminar en el sistema de descarga de señales y su correspondiente metadata, como se observa en la Figura~\ref{fig: fin_bd}. En la fase actual, se ha completado satisfactoriamente esta funcionalidad. La incorporación de esta mejora posibilita la obtención de los datos de la señal en un archivo de texto tabulado, que se puede importar fácilmente en aplicaciones como Excel. Los archivos de texto se generan y almacenan en una ubicación seleccionada por el usuario, y se sugiere automáticamente un nombre descriptivo para dichos datos, como se muestra en la Figura~\ref{fig: gen_bd}. El proceso de descarga de pruebas se ha diseñado con la facilidad de uso en mente, de modo que solo se requiere seleccionar la señal y presionar el botón "Descargar".
 
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.65\textwidth]{figuras/47_fin_bd.png}
+    \caption{Aviso de descarga finalizada.}
+    \label{fig: fin_bd}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.65\textwidth]{figuras/48_bd_gen.png}
+    \caption{Archivos descargados.}
+    \label{fig: gen_bd}
+\end{figure}
+Adicionalmente, se ha diseñado e implementado un procedimiento para la eliminación de datos. Esta adición facilita una mejor gestión de las pruebas almacenadas de cada paciente, proporcionando un recurso valioso para corregir registros erróneos y descartar datos almacenados por error.
+
+En la Figura~\ref{fig: multi_graf}, se muestra la "Ventana Multigráfico Vertical", la cual posibilita la observación simultánea de varios canales para los profesionales. Este proceso se lleva a cabo mediante un desplazamiento vertical de 16 canales, cada uno separado verticalmente por 100 unidades. Cada canal está identificado con su número correspondiente en el eje vertical, siguiendo un enfoque similar al utilizado para el análisis de señales en HUMANA.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.65\textwidth]{figuras/49_multigraf.png}
+    \caption{Funcionamiento de ventana multigráfico.}
+    \label{fig: multi_graf}
+\end{figure}
+
+\chapter{Exploración con algoritmo CHAMELEON}
+En el capítulo dedicado a la exploración con el algoritmo CHAMELEON, se presenta un análisis detallado de los desafíos enfrentados durante la implementación de esta herramienta en el marco de investigación. Uno de los retos iniciales significativos fue la instalación de las librerías necesarias, ya que, en su versión original, estas estaban diseñadas para sistemas operativos basados en Linux.
+
+Se encontraron diversas dependencias desactualizadas que requerían intervención. El proceso de \textit{debugging} y actualización de estas dependencias fue crucial para lograr una integración exitosa del algoritmo CHAMELEON en el entorno de desarrollo. Este proceso de adaptación y corrección de incompatibilidades permitió superar los obstáculos iniciales y poner en marcha el algoritmo de agrupamiento con las condiciones necesarias para llevar a cabo un análisis efectivo de nuestras señales bioeléctricas.
+
+Considerando lo anterior y su futura implementación en la herramienta de software para el estudio de la epilepsia, se creo un manual para la correcta instalación de las dependencias de librería y las modificaciones pertinentes para que esta pueda funcionar, como se observa en la Figura~\ref{fig: manual_chame}. 
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figuras/50_install_chame.png}
+    \caption{Manual de instalación y modificación a dependencias para el uso del algoritmo CHAMELEON.}
+    \label{fig: manual_chame}
+\end{figure}
+
+El algoritmo CHAMELEON demostró su eficacia en la clasificación de grupos mediante la utilización de datos de prueba, revelando resultados altamente efectivos. A pesar de que los datos de prueba no siguieron una distribución de secciones cónicas, el algoritmo exhibió una notable capacidad para clasificarlos de manera precisa y coherente, como se observan en las Figuras~\ref{fig: chame_conica} y \ref{fig: chame_no_conica}. Esta capacidad de adaptación y rendimiento destacado frente a datos con formas diversas resalta la robustez y versatilidad del algoritmo CHAMELEON en el contexto de nuestro estudio. Los resultados obtenidos refuerzan la idoneidad de este enfoque de agrupamiento para la tarea específica de clasificación de señales bioeléctricas, subrayando su potencial aplicabilidad en escenarios complejos y variados.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.65\textwidth]{figuras/51_Figure_1_chameleon.eps}
+    \caption{Datos de prueba con secciones cónicas para algoritmo CHAMELEON.}
+    \label{fig: chame_conica}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.65\textwidth]{figuras/52_Figure_2_chameleon.eps}
+    \caption{Datos de prueba con secciones no cónicas para algoritmo CHAMELEON.}
+    \label{fig: chame_no_conica}
+\end{figure}

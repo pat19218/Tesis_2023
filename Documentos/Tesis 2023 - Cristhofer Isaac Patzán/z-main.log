@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.1)  1 DEC 2023 19:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.1)  5 DEC 2023 18:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1192,23 +1192,23 @@ Overfull \hbox (59.07877pt too wide) in paragraph at lines 128--128
 []\T1/cmr/m/n/24.88 Aplicación sistemática de algoritmos de aprendizaje
  []
 
-<plantilla/portadacit.jpg, id=315, 1927.2pt x 752.8125pt>
+<plantilla/portadacit.jpg, id=319, 1927.2pt x 752.8125pt>
 File: plantilla/portadacit.jpg Graphic file (type jpg)
 <use plantilla/portadacit.jpg>
 Package pdftex.def Info: plantilla/portadacit.jpg  used on input line 140.
 (pdftex.def)             Requested size: 965.1268pt x 376.99901pt.
-<plantilla/fondologo_grande.png, id=316, 969.02025pt x 430.0065pt>
+<plantilla/fondologo_grande.png, id=320, 969.02025pt x 430.0065pt>
 File: plantilla/fondologo_grande.png Graphic file (type png)
 <use plantilla/fondologo_grande.png>
 Package pdftex.def Info: plantilla/fondologo_grande.png  used on input line 140
 .
 (pdftex.def)             Requested size: 187.27997pt x 83.11005pt.
 Package epstopdf Info: Source file: <plantilla/logoUVGblanco.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:56
 (epstopdf)                    size: 733366 bytes
 (epstopdf)             Output file: <plantilla/logoUVGblanco-eps-converted-to.p
 df>
-(epstopdf)                    date: 2023-12-01 19:07:53
+(epstopdf)                    date: 2023-12-05 18:55:16
 (epstopdf)                    size: 8900 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=plantilla/logoUVGbla
 nco-eps-converted-to.pdf plantilla/logoUVGblanco.eps>
@@ -1218,9 +1218,9 @@ f plantilla/logoUVGblanco.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <plantilla/logoUVGblanco-eps-converted-to.p
 df>
-(epstopdf)                    date: 2023-12-01 19:10:06
+(epstopdf)                    date: 2023-12-05 18:57:12
 (epstopdf)                    size: 8900 bytes.
-<plantilla/logoUVGblanco-eps-converted-to.pdf, id=318, 680.5425pt x 174.6525pt>
+<plantilla/logoUVGblanco-eps-converted-to.pdf, id=322, 680.5425pt x 174.6525pt>
 
 File: plantilla/logoUVGblanco-eps-converted-to.pdf Graphic file (type pdf)
 <use plantilla/logoUVGblanco-eps-converted-to.pdf>
@@ -1237,11 +1237,11 @@ input line 140.
 la/portadacit.jpg> <./plantilla/fondologo_grande.png> <./plantilla/logoUVGblanc
 o-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <plantilla/escudoUVGnegro.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:56
 (epstopdf)                    size: 353392 bytes
 (epstopdf)             Output file: <plantilla/escudoUVGnegro-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2023-12-01 19:07:56
+(epstopdf)                    date: 2023-12-05 18:55:18
 (epstopdf)                    size: 37956 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=plantilla/escudoUVGn
 egro-eps-converted-to.pdf plantilla/escudoUVGnegro.eps>
@@ -1251,9 +1251,9 @@ df plantilla/escudoUVGnegro.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <plantilla/escudoUVGnegro-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2023-12-01 19:10:08
+(epstopdf)                    date: 2023-12-05 18:57:14
 (epstopdf)                    size: 37956 bytes.
-<plantilla/escudoUVGnegro-eps-converted-to.pdf, id=333, 141.52875pt x 209.78375
+<plantilla/escudoUVGnegro-eps-converted-to.pdf, id=337, 141.52875pt x 209.78375
 pt>
 File: plantilla/escudoUVGnegro-eps-converted-to.pdf Graphic file (type pdf)
 <use plantilla/escudoUVGnegro-eps-converted-to.pdf>
@@ -1355,23 +1355,23 @@ Cap\'{\i }tulo 2.
 (e-antecedentes.tex [2
 
 ]
-<figuras/David resultado.png, id=927, 410.7345pt x 167.4255pt>
+<figuras/David resultado.png, id=945, 410.7345pt x 167.4255pt>
 File: figuras/David resultado.png Graphic file (type png)
 <use figuras/David resultado.png>
 Package pdftex.def Info: figuras/David resultado.png  used on input line 11.
 (pdftex.def)             Requested size: 216.81pt x 88.37997pt.
-<figuras/3 rendimiento RNA Camila.png, id=934, 475.7775pt x 232.4685pt>
+<figuras/3 rendimiento RNA Camila.png, id=952, 475.7775pt x 232.4685pt>
 File: figuras/3 rendimiento RNA Camila.png Graphic file (type png)
 <use figuras/3 rendimiento RNA Camila.png>
 Package pdftex.def Info: figuras/3 rendimiento RNA Camila.png  used on input li
 ne 20.
 (pdftex.def)             Requested size: 216.81pt x 105.9365pt.
-<figuras/4 incio app.png, id=937, 321.6015pt x 441.44925pt>
+<figuras/4 incio app.png, id=955, 321.6015pt x 441.44925pt>
 File: figuras/4 incio app.png Graphic file (type png)
 <use figuras/4 incio app.png>
 Package pdftex.def Info: figuras/4 incio app.png  used on input line 27.
 (pdftex.def)             Requested size: 216.81pt x 297.60837pt.
-<figuras/5 app chn select.png, id=940, 730.52925pt x 456.5055pt>
+<figuras/5 app chn select.png, id=958, 730.52925pt x 456.5055pt>
 File: figuras/5 app chn select.png Graphic file (type png)
 <use figuras/5 app chn select.png>
 Package pdftex.def Info: figuras/5 app chn select.png  used on input line 34.
@@ -1394,18 +1394,18 @@ Cap\'{\i }tulo 6.
 (i-marco_teorico.tex [9
 
 ]
-<figuras/6 Ictal_class.png, id=991, 380.01974pt x 351.714pt>
+<figuras/6 Ictal_class.png, id=1009, 380.01974pt x 351.714pt>
 File: figuras/6 Ictal_class.png Graphic file (type png)
 <use figuras/6 Ictal_class.png>
 Package pdftex.def Info: figuras/6 Ictal_class.png  used on input line 18.
 (pdftex.def)             Requested size: 216.81pt x 200.66153pt.
  [10 <./figuras/6 Ictal_class.png>] [11]
-<figuras/7_ej_ictal_eeg.png, id=1009, 463.13025pt x 376.40625pt>
+<figuras/7_ej_ictal_eeg.png, id=1027, 463.13025pt x 376.40625pt>
 File: figuras/7_ej_ictal_eeg.png Graphic file (type png)
 <use figuras/7_ej_ictal_eeg.png>
 Package pdftex.def Info: figuras/7_ej_ictal_eeg.png  used on input line 44.
 (pdftex.def)             Requested size: 216.81pt x 176.21025pt.
-<figuras/8 Ritmo_cerebral_eeg.png, id=1013, 567.3195pt x 338.4645pt>
+<figuras/8 Ritmo_cerebral_eeg.png, id=1031, 567.3195pt x 338.4645pt>
 File: figuras/8 Ritmo_cerebral_eeg.png Graphic file (type png)
 <use figuras/8 Ritmo_cerebral_eeg.png>
 Package pdftex.def Info: figuras/8 Ritmo_cerebral_eeg.png  used on input line 5
@@ -1415,17 +1415,17 @@ Package pdftex.def Info: figuras/8 Ritmo_cerebral_eeg.png  used on input line 5
 [14] [15]
 [16] [17] [18] [19] [20]) [21] (j-capitulos.tex
 Cap\'{\i }tulo 7.
-<figuras/16_emgRelax.png, id=1109, 168.02776pt x 226.446pt>
+<figuras/16_emgRelax.png, id=1127, 168.02776pt x 226.446pt>
 File: figuras/16_emgRelax.png Graphic file (type png)
 <use figuras/16_emgRelax.png>
 Package pdftex.def Info: figuras/16_emgRelax.png  used on input line 25.
 (pdftex.def)             Requested size: 86.72267pt x 116.87494pt.
-<figuras/17_elevarmunieca.png, id=1110, 205.36725pt x 286.671pt>
+<figuras/17_elevarmunieca.png, id=1128, 205.36725pt x 286.671pt>
 File: figuras/17_elevarmunieca.png Graphic file (type png)
 <use figuras/17_elevarmunieca.png>
 Package pdftex.def Info: figuras/17_elevarmunieca.png  used on input line 32.
 (pdftex.def)             Requested size: 86.72267pt x 121.05713pt.
-<figuras/19_contraer_munieca.png, id=1111, 151.767pt x 136.71075pt>
+<figuras/19_contraer_munieca.png, id=1129, 151.767pt x 136.71075pt>
 File: figuras/19_contraer_munieca.png Graphic file (type png)
 <use figuras/19_contraer_munieca.png>
 Package pdftex.def Info: figuras/19_contraer_munieca.png  used on input line 39
@@ -1434,35 +1434,35 @@ Package pdftex.def Info: figuras/19_contraer_munieca.png  used on input line 39
 [22
 
 ]
-<figuras/18_empuniar.png, id=1116, 860.61525pt x 469.15276pt>
+<figuras/18_empuniar.png, id=1134, 860.61525pt x 469.15276pt>
 File: figuras/18_empuniar.png Graphic file (type png)
 <use figuras/18_empuniar.png>
 Package pdftex.def Info: figuras/18_empuniar.png  used on input line 46.
 (pdftex.def)             Requested size: 130.08733pt x 70.91393pt.
  [23 <./figuras/16_emgRelax.png> <./figuras/17_elevarmunieca.png> <./figuras/19
 _contraer_munieca.png> <./figuras/18_empuniar.png>]
-<figuras/40_cejas_arriba.png, id=1130, 234.8775pt x 137.313pt>
+<figuras/40_cejas_arriba.png, id=1148, 234.8775pt x 137.313pt>
 File: figuras/40_cejas_arriba.png Graphic file (type png)
 <use figuras/40_cejas_arriba.png>
 Package pdftex.def Info: figuras/40_cejas_arriba.png  used on input line 85.
 (pdftex.def)             Requested size: 130.08733pt x 76.05037pt.
-<figuras/41_head_down.png, id=1131, 121.05225pt x 166.82326pt>
+<figuras/41_head_down.png, id=1149, 121.05225pt x 166.82326pt>
 File: figuras/41_head_down.png Graphic file (type png)
 <use figuras/41_head_down.png>
 Package pdftex.def Info: figuras/41_head_down.png  used on input line 92.
 (pdftex.def)             Requested size: 65.04034pt x 89.6352pt.
  [24 <./figuras/40_cejas_arriba.png>]
-<figuras/42_head_up.png, id=1138, 94.55325pt x 145.14224pt>
+<figuras/42_head_up.png, id=1156, 94.55325pt x 145.14224pt>
 File: figuras/42_head_up.png Graphic file (type png)
 <use figuras/42_head_up.png>
 Package pdftex.def Info: figuras/42_head_up.png  used on input line 99.
 (pdftex.def)             Requested size: 65.04034pt x 99.84483pt.
-<figuras/43_inclinar.png, id=1139, 131.89275pt x 161.403pt>
+<figuras/43_inclinar.png, id=1157, 131.89275pt x 161.403pt>
 File: figuras/43_inclinar.png Graphic file (type png)
 <use figuras/43_inclinar.png>
 Package pdftex.def Info: figuras/43_inclinar.png  used on input line 106.
 (pdftex.def)             Requested size: 86.72267pt x 106.12732pt.
-<figuras/11_estandar_biopac_uvg.png, id=1141, 570.33075pt x 111.41624pt>
+<figuras/11_estandar_biopac_uvg.png, id=1159, 570.33075pt x 111.41624pt>
 File: figuras/11_estandar_biopac_uvg.png Graphic file (type png)
 <use figuras/11_estandar_biopac_uvg.png>
 Package pdftex.def Info: figuras/11_estandar_biopac_uvg.png  used on input line
@@ -1470,39 +1470,39 @@ Package pdftex.def Info: figuras/11_estandar_biopac_uvg.png  used on input line
 (pdftex.def)             Requested size: 390.25536pt x 76.23976pt.
  [25 <./figuras/41_head_down.png> <./figuras/42_head_up.png> <./figuras/43_incl
 inar.png> <./figuras/11_estandar_biopac_uvg.png>]
-<figuras/20_datosCrudo_norma.png, id=1148, 205.36725pt x 330.63525pt>
+<figuras/20_datosCrudo_norma.png, id=1166, 205.36725pt x 330.63525pt>
 File: figuras/20_datosCrudo_norma.png Graphic file (type png)
 <use figuras/20_datosCrudo_norma.png>
 Package pdftex.def Info: figuras/20_datosCrudo_norma.png  used on input line 14
 5.
 (pdftex.def)             Requested size: 130.08733pt x 209.4415pt.
  [26 <./figuras/20_datosCrudo_norma.png>]
-<figuras/12_struct_funct.png, id=1155, 340.8735pt x 222.8325pt>
+<figuras/12_struct_funct.png, id=1173, 340.8735pt x 222.8325pt>
 File: figuras/12_struct_funct.png Graphic file (type png)
 <use figuras/12_struct_funct.png>
 Package pdftex.def Info: figuras/12_struct_funct.png  used on input line 155.
 (pdftex.def)             Requested size: 260.17465pt x 170.09229pt.
  [27 <./figuras/12_struct_funct.png>] [28]
-<figuras/13_modificacion_anotaciones.png, id=1176, 1006.962pt x 607.068pt>
+<figuras/13_modificacion_anotaciones.png, id=1194, 1006.962pt x 607.068pt>
 File: figuras/13_modificacion_anotaciones.png Graphic file (type png)
 <use figuras/13_modificacion_anotaciones.png>
 Package pdftex.def Info: figuras/13_modificacion_anotaciones.png  used on input
  line 214.
 (pdftex.def)             Requested size: 260.17465pt x 156.85207pt.
  [29 <./figuras/13_modificacion_anotaciones.png>]
-<figuras/14_AnalizaPrueba_visualizar.png, id=1184, 613.69275pt x 196.93575pt>
+<figuras/14_AnalizaPrueba_visualizar.png, id=1202, 613.69275pt x 196.93575pt>
 File: figuras/14_AnalizaPrueba_visualizar.png Graphic file (type png)
 <use figuras/14_AnalizaPrueba_visualizar.png>
 Package pdftex.def Info: figuras/14_AnalizaPrueba_visualizar.png  used on input
  line 227.
 (pdftex.def)             Requested size: 281.85036pt x 90.44427pt.
-<figuras/15_alerta_feature_Morf.png, id=1185, 854.44218pt x 162.6075pt>
+<figuras/15_alerta_feature_Morf.png, id=1203, 854.44218pt x 162.6075pt>
 File: figuras/15_alerta_feature_Morf.png Graphic file (type png)
 <use figuras/15_alerta_feature_Morf.png>
 Package pdftex.def Info: figuras/15_alerta_feature_Morf.png  used on input line
  234.
 (pdftex.def)             Requested size: 281.85036pt x 53.6383pt.
-<figuras/21_flujograma_vfeatures_mal.pdf, id=1188, 290.0436pt x 416.5161pt>
+<figuras/21_flujograma_vfeatures_mal.pdf, id=1206, 290.0436pt x 416.5161pt>
 File: figuras/21_flujograma_vfeatures_mal.pdf Graphic file (type pdf)
 <use figuras/21_flujograma_vfeatures_mal.pdf>
 Package pdftex.def Info: figuras/21_flujograma_vfeatures_mal.pdf  used on input
@@ -1510,7 +1510,7 @@ Package pdftex.def Info: figuras/21_flujograma_vfeatures_mal.pdf  used on input
 (pdftex.def)             Requested size: 216.81pt x 311.3567pt.
  [30 <./figuras/14_AnalizaPrueba_visualizar.png> <./figuras/15_alerta_feature_M
 orf.png>]
-<figuras/22_flujograma_vfeatures_bien.pdf, id=1194, 331.2375pt x 365.44528pt>
+<figuras/22_flujograma_vfeatures_bien.pdf, id=1212, 331.2375pt x 365.44528pt>
 File: figuras/22_flujograma_vfeatures_bien.pdf Graphic file (type pdf)
 <use figuras/22_flujograma_vfeatures_bien.pdf>
 Package pdftex.def Info: figuras/22_flujograma_vfeatures_bien.pdf  used on inpu
@@ -1518,19 +1518,19 @@ t line 250.
 (pdftex.def)             Requested size: 216.81pt x 239.19833pt.
  [31 <./figuras/21_flujograma_vfeatures_mal.pdf> <./figuras/22_flujograma_vfeat
 ures_bien.pdf>]
-<figuras/23_redondeo_indicevector.png, id=1220, 302.93175pt x 97.5645pt>
+<figuras/23_redondeo_indicevector.png, id=1238, 302.93175pt x 97.5645pt>
 File: figuras/23_redondeo_indicevector.png Graphic file (type png)
 <use figuras/23_redondeo_indicevector.png>
 Package pdftex.def Info: figuras/23_redondeo_indicevector.png  used on input li
 ne 269.
 (pdftex.def)             Requested size: 195.12767pt x 62.84598pt.
-<figuras/24_flujograma_zc_mal.pdf, id=1223, 559.12888pt x 437.71529pt>
+<figuras/24_flujograma_zc_mal.pdf, id=1241, 559.12888pt x 437.71529pt>
 File: figuras/24_flujograma_zc_mal.pdf Graphic file (type pdf)
 <use figuras/24_flujograma_zc_mal.pdf>
 Package pdftex.def Info: figuras/24_flujograma_zc_mal.pdf  used on input line 2
 80.
 (pdftex.def)             Requested size: 325.215pt x 254.59636pt.
-<figuras/25_flujograma_zc_bien.pdf, id=1224, 277.9986pt x 351.23218pt>
+<figuras/25_flujograma_zc_bien.pdf, id=1242, 277.9986pt x 351.23218pt>
 File: figuras/25_flujograma_zc_bien.pdf Graphic file (type pdf)
 <use figuras/25_flujograma_zc_bien.pdf>
 Package pdftex.def Info: figuras/25_flujograma_zc_bien.pdf  used on input line 
@@ -1542,44 +1542,44 @@ Cap\'{\i }tulo 8.
 [34
 
 ]
-<figuras/29_strucs_normados.png, id=1262, 183.68625pt x 343.2825pt>
+<figuras/29_strucs_normados.png, id=1280, 183.68625pt x 343.2825pt>
 File: figuras/29_strucs_normados.png Graphic file (type png)
 <use figuras/29_strucs_normados.png>
 Package pdftex.def Info: figuras/29_strucs_normados.png  used on input line 321
 .
 (pdftex.def)             Requested size: 65.04034pt x 121.55446pt.
-<figuras/26_carac_tiempo.png, id=1268, 326.4195pt x 93.34875pt>
+<figuras/26_carac_tiempo.png, id=1286, 326.4195pt x 93.34875pt>
 File: figuras/26_carac_tiempo.png Graphic file (type png)
 <use figuras/26_carac_tiempo.png>
 Package pdftex.def Info: figuras/26_carac_tiempo.png  used on input line 346.
 (pdftex.def)             Requested size: 173.44534pt x 49.60278pt.
  [35 <./figuras/29_strucs_normados.png>]
-<figuras/27_carac_wavelet.png, id=1273, 303.534pt x 118.64325pt>
+<figuras/27_carac_wavelet.png, id=1291, 303.534pt x 118.64325pt>
 File: figuras/27_carac_wavelet.png Graphic file (type png)
 <use figuras/27_carac_wavelet.png>
 Package pdftex.def Info: figuras/27_carac_wavelet.png  used on input line 353.
 (pdftex.def)             Requested size: 173.44534pt x 67.79388pt.
-<figuras/28_carac_freq.png, id=1275, 232.4685pt x 109.00725pt>
+<figuras/28_carac_freq.png, id=1293, 232.4685pt x 109.00725pt>
 File: figuras/28_carac_freq.png Graphic file (type png)
 <use figuras/28_carac_freq.png>
 Package pdftex.def Info: figuras/28_carac_freq.png  used on input line 362.
 (pdftex.def)             Requested size: 173.44534pt x 81.3344pt.
  [36 <./figuras/26_carac_tiempo.png> <./figuras/27_carac_wavelet.png> <./figura
 s/28_carac_freq.png>]
-<figuras/31_ventana_preAnotaciones.png, id=1281, 611.28375pt x 431.81325pt>
+<figuras/31_ventana_preAnotaciones.png, id=1299, 611.28375pt x 431.81325pt>
 File: figuras/31_ventana_preAnotaciones.png Graphic file (type png)
 <use figuras/31_ventana_preAnotaciones.png>
 Package pdftex.def Info: figuras/31_ventana_preAnotaciones.png  used on input l
 ine 391.
 (pdftex.def)             Requested size: 260.17465pt x 183.78505pt.
  [37 <./figuras/31_ventana_preAnotaciones.png>]
-<figuras/30_33_canales_edf_humana.png, id=1292, 1110.549pt x 540.8205pt>
+<figuras/30_33_canales_edf_humana.png, id=1310, 1110.549pt x 540.8205pt>
 File: figuras/30_33_canales_edf_humana.png Graphic file (type png)
 <use figuras/30_33_canales_edf_humana.png>
 Package pdftex.def Info: figuras/30_33_canales_edf_humana.png  used on input li
 ne 421.
 (pdftex.def)             Requested size: 333.88925pt x 162.594pt.
-<figuras/33_33_canales_wavelet_edf_humana.png, id=1294, 1099.7085pt x 532.99126
+<figuras/33_33_canales_wavelet_edf_humana.png, id=1312, 1099.7085pt x 532.99126
 pt>
 File: figuras/33_33_canales_wavelet_edf_humana.png Graphic file (type png)
 <use figuras/33_33_canales_wavelet_edf_humana.png>
@@ -1589,13 +1589,13 @@ input line 430.
  [38 <./figuras/30_33_canales_edf_humana.png> <./figuras/33_33_canales_wavelet_
 edf_humana.png>] [39]
 Cap\'{\i }tulo 9.
-<figuras/37_svm_wavelet_edf_15ubon.png, id=1313, 399.29175pt x 426.99525pt>
+<figuras/37_svm_wavelet_edf_15ubon.png, id=1331, 399.29175pt x 426.99525pt>
 File: figuras/37_svm_wavelet_edf_15ubon.png Graphic file (type png)
 <use figuras/37_svm_wavelet_edf_15ubon.png>
 Package pdftex.def Info: figuras/37_svm_wavelet_edf_15ubon.png  used on input l
 ine 449.
 (pdftex.def)             Requested size: 216.81pt x 231.85754pt.
-<figuras/38_svm_time_edf_15ubon.png, id=1314, 401.70074pt x 428.19975pt>
+<figuras/38_svm_time_edf_15ubon.png, id=1332, 401.70074pt x 428.19975pt>
 File: figuras/38_svm_time_edf_15ubon.png Graphic file (type png)
 <use figuras/38_svm_time_edf_15ubon.png>
 Package pdftex.def Info: figuras/38_svm_time_edf_15ubon.png  used on input line
@@ -1604,7 +1604,7 @@ Package pdftex.def Info: figuras/38_svm_time_edf_15ubon.png  used on input line
 [40
 
 ]
-<figuras/36_svm_freq_edf_15ubon.png, id=1322, 404.712pt x 426.393pt>
+<figuras/36_svm_freq_edf_15ubon.png, id=1340, 404.712pt x 426.393pt>
 File: figuras/36_svm_freq_edf_15ubon.png Graphic file (type png)
 <use figuras/36_svm_freq_edf_15ubon.png>
 Package pdftex.def Info: figuras/36_svm_freq_edf_15ubon.png  used on input line
@@ -1612,19 +1612,19 @@ Package pdftex.def Info: figuras/36_svm_freq_edf_15ubon.png  used on input line
 (pdftex.def)             Requested size: 216.81pt x 228.42705pt.
  [41 <./figuras/37_svm_wavelet_edf_15ubon.png> <./figuras/38_svm_time_edf_15ubo
 n.png>]
-<figuras/32_rnn_wavelet_edf_15ubon.png, id=1327, 423.984pt x 433.62pt>
+<figuras/32_rnn_wavelet_edf_15ubon.png, id=1345, 423.984pt x 433.62pt>
 File: figuras/32_rnn_wavelet_edf_15ubon.png Graphic file (type png)
 <use figuras/32_rnn_wavelet_edf_15ubon.png>
 Package pdftex.def Info: figuras/32_rnn_wavelet_edf_15ubon.png  used on input l
 ine 468.
 (pdftex.def)             Requested size: 216.81pt x 221.73875pt.
-<figuras/34_rnn_tiempo_edf_15ubon.png, id=1328, 402.90524pt x 427.5975pt>
+<figuras/34_rnn_tiempo_edf_15ubon.png, id=1346, 402.90524pt x 427.5975pt>
 File: figuras/34_rnn_tiempo_edf_15ubon.png Graphic file (type png)
 <use figuras/34_rnn_tiempo_edf_15ubon.png>
 Package pdftex.def Info: figuras/34_rnn_tiempo_edf_15ubon.png  used on input li
 ne 474.
 (pdftex.def)             Requested size: 216.81pt x 230.10321pt.
-<figuras/35_rnn_freq_edf_15ubon.png, id=1329, 540.21825pt x 561.89925pt>
+<figuras/35_rnn_freq_edf_15ubon.png, id=1347, 540.21825pt x 561.89925pt>
 File: figuras/35_rnn_freq_edf_15ubon.png Graphic file (type png)
 <use figuras/35_rnn_freq_edf_15ubon.png>
 Package pdftex.def Info: figuras/35_rnn_freq_edf_15ubon.png  used on input line
@@ -1639,18 +1639,18 @@ Cap\'{\i }tulo 10.
 ]
 Package epstopdf Info: Source file: <figuras/k_means_time_1and2_sano_ictal.eps>
 
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 196640 bytes
 (epstopdf)             Output file: <figuras/k_means_time_1and2_sano_ictal-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:50
 (epstopdf)                    size: 130992 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_time
 _1and2_sano_ictal-eps-converted-to.pdf figuras/k_means_time_1and2_sano_ictal.ep
 s>
 (epstopdf)             \includegraphics on input line 538.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_time_1and2_sano_ictal-eps-converted-to.pdf, id=1354, 1156.32pt
+<figuras/k_means_time_1and2_sano_ictal-eps-converted-to.pdf, id=1372, 1156.32pt
  x 564.1075pt>
 File: figuras/k_means_time_1and2_sano_ictal-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -1661,18 +1661,18 @@ Package pdftex.def Info: figuras/k_means_time_1and2_sano_ictal-eps-converted-to
  [46]
 Package epstopdf Info: Source file: <figuras/k_means_time_1and4_sano_ictal.eps>
 
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 707697 bytes
 (epstopdf)             Output file: <figuras/k_means_time_1and4_sano_ictal-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:50
 (epstopdf)                    size: 519603 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_time
 _1and4_sano_ictal-eps-converted-to.pdf figuras/k_means_time_1and4_sano_ictal.ep
 s>
 (epstopdf)             \includegraphics on input line 545.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_time_1and4_sano_ictal-eps-converted-to.pdf, id=1364, 1156.32pt
+<figuras/k_means_time_1and4_sano_ictal-eps-converted-to.pdf, id=1382, 1156.32pt
  x 564.1075pt>
 File: figuras/k_means_time_1and4_sano_ictal-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -1682,18 +1682,18 @@ Package pdftex.def Info: figuras/k_means_time_1and4_sano_ictal-eps-converted-to
 (pdftex.def)             Requested size: 390.25536pt x 190.38235pt.
 Package epstopdf Info: Source file: <figuras/k_means_time_1and5_sano_ictal.eps>
 
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 307297 bytes
 (epstopdf)             Output file: <figuras/k_means_time_1and5_sano_ictal-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:50
 (epstopdf)                    size: 226267 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_time
 _1and5_sano_ictal-eps-converted-to.pdf figuras/k_means_time_1and5_sano_ictal.ep
 s>
 (epstopdf)             \includegraphics on input line 551.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_time_1and5_sano_ictal-eps-converted-to.pdf, id=1365, 1156.32pt
+<figuras/k_means_time_1and5_sano_ictal-eps-converted-to.pdf, id=1383, 1156.32pt
  x 564.1075pt>
 File: figuras/k_means_time_1and5_sano_ictal-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -1703,18 +1703,18 @@ Package pdftex.def Info: figuras/k_means_time_1and5_sano_ictal-eps-converted-to
 (pdftex.def)             Requested size: 390.25536pt x 190.38235pt.
 Package epstopdf Info: Source file: <figuras/k_means_time_2and4_sano_ictal.eps>
 
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 125821 bytes
 (epstopdf)             Output file: <figuras/k_means_time_2and4_sano_ictal-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:50
 (epstopdf)                    size: 84786 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_time
 _2and4_sano_ictal-eps-converted-to.pdf figuras/k_means_time_2and4_sano_ictal.ep
 s>
 (epstopdf)             \includegraphics on input line 557.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_time_2and4_sano_ictal-eps-converted-to.pdf, id=1366, 1156.32pt
+<figuras/k_means_time_2and4_sano_ictal-eps-converted-to.pdf, id=1384, 1156.32pt
  x 564.1075pt>
 File: figuras/k_means_time_2and4_sano_ictal-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -1726,18 +1726,18 @@ Package pdftex.def Info: figuras/k_means_time_2and4_sano_ictal-eps-converted-to
 k_means_time_1and4_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/k_means_time_2and5_sano_ictal.eps>
 
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 54142 bytes
 (epstopdf)             Output file: <figuras/k_means_time_2and5_sano_ictal-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:50
 (epstopdf)                    size: 35357 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_time
 _2and5_sano_ictal-eps-converted-to.pdf figuras/k_means_time_2and5_sano_ictal.ep
 s>
 (epstopdf)             \includegraphics on input line 563.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_time_2and5_sano_ictal-eps-converted-to.pdf, id=1387, 1156.32pt
+<figuras/k_means_time_2and5_sano_ictal-eps-converted-to.pdf, id=1405, 1156.32pt
  x 564.1075pt>
 File: figuras/k_means_time_2and5_sano_ictal-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -1747,18 +1747,18 @@ Package pdftex.def Info: figuras/k_means_time_2and5_sano_ictal-eps-converted-to
 (pdftex.def)             Requested size: 390.25536pt x 190.38235pt.
 Package epstopdf Info: Source file: <figuras/k_means_time_4and5_sano_ictal.eps>
 
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 87901 bytes
 (epstopdf)             Output file: <figuras/k_means_time_4and5_sano_ictal-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:50
 (epstopdf)                    size: 63959 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_time
 _4and5_sano_ictal-eps-converted-to.pdf figuras/k_means_time_4and5_sano_ictal.ep
 s>
 (epstopdf)             \includegraphics on input line 569.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_time_4and5_sano_ictal-eps-converted-to.pdf, id=1388, 1156.32pt
+<figuras/k_means_time_4and5_sano_ictal-eps-converted-to.pdf, id=1406, 1156.32pt
  x 564.1075pt>
 File: figuras/k_means_time_4and5_sano_ictal-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -1769,11 +1769,11 @@ Package pdftex.def Info: figuras/k_means_time_4and5_sano_ictal-eps-converted-to
  [48 <./figuras/k_means_time_1and5_sano_ictal-eps-converted-to.pdf> <./figuras/
 k_means_time_2and4_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/jerar_time_1and_2_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 92896 bytes
 (epstopdf)             Output file: <figuras/jerar_time_1and_2_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:04
+(epstopdf)                    date: 2023-12-05 18:55:24
 (epstopdf)                    size: 58759 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_time_1
 and_2_sano_ictal-eps-converted-to.pdf figuras/jerar_time_1and_2_sano_ictal.eps>
@@ -1785,9 +1785,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_time_1and_2_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:14
+(epstopdf)                    date: 2023-12-05 18:57:20
 (epstopdf)                    size: 58759 bytes.
-<figuras/jerar_time_1and_2_sano_ictal-eps-converted-to.pdf, id=1414, 421.575pt 
+<figuras/jerar_time_1and_2_sano_ictal-eps-converted-to.pdf, id=1432, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_time_1and_2_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -1796,11 +1796,11 @@ Package pdftex.def Info: figuras/jerar_time_1and_2_sano_ictal-eps-converted-to.
 pdf  used on input line 581.
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
 Package epstopdf Info: Source file: <figuras/jerar_time_1and_3_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 57633 bytes
 (epstopdf)             Output file: <figuras/jerar_time_1and_3_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:05
+(epstopdf)                    date: 2023-12-05 18:55:25
 (epstopdf)                    size: 28073 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_time_1
 and_3_sano_ictal-eps-converted-to.pdf figuras/jerar_time_1and_3_sano_ictal.eps>
@@ -1812,9 +1812,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_time_1and_3_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:15
+(epstopdf)                    date: 2023-12-05 18:57:21
 (epstopdf)                    size: 28073 bytes.
-<figuras/jerar_time_1and_3_sano_ictal-eps-converted-to.pdf, id=1415, 421.575pt 
+<figuras/jerar_time_1and_3_sano_ictal-eps-converted-to.pdf, id=1433, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_time_1and_3_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -1825,11 +1825,11 @@ pdf  used on input line 587.
  [49 <./figuras/k_means_time_2and5_sano_ictal-eps-converted-to.pdf> <./figuras/
 k_means_time_4and5_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/jerar_time_2and_3_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 27208 bytes
 (epstopdf)             Output file: <figuras/jerar_time_2and_3_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:07
+(epstopdf)                    date: 2023-12-05 18:55:26
 (epstopdf)                    size: 11613 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_time_2
 and_3_sano_ictal-eps-converted-to.pdf figuras/jerar_time_2and_3_sano_ictal.eps>
@@ -1841,9 +1841,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_time_2and_3_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:17
+(epstopdf)                    date: 2023-12-05 18:57:22
 (epstopdf)                    size: 11613 bytes.
-<figuras/jerar_time_2and_3_sano_ictal-eps-converted-to.pdf, id=1436, 421.575pt 
+<figuras/jerar_time_2and_3_sano_ictal-eps-converted-to.pdf, id=1454, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_time_2and_3_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -1852,11 +1852,11 @@ Package pdftex.def Info: figuras/jerar_time_2and_3_sano_ictal-eps-converted-to.
 pdf  used on input line 593.
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
 Package epstopdf Info: Source file: <figuras/jerar_time_2and_4_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 66026 bytes
 (epstopdf)             Output file: <figuras/jerar_time_2and_4_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:09
+(epstopdf)                    date: 2023-12-05 18:55:28
 (epstopdf)                    size: 43128 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_time_2
 and_4_sano_ictal-eps-converted-to.pdf figuras/jerar_time_2and_4_sano_ictal.eps>
@@ -1868,9 +1868,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_time_2and_4_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:18
+(epstopdf)                    date: 2023-12-05 18:57:23
 (epstopdf)                    size: 43128 bytes.
-<figuras/jerar_time_2and_4_sano_ictal-eps-converted-to.pdf, id=1437, 421.575pt 
+<figuras/jerar_time_2and_4_sano_ictal-eps-converted-to.pdf, id=1455, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_time_2and_4_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -1881,11 +1881,11 @@ pdf  used on input line 599.
  [50 <./figuras/jerar_time_1and_2_sano_ictal-eps-converted-to.pdf> <./figuras/j
 erar_time_1and_3_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/jerar_time_3and_4_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 24269 bytes
 (epstopdf)             Output file: <figuras/jerar_time_3and_4_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:10
+(epstopdf)                    date: 2023-12-05 18:55:29
 (epstopdf)                    size: 10225 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_time_3
 and_4_sano_ictal-eps-converted-to.pdf figuras/jerar_time_3and_4_sano_ictal.eps>
@@ -1897,9 +1897,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_time_3and_4_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:19
+(epstopdf)                    date: 2023-12-05 18:57:25
 (epstopdf)                    size: 10225 bytes.
-<figuras/jerar_time_3and_4_sano_ictal-eps-converted-to.pdf, id=1452, 421.575pt 
+<figuras/jerar_time_3and_4_sano_ictal-eps-converted-to.pdf, id=1470, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_time_3and_4_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -1910,11 +1910,11 @@ pdf  used on input line 605.
  [51 <./figuras/jerar_time_2and_3_sano_ictal-eps-converted-to.pdf> <./figuras/j
 erar_time_2and_4_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/jerar_time_1and_4_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 441593 bytes
 (epstopdf)             Output file: <figuras/jerar_time_1and_4_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:12
+(epstopdf)                    date: 2023-12-05 18:55:31
 (epstopdf)                    size: 315799 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_time_1
 and_4_sano_ictal-eps-converted-to.pdf figuras/jerar_time_1and_4_sano_ictal.eps>
@@ -1926,9 +1926,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_time_1and_4_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:21
+(epstopdf)                    date: 2023-12-05 18:57:26
 (epstopdf)                    size: 315799 bytes.
-<figuras/jerar_time_1and_4_sano_ictal-eps-converted-to.pdf, id=1468, 421.575pt 
+<figuras/jerar_time_1and_4_sano_ictal-eps-converted-to.pdf, id=1486, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_time_1and_4_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -1937,11 +1937,11 @@ Package pdftex.def Info: figuras/jerar_time_1and_4_sano_ictal-eps-converted-to.
 pdf  used on input line 613.
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
 Package epstopdf Info: Source file: <figuras/jerar_time_1and_5_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 153877 bytes
 (epstopdf)             Output file: <figuras/jerar_time_1and_5_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:14
+(epstopdf)                    date: 2023-12-05 18:55:32
 (epstopdf)                    size: 107438 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_time_1
 and_5_sano_ictal-eps-converted-to.pdf figuras/jerar_time_1and_5_sano_ictal.eps>
@@ -1953,9 +1953,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_time_1and_5_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:23
+(epstopdf)                    date: 2023-12-05 18:57:28
 (epstopdf)                    size: 107438 bytes.
-<figuras/jerar_time_1and_5_sano_ictal-eps-converted-to.pdf, id=1469, 421.575pt 
+<figuras/jerar_time_1and_5_sano_ictal-eps-converted-to.pdf, id=1487, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_time_1and_5_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -1966,11 +1966,11 @@ pdf  used on input line 619.
  [52 <./figuras/jerar_time_3and_4_sano_ictal-eps-converted-to.pdf> <./figuras/j
 erar_time_1and_4_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/jerar_time_2and_5_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 34863 bytes
 (epstopdf)             Output file: <figuras/jerar_time_2and_5_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:16
+(epstopdf)                    date: 2023-12-05 18:55:34
 (epstopdf)                    size: 19826 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_time_2
 and_5_sano_ictal-eps-converted-to.pdf figuras/jerar_time_2and_5_sano_ictal.eps>
@@ -1982,9 +1982,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_time_2and_5_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:26
+(epstopdf)                    date: 2023-12-05 18:57:29
 (epstopdf)                    size: 19826 bytes.
-<figuras/jerar_time_2and_5_sano_ictal-eps-converted-to.pdf, id=1484, 421.575pt 
+<figuras/jerar_time_2and_5_sano_ictal-eps-converted-to.pdf, id=1502, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_time_2and_5_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -1993,11 +1993,11 @@ Package pdftex.def Info: figuras/jerar_time_2and_5_sano_ictal-eps-converted-to.
 pdf  used on input line 628.
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
 Package epstopdf Info: Source file: <figuras/jerar_time_3and_5_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 18457 bytes
 (epstopdf)             Output file: <figuras/jerar_time_3and_5_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:17
+(epstopdf)                    date: 2023-12-05 18:55:35
 (epstopdf)                    size: 6684 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_time_3
 and_5_sano_ictal-eps-converted-to.pdf figuras/jerar_time_3and_5_sano_ictal.eps>
@@ -2009,9 +2009,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_time_3and_5_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:28
+(epstopdf)                    date: 2023-12-05 18:57:30
 (epstopdf)                    size: 6684 bytes.
-<figuras/jerar_time_3and_5_sano_ictal-eps-converted-to.pdf, id=1485, 421.575pt 
+<figuras/jerar_time_3and_5_sano_ictal-eps-converted-to.pdf, id=1503, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_time_3and_5_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2020,11 +2020,11 @@ Package pdftex.def Info: figuras/jerar_time_3and_5_sano_ictal-eps-converted-to.
 pdf  used on input line 635.
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
 Package epstopdf Info: Source file: <figuras/jerar_time_4and_5_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 48305 bytes
 (epstopdf)             Output file: <figuras/jerar_time_4and_5_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:19
+(epstopdf)                    date: 2023-12-05 18:55:36
 (epstopdf)                    size: 31710 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_time_4
 and_5_sano_ictal-eps-converted-to.pdf figuras/jerar_time_4and_5_sano_ictal.eps>
@@ -2036,9 +2036,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_time_4and_5_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:30
+(epstopdf)                    date: 2023-12-05 18:57:32
 (epstopdf)                    size: 31710 bytes.
-<figuras/jerar_time_4and_5_sano_ictal-eps-converted-to.pdf, id=1486, 421.575pt 
+<figuras/jerar_time_4and_5_sano_ictal-eps-converted-to.pdf, id=1504, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_time_4and_5_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2053,18 +2053,18 @@ d_5_sano_ictal-eps-converted-to.pdf> <./figuras/jerar_time_4and_5_sano_ictal-ep
 s-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/k_means_freq_1and2_sano_ictal.eps>
 
-(epstopdf)                    date: 2023-12-02 00:53:16
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 406685 bytes
 (epstopdf)             Output file: <figuras/k_means_freq_1and2_sano_ictal-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:48
 (epstopdf)                    size: 290340 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_freq
 _1and2_sano_ictal-eps-converted-to.pdf figuras/k_means_freq_1and2_sano_ictal.ep
 s>
 (epstopdf)             \includegraphics on input line 674.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_freq_1and2_sano_ictal-eps-converted-to.pdf, id=1517, 1156.32pt
+<figuras/k_means_freq_1and2_sano_ictal-eps-converted-to.pdf, id=1535, 1156.32pt
  x 564.1075pt>
 File: figuras/k_means_freq_1and2_sano_ictal-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2074,18 +2074,18 @@ Package pdftex.def Info: figuras/k_means_freq_1and2_sano_ictal-eps-converted-to
 (pdftex.def)             Requested size: 390.25536pt x 190.38235pt.
 Package epstopdf Info: Source file: <figuras/k_means_freq_1and3_sano_ictal.eps>
 
-(epstopdf)                    date: 2023-12-02 00:53:16
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 190504 bytes
 (epstopdf)             Output file: <figuras/k_means_freq_1and3_sano_ictal-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:48
 (epstopdf)                    size: 135410 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_freq
 _1and3_sano_ictal-eps-converted-to.pdf figuras/k_means_freq_1and3_sano_ictal.ep
 s>
 (epstopdf)             \includegraphics on input line 680.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_freq_1and3_sano_ictal-eps-converted-to.pdf, id=1518, 421.575pt
+<figuras/k_means_freq_1and3_sano_ictal-eps-converted-to.pdf, id=1536, 421.575pt
  x 316.18124pt>
 File: figuras/k_means_freq_1and3_sano_ictal-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2095,18 +2095,18 @@ Package pdftex.def Info: figuras/k_means_freq_1and3_sano_ictal-eps-converted-to
 (pdftex.def)             Requested size: 346.89732pt x 260.1773pt.
 Package epstopdf Info: Source file: <figuras/k_means_freq_1and4_sano_ictal.eps>
 
-(epstopdf)                    date: 2023-12-02 00:53:16
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 248825 bytes
 (epstopdf)             Output file: <figuras/k_means_freq_1and4_sano_ictal-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:48
 (epstopdf)                    size: 178512 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_freq
 _1and4_sano_ictal-eps-converted-to.pdf figuras/k_means_freq_1and4_sano_ictal.ep
 s>
 (epstopdf)             \includegraphics on input line 686.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_freq_1and4_sano_ictal-eps-converted-to.pdf, id=1519, 421.575pt
+<figuras/k_means_freq_1and4_sano_ictal-eps-converted-to.pdf, id=1537, 421.575pt
  x 316.18124pt>
 File: figuras/k_means_freq_1and4_sano_ictal-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2117,18 +2117,18 @@ Package pdftex.def Info: figuras/k_means_freq_1and4_sano_ictal-eps-converted-to
  [55 <./figuras/k_means_freq_1and2_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/k_means_freq_1and5_sano_ictal.eps>
 
-(epstopdf)                    date: 2023-12-02 00:53:16
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 174128 bytes
 (epstopdf)             Output file: <figuras/k_means_freq_1and5_sano_ictal-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:48
 (epstopdf)                    size: 124047 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_freq
 _1and5_sano_ictal-eps-converted-to.pdf figuras/k_means_freq_1and5_sano_ictal.ep
 s>
 (epstopdf)             \includegraphics on input line 692.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_freq_1and5_sano_ictal-eps-converted-to.pdf, id=1540, 421.575pt
+<figuras/k_means_freq_1and5_sano_ictal-eps-converted-to.pdf, id=1558, 421.575pt
  x 316.18124pt>
 File: figuras/k_means_freq_1and5_sano_ictal-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2138,18 +2138,18 @@ Package pdftex.def Info: figuras/k_means_freq_1and5_sano_ictal-eps-converted-to
 (pdftex.def)             Requested size: 346.89732pt x 260.1773pt.
 Package epstopdf Info: Source file: <figuras/k_means_freq_1and6_sano_ictal.eps>
 
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 203394 bytes
 (epstopdf)             Output file: <figuras/k_means_freq_1and6_sano_ictal-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:48
 (epstopdf)                    size: 146480 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_freq
 _1and6_sano_ictal-eps-converted-to.pdf figuras/k_means_freq_1and6_sano_ictal.ep
 s>
 (epstopdf)             \includegraphics on input line 698.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_freq_1and6_sano_ictal-eps-converted-to.pdf, id=1541, 421.575pt
+<figuras/k_means_freq_1and6_sano_ictal-eps-converted-to.pdf, id=1559, 421.575pt
  x 316.18124pt>
 File: figuras/k_means_freq_1and6_sano_ictal-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2161,18 +2161,18 @@ Package pdftex.def Info: figuras/k_means_freq_1and6_sano_ictal-eps-converted-to
 k_means_freq_1and4_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/k_means_freq_2and3_sano_ictal.eps>
 
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 186698 bytes
 (epstopdf)             Output file: <figuras/k_means_freq_2and3_sano_ictal-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:48
 (epstopdf)                    size: 131782 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_freq
 _2and3_sano_ictal-eps-converted-to.pdf figuras/k_means_freq_2and3_sano_ictal.ep
 s>
 (epstopdf)             \includegraphics on input line 704.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_freq_2and3_sano_ictal-eps-converted-to.pdf, id=1562, 421.575pt
+<figuras/k_means_freq_2and3_sano_ictal-eps-converted-to.pdf, id=1580, 421.575pt
  x 316.18124pt>
 File: figuras/k_means_freq_2and3_sano_ictal-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2182,18 +2182,18 @@ Package pdftex.def Info: figuras/k_means_freq_2and3_sano_ictal-eps-converted-to
 (pdftex.def)             Requested size: 346.89732pt x 260.1773pt.
 Package epstopdf Info: Source file: <figuras/k_means_freq_2and4_sano_ictal.eps>
 
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 224530 bytes
 (epstopdf)             Output file: <figuras/k_means_freq_2and4_sano_ictal-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:48
 (epstopdf)                    size: 159301 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_freq
 _2and4_sano_ictal-eps-converted-to.pdf figuras/k_means_freq_2and4_sano_ictal.ep
 s>
 (epstopdf)             \includegraphics on input line 710.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_freq_2and4_sano_ictal-eps-converted-to.pdf, id=1563, 421.575pt
+<figuras/k_means_freq_2and4_sano_ictal-eps-converted-to.pdf, id=1581, 421.575pt
  x 316.18124pt>
 File: figuras/k_means_freq_2and4_sano_ictal-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2205,18 +2205,18 @@ Package pdftex.def Info: figuras/k_means_freq_2and4_sano_ictal-eps-converted-to
 k_means_freq_1and6_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/k_means_freq_2and5_sano_ictal.eps>
 
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 195717 bytes
 (epstopdf)             Output file: <figuras/k_means_freq_2and5_sano_ictal-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:48
 (epstopdf)                    size: 138517 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_freq
 _2and5_sano_ictal-eps-converted-to.pdf figuras/k_means_freq_2and5_sano_ictal.ep
 s>
 (epstopdf)             \includegraphics on input line 716.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_freq_2and5_sano_ictal-eps-converted-to.pdf, id=1585, 421.575pt
+<figuras/k_means_freq_2and5_sano_ictal-eps-converted-to.pdf, id=1603, 421.575pt
  x 316.18124pt>
 File: figuras/k_means_freq_2and5_sano_ictal-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2226,18 +2226,18 @@ Package pdftex.def Info: figuras/k_means_freq_2and5_sano_ictal-eps-converted-to
 (pdftex.def)             Requested size: 346.89732pt x 260.1773pt.
 Package epstopdf Info: Source file: <figuras/k_means_freq_2and6_sano_ictal.eps>
 
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 177999 bytes
 (epstopdf)             Output file: <figuras/k_means_freq_2and6_sano_ictal-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:48
 (epstopdf)                    size: 125309 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_freq
 _2and6_sano_ictal-eps-converted-to.pdf figuras/k_means_freq_2and6_sano_ictal.ep
 s>
 (epstopdf)             \includegraphics on input line 722.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_freq_2and6_sano_ictal-eps-converted-to.pdf, id=1586, 421.575pt
+<figuras/k_means_freq_2and6_sano_ictal-eps-converted-to.pdf, id=1604, 421.575pt
  x 316.18124pt>
 File: figuras/k_means_freq_2and6_sano_ictal-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2249,18 +2249,18 @@ Package pdftex.def Info: figuras/k_means_freq_2and6_sano_ictal-eps-converted-to
 k_means_freq_2and4_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/k_means_freq_3and4_sano_ictal.eps>
 
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 258873 bytes
 (epstopdf)             Output file: <figuras/k_means_freq_3and4_sano_ictal-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:48
 (epstopdf)                    size: 184894 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_freq
 _3and4_sano_ictal-eps-converted-to.pdf figuras/k_means_freq_3and4_sano_ictal.ep
 s>
 (epstopdf)             \includegraphics on input line 728.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_freq_3and4_sano_ictal-eps-converted-to.pdf, id=1607, 421.575pt
+<figuras/k_means_freq_3and4_sano_ictal-eps-converted-to.pdf, id=1625, 421.575pt
  x 316.18124pt>
 File: figuras/k_means_freq_3and4_sano_ictal-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2270,18 +2270,18 @@ Package pdftex.def Info: figuras/k_means_freq_3and4_sano_ictal-eps-converted-to
 (pdftex.def)             Requested size: 346.89732pt x 260.1773pt.
 Package epstopdf Info: Source file: <figuras/k_means_freq_3and5_sano_ictal.eps>
 
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 202432 bytes
 (epstopdf)             Output file: <figuras/k_means_freq_3and5_sano_ictal-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:48
 (epstopdf)                    size: 144293 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_freq
 _3and5_sano_ictal-eps-converted-to.pdf figuras/k_means_freq_3and5_sano_ictal.ep
 s>
 (epstopdf)             \includegraphics on input line 734.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_freq_3and5_sano_ictal-eps-converted-to.pdf, id=1608, 421.575pt
+<figuras/k_means_freq_3and5_sano_ictal-eps-converted-to.pdf, id=1626, 421.575pt
  x 316.18124pt>
 File: figuras/k_means_freq_3and5_sano_ictal-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2293,18 +2293,18 @@ Package pdftex.def Info: figuras/k_means_freq_3and5_sano_ictal-eps-converted-to
 k_means_freq_2and6_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/k_means_freq_3and6_sano_ictal.eps>
 
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 200284 bytes
 (epstopdf)             Output file: <figuras/k_means_freq_3and6_sano_ictal-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:48
 (epstopdf)                    size: 143311 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_freq
 _3and6_sano_ictal-eps-converted-to.pdf figuras/k_means_freq_3and6_sano_ictal.ep
 s>
 (epstopdf)             \includegraphics on input line 740.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_freq_3and6_sano_ictal-eps-converted-to.pdf, id=1629, 421.575pt
+<figuras/k_means_freq_3and6_sano_ictal-eps-converted-to.pdf, id=1647, 421.575pt
  x 316.18124pt>
 File: figuras/k_means_freq_3and6_sano_ictal-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2314,18 +2314,18 @@ Package pdftex.def Info: figuras/k_means_freq_3and6_sano_ictal-eps-converted-to
 (pdftex.def)             Requested size: 346.89732pt x 260.1773pt.
 Package epstopdf Info: Source file: <figuras/k_means_freq_4and5_sano_ictal.eps>
 
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 222754 bytes
 (epstopdf)             Output file: <figuras/k_means_freq_4and5_sano_ictal-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:48
 (epstopdf)                    size: 160217 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_freq
 _4and5_sano_ictal-eps-converted-to.pdf figuras/k_means_freq_4and5_sano_ictal.ep
 s>
 (epstopdf)             \includegraphics on input line 746.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_freq_4and5_sano_ictal-eps-converted-to.pdf, id=1630, 421.575pt
+<figuras/k_means_freq_4and5_sano_ictal-eps-converted-to.pdf, id=1648, 421.575pt
  x 316.18124pt>
 File: figuras/k_means_freq_4and5_sano_ictal-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2337,18 +2337,18 @@ Package pdftex.def Info: figuras/k_means_freq_4and5_sano_ictal-eps-converted-to
 k_means_freq_3and5_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/k_means_freq_4and6_sano_ictal.eps>
 
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 221720 bytes
 (epstopdf)             Output file: <figuras/k_means_freq_4and6_sano_ictal-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:50
 (epstopdf)                    size: 159448 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_freq
 _4and6_sano_ictal-eps-converted-to.pdf figuras/k_means_freq_4and6_sano_ictal.ep
 s>
 (epstopdf)             \includegraphics on input line 752.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_freq_4and6_sano_ictal-eps-converted-to.pdf, id=1651, 421.575pt
+<figuras/k_means_freq_4and6_sano_ictal-eps-converted-to.pdf, id=1669, 421.575pt
  x 316.18124pt>
 File: figuras/k_means_freq_4and6_sano_ictal-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2358,18 +2358,18 @@ Package pdftex.def Info: figuras/k_means_freq_4and6_sano_ictal-eps-converted-to
 (pdftex.def)             Requested size: 346.89732pt x 260.1773pt.
 Package epstopdf Info: Source file: <figuras/k_means_freq_5and6_sano_ictal.eps>
 
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 190021 bytes
 (epstopdf)             Output file: <figuras/k_means_freq_5and6_sano_ictal-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:50
 (epstopdf)                    size: 136297 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_freq
 _5and6_sano_ictal-eps-converted-to.pdf figuras/k_means_freq_5and6_sano_ictal.ep
 s>
 (epstopdf)             \includegraphics on input line 758.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_freq_5and6_sano_ictal-eps-converted-to.pdf, id=1652, 421.575pt
+<figuras/k_means_freq_5and6_sano_ictal-eps-converted-to.pdf, id=1670, 421.575pt
  x 316.18124pt>
 File: figuras/k_means_freq_5and6_sano_ictal-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2382,11 +2382,11 @@ k_means_freq_4and5_sano_ictal-eps-converted-to.pdf>] [62 <./figuras/k_means_fre
 q_4and6_sano_ictal-eps-converted-to.pdf> <./figuras/k_means_freq_5and6_sano_ict
 al-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/jerar_freq_1and_2_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 206550 bytes
 (epstopdf)             Output file: <figuras/jerar_freq_1and_2_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:21
+(epstopdf)                    date: 2023-12-05 18:55:38
 (epstopdf)                    size: 145706 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_freq_1
 and_2_sano_ictal-eps-converted-to.pdf figuras/jerar_freq_1and_2_sano_ictal.eps>
@@ -2398,9 +2398,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_freq_1and_2_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:32
+(epstopdf)                    date: 2023-12-05 18:57:33
 (epstopdf)                    size: 145706 bytes.
-<figuras/jerar_freq_1and_2_sano_ictal-eps-converted-to.pdf, id=1695, 421.575pt 
+<figuras/jerar_freq_1and_2_sano_ictal-eps-converted-to.pdf, id=1713, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_freq_1and_2_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2409,11 +2409,11 @@ Package pdftex.def Info: figuras/jerar_freq_1and_2_sano_ictal-eps-converted-to.
 pdf  used on input line 768.
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
 Package epstopdf Info: Source file: <figuras/jerar_freq_1and_3_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 188005 bytes
 (epstopdf)             Output file: <figuras/jerar_freq_1and_3_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:23
+(epstopdf)                    date: 2023-12-05 18:55:39
 (epstopdf)                    size: 128549 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_freq_1
 and_3_sano_ictal-eps-converted-to.pdf figuras/jerar_freq_1and_3_sano_ictal.eps>
@@ -2425,9 +2425,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_freq_1and_3_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:34
+(epstopdf)                    date: 2023-12-05 18:57:35
 (epstopdf)                    size: 128549 bytes.
-<figuras/jerar_freq_1and_3_sano_ictal-eps-converted-to.pdf, id=1696, 421.575pt 
+<figuras/jerar_freq_1and_3_sano_ictal-eps-converted-to.pdf, id=1714, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_freq_1and_3_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2437,11 +2437,11 @@ pdf  used on input line 774.
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
  [63 <./figuras/jerar_freq_1and_2_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/jerar_freq_1and_4_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 245820 bytes
 (epstopdf)             Output file: <figuras/jerar_freq_1and_4_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:25
+(epstopdf)                    date: 2023-12-05 18:55:41
 (epstopdf)                    size: 170748 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_freq_1
 and_4_sano_ictal-eps-converted-to.pdf figuras/jerar_freq_1and_4_sano_ictal.eps>
@@ -2453,9 +2453,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_freq_1and_4_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:37
+(epstopdf)                    date: 2023-12-05 18:57:36
 (epstopdf)                    size: 170748 bytes.
-<figuras/jerar_freq_1and_4_sano_ictal-eps-converted-to.pdf, id=1707, 421.575pt 
+<figuras/jerar_freq_1and_4_sano_ictal-eps-converted-to.pdf, id=1725, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_freq_1and_4_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2464,11 +2464,11 @@ Package pdftex.def Info: figuras/jerar_freq_1and_4_sano_ictal-eps-converted-to.
 pdf  used on input line 781.
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
 Package epstopdf Info: Source file: <figuras/jerar_freq_1and_5_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 171387 bytes
 (epstopdf)             Output file: <figuras/jerar_freq_1and_5_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:27
+(epstopdf)                    date: 2023-12-05 18:55:42
 (epstopdf)                    size: 117394 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_freq_1
 and_5_sano_ictal-eps-converted-to.pdf figuras/jerar_freq_1and_5_sano_ictal.eps>
@@ -2480,9 +2480,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_freq_1and_5_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:39
+(epstopdf)                    date: 2023-12-05 18:57:38
 (epstopdf)                    size: 117394 bytes.
-<figuras/jerar_freq_1and_5_sano_ictal-eps-converted-to.pdf, id=1708, 421.575pt 
+<figuras/jerar_freq_1and_5_sano_ictal-eps-converted-to.pdf, id=1726, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_freq_1and_5_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2491,11 +2491,11 @@ Package pdftex.def Info: figuras/jerar_freq_1and_5_sano_ictal-eps-converted-to.
 pdf  used on input line 787.
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
 Package epstopdf Info: Source file: <figuras/jerar_freq_1and_6_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 200113 bytes
 (epstopdf)             Output file: <figuras/jerar_freq_1and_6_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:28
+(epstopdf)                    date: 2023-12-05 18:55:44
 (epstopdf)                    size: 140058 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_freq_1
 and_6_sano_ictal-eps-converted-to.pdf figuras/jerar_freq_1and_6_sano_ictal.eps>
@@ -2507,9 +2507,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_freq_1and_6_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:41
+(epstopdf)                    date: 2023-12-05 18:57:39
 (epstopdf)                    size: 140058 bytes.
-<figuras/jerar_freq_1and_6_sano_ictal-eps-converted-to.pdf, id=1709, 421.575pt 
+<figuras/jerar_freq_1and_6_sano_ictal-eps-converted-to.pdf, id=1727, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_freq_1and_6_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2520,11 +2520,11 @@ pdf  used on input line 793.
  [64 <./figuras/jerar_freq_1and_3_sano_ictal-eps-converted-to.pdf> <./figuras/j
 erar_freq_1and_4_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/jerar_freq_2and_3_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 184339 bytes
 (epstopdf)             Output file: <figuras/jerar_freq_2and_3_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:30
+(epstopdf)                    date: 2023-12-05 18:55:45
 (epstopdf)                    size: 125172 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_freq_2
 and_3_sano_ictal-eps-converted-to.pdf figuras/jerar_freq_2and_3_sano_ictal.eps>
@@ -2536,9 +2536,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_freq_2and_3_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:43
+(epstopdf)                    date: 2023-12-05 18:57:41
 (epstopdf)                    size: 125172 bytes.
-<figuras/jerar_freq_2and_3_sano_ictal-eps-converted-to.pdf, id=1724, 421.575pt 
+<figuras/jerar_freq_2and_3_sano_ictal-eps-converted-to.pdf, id=1742, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_freq_2and_3_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2547,11 +2547,11 @@ Package pdftex.def Info: figuras/jerar_freq_2and_3_sano_ictal-eps-converted-to.
 pdf  used on input line 799.
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
 Package epstopdf Info: Source file: <figuras/jerar_freq_2and_4_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:52
 (epstopdf)                    size: 222874 bytes
 (epstopdf)             Output file: <figuras/jerar_freq_2and_4_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:32
+(epstopdf)                    date: 2023-12-05 18:55:46
 (epstopdf)                    size: 152475 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_freq_2
 and_4_sano_ictal-eps-converted-to.pdf figuras/jerar_freq_2and_4_sano_ictal.eps>
@@ -2563,9 +2563,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_freq_2and_4_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:45
+(epstopdf)                    date: 2023-12-05 18:57:42
 (epstopdf)                    size: 152475 bytes.
-<figuras/jerar_freq_2and_4_sano_ictal-eps-converted-to.pdf, id=1725, 421.575pt 
+<figuras/jerar_freq_2and_4_sano_ictal-eps-converted-to.pdf, id=1743, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_freq_2and_4_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2576,11 +2576,11 @@ pdf  used on input line 805.
  [65 <./figuras/jerar_freq_1and_5_sano_ictal-eps-converted-to.pdf> <./figuras/j
 erar_freq_1and_6_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/jerar_freq_2and_5_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 193951 bytes
 (epstopdf)             Output file: <figuras/jerar_freq_2and_5_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:34
+(epstopdf)                    date: 2023-12-05 18:55:48
 (epstopdf)                    size: 132222 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_freq_2
 and_5_sano_ictal-eps-converted-to.pdf figuras/jerar_freq_2and_5_sano_ictal.eps>
@@ -2592,9 +2592,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_freq_2and_5_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:46
+(epstopdf)                    date: 2023-12-05 18:57:43
 (epstopdf)                    size: 132222 bytes.
-<figuras/jerar_freq_2and_5_sano_ictal-eps-converted-to.pdf, id=1740, 421.575pt 
+<figuras/jerar_freq_2and_5_sano_ictal-eps-converted-to.pdf, id=1758, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_freq_2and_5_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2603,11 +2603,11 @@ Package pdftex.def Info: figuras/jerar_freq_2and_5_sano_ictal-eps-converted-to.
 pdf  used on input line 811.
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
 Package epstopdf Info: Source file: <figuras/jerar_freq_2and_6_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 176397 bytes
 (epstopdf)             Output file: <figuras/jerar_freq_2and_6_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:36
+(epstopdf)                    date: 2023-12-05 18:55:49
 (epstopdf)                    size: 118802 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_freq_2
 and_6_sano_ictal-eps-converted-to.pdf figuras/jerar_freq_2and_6_sano_ictal.eps>
@@ -2619,9 +2619,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_freq_2and_6_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:48
+(epstopdf)                    date: 2023-12-05 18:57:45
 (epstopdf)                    size: 118802 bytes.
-<figuras/jerar_freq_2and_6_sano_ictal-eps-converted-to.pdf, id=1741, 421.575pt 
+<figuras/jerar_freq_2and_6_sano_ictal-eps-converted-to.pdf, id=1759, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_freq_2and_6_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2632,11 +2632,11 @@ pdf  used on input line 817.
  [66 <./figuras/jerar_freq_2and_3_sano_ictal-eps-converted-to.pdf> <./figuras/j
 erar_freq_2and_4_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/jerar_freq_3and_4_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 255347 bytes
 (epstopdf)             Output file: <figuras/jerar_freq_3and_4_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:39
+(epstopdf)                    date: 2023-12-05 18:55:51
 (epstopdf)                    size: 177116 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_freq_3
 and_4_sano_ictal-eps-converted-to.pdf figuras/jerar_freq_3and_4_sano_ictal.eps>
@@ -2648,9 +2648,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_freq_3and_4_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:49
+(epstopdf)                    date: 2023-12-05 18:57:46
 (epstopdf)                    size: 177116 bytes.
-<figuras/jerar_freq_3and_4_sano_ictal-eps-converted-to.pdf, id=1756, 421.575pt 
+<figuras/jerar_freq_3and_4_sano_ictal-eps-converted-to.pdf, id=1774, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_freq_3and_4_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2659,11 +2659,11 @@ Package pdftex.def Info: figuras/jerar_freq_3and_4_sano_ictal-eps-converted-to.
 pdf  used on input line 823.
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
 Package epstopdf Info: Source file: <figuras/jerar_freq_3and_5_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 200142 bytes
 (epstopdf)             Output file: <figuras/jerar_freq_3and_5_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:42
+(epstopdf)                    date: 2023-12-05 18:55:52
 (epstopdf)                    size: 137099 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_freq_3
 and_5_sano_ictal-eps-converted-to.pdf figuras/jerar_freq_3and_5_sano_ictal.eps>
@@ -2675,9 +2675,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_freq_3and_5_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:51
+(epstopdf)                    date: 2023-12-05 18:57:48
 (epstopdf)                    size: 137099 bytes.
-<figuras/jerar_freq_3and_5_sano_ictal-eps-converted-to.pdf, id=1757, 421.575pt 
+<figuras/jerar_freq_3and_5_sano_ictal-eps-converted-to.pdf, id=1775, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_freq_3and_5_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2688,11 +2688,11 @@ pdf  used on input line 829.
  [67 <./figuras/jerar_freq_2and_5_sano_ictal-eps-converted-to.pdf> <./figuras/j
 erar_freq_2and_6_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/jerar_freq_3and_6_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 198018 bytes
 (epstopdf)             Output file: <figuras/jerar_freq_3and_6_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:44
+(epstopdf)                    date: 2023-12-05 18:55:54
 (epstopdf)                    size: 136639 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_freq_3
 and_6_sano_ictal-eps-converted-to.pdf figuras/jerar_freq_3and_6_sano_ictal.eps>
@@ -2704,9 +2704,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_freq_3and_6_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:52
+(epstopdf)                    date: 2023-12-05 18:57:49
 (epstopdf)                    size: 136639 bytes.
-<figuras/jerar_freq_3and_6_sano_ictal-eps-converted-to.pdf, id=1772, 421.575pt 
+<figuras/jerar_freq_3and_6_sano_ictal-eps-converted-to.pdf, id=1790, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_freq_3and_6_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2715,11 +2715,11 @@ Package pdftex.def Info: figuras/jerar_freq_3and_6_sano_ictal-eps-converted-to.
 pdf  used on input line 835.
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
 Package epstopdf Info: Source file: <figuras/jerar_freq_4and_5_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:56
 (epstopdf)                    size: 221135 bytes
 (epstopdf)             Output file: <figuras/jerar_freq_4and_5_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:47
+(epstopdf)                    date: 2023-12-05 18:55:55
 (epstopdf)                    size: 153107 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_freq_4
 and_5_sano_ictal-eps-converted-to.pdf figuras/jerar_freq_4and_5_sano_ictal.eps>
@@ -2731,9 +2731,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_freq_4and_5_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:54
+(epstopdf)                    date: 2023-12-05 18:57:51
 (epstopdf)                    size: 153107 bytes.
-<figuras/jerar_freq_4and_5_sano_ictal-eps-converted-to.pdf, id=1773, 421.575pt 
+<figuras/jerar_freq_4and_5_sano_ictal-eps-converted-to.pdf, id=1791, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_freq_4and_5_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2744,11 +2744,11 @@ pdf  used on input line 841.
  [68 <./figuras/jerar_freq_3and_4_sano_ictal-eps-converted-to.pdf> <./figuras/j
 erar_freq_3and_5_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/jerar_freq_4and_6_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 218174 bytes
 (epstopdf)             Output file: <figuras/jerar_freq_4and_6_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:49
+(epstopdf)                    date: 2023-12-05 18:55:57
 (epstopdf)                    size: 152804 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_freq_4
 and_6_sano_ictal-eps-converted-to.pdf figuras/jerar_freq_4and_6_sano_ictal.eps>
@@ -2760,9 +2760,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_freq_4and_6_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:55
+(epstopdf)                    date: 2023-12-05 18:57:52
 (epstopdf)                    size: 152804 bytes.
-<figuras/jerar_freq_4and_6_sano_ictal-eps-converted-to.pdf, id=1788, 421.575pt 
+<figuras/jerar_freq_4and_6_sano_ictal-eps-converted-to.pdf, id=1806, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_freq_4and_6_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2771,11 +2771,11 @@ Package pdftex.def Info: figuras/jerar_freq_4and_6_sano_ictal-eps-converted-to.
 pdf  used on input line 847.
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
 Package epstopdf Info: Source file: <figuras/jerar_freq_5and_6_sano_ictal.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:54
 (epstopdf)                    size: 187002 bytes
 (epstopdf)             Output file: <figuras/jerar_freq_5and_6_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:52
+(epstopdf)                    date: 2023-12-05 18:55:58
 (epstopdf)                    size: 130318 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_freq_5
 and_6_sano_ictal-eps-converted-to.pdf figuras/jerar_freq_5and_6_sano_ictal.eps>
@@ -2787,9 +2787,9 @@ owed).
 
 Package epstopdf Info: Result file: <figuras/jerar_freq_5and_6_sano_ictal-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:57
+(epstopdf)                    date: 2023-12-05 18:57:54
 (epstopdf)                    size: 130318 bytes.
-<figuras/jerar_freq_5and_6_sano_ictal-eps-converted-to.pdf, id=1789, 421.575pt 
+<figuras/jerar_freq_5and_6_sano_ictal-eps-converted-to.pdf, id=1807, 421.575pt 
 x 316.18124pt>
 File: figuras/jerar_freq_5and_6_sano_ictal-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2803,18 +2803,18 @@ nd_6_sano_ictal-eps-converted-to.pdf> <./figuras/jerar_freq_5and_6_sano_ictal-e
 ps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/k_means_wavelet_1and2_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 120715 bytes
 (epstopdf)             Output file: <figuras/k_means_wavelet_1and2_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:50
 (epstopdf)                    size: 82083 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_wave
 let_1and2_sano_ictal-eps-converted-to.pdf figuras/k_means_wavelet_1and2_sano_ic
 tal.eps>
 (epstopdf)             \includegraphics on input line 880.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_wavelet_1and2_sano_ictal-eps-converted-to.pdf, id=1828, 1156.3
+<figuras/k_means_wavelet_1and2_sano_ictal-eps-converted-to.pdf, id=1846, 1156.3
 2pt x 564.1075pt>
 File: figuras/k_means_wavelet_1and2_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -2824,18 +2824,18 @@ Package pdftex.def Info: figuras/k_means_wavelet_1and2_sano_ictal-eps-converted
 (pdftex.def)             Requested size: 390.25536pt x 190.38235pt.
 Package epstopdf Info: Source file: <figuras/k_means_wavelet_1and3_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 22991 bytes
 (epstopdf)             Output file: <figuras/k_means_wavelet_1and3_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:50
 (epstopdf)                    size: 12327 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_wave
 let_1and3_sano_ictal-eps-converted-to.pdf figuras/k_means_wavelet_1and3_sano_ic
 tal.eps>
 (epstopdf)             \includegraphics on input line 886.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_wavelet_1and3_sano_ictal-eps-converted-to.pdf, id=1829, 421.57
+<figuras/k_means_wavelet_1and3_sano_ictal-eps-converted-to.pdf, id=1847, 421.57
 5pt x 316.18124pt>
 File: figuras/k_means_wavelet_1and3_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -2845,18 +2845,18 @@ Package pdftex.def Info: figuras/k_means_wavelet_1and3_sano_ictal-eps-converted
 (pdftex.def)             Requested size: 346.89732pt x 260.1773pt.
 Package epstopdf Info: Source file: <figuras/k_means_wavelet_1and4_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 21918 bytes
 (epstopdf)             Output file: <figuras/k_means_wavelet_1and4_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:50
 (epstopdf)                    size: 10022 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_wave
 let_1and4_sano_ictal-eps-converted-to.pdf figuras/k_means_wavelet_1and4_sano_ic
 tal.eps>
 (epstopdf)             \includegraphics on input line 892.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_wavelet_1and4_sano_ictal-eps-converted-to.pdf, id=1830, 421.57
+<figuras/k_means_wavelet_1and4_sano_ictal-eps-converted-to.pdf, id=1848, 421.57
 5pt x 316.18124pt>
 File: figuras/k_means_wavelet_1and4_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -2867,18 +2867,18 @@ Package pdftex.def Info: figuras/k_means_wavelet_1and4_sano_ictal-eps-converted
 [71 <./figuras/k_means_wavelet_1and2_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/k_means_wavelet_1and5_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 77065 bytes
 (epstopdf)             Output file: <figuras/k_means_wavelet_1and5_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:50
 (epstopdf)                    size: 52980 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_wave
 let_1and5_sano_ictal-eps-converted-to.pdf figuras/k_means_wavelet_1and5_sano_ic
 tal.eps>
 (epstopdf)             \includegraphics on input line 898.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_wavelet_1and5_sano_ictal-eps-converted-to.pdf, id=1849, 421.57
+<figuras/k_means_wavelet_1and5_sano_ictal-eps-converted-to.pdf, id=1867, 421.57
 5pt x 316.18124pt>
 File: figuras/k_means_wavelet_1and5_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -2888,18 +2888,18 @@ Package pdftex.def Info: figuras/k_means_wavelet_1and5_sano_ictal-eps-converted
 (pdftex.def)             Requested size: 346.89732pt x 260.1773pt.
 Package epstopdf Info: Source file: <figuras/k_means_wavelet_1and6_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 21520 bytes
 (epstopdf)             Output file: <figuras/k_means_wavelet_1and6_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:50
 (epstopdf)                    size: 9727 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_wave
 let_1and6_sano_ictal-eps-converted-to.pdf figuras/k_means_wavelet_1and6_sano_ic
 tal.eps>
 (epstopdf)             \includegraphics on input line 904.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_wavelet_1and6_sano_ictal-eps-converted-to.pdf, id=1850, 421.57
+<figuras/k_means_wavelet_1and6_sano_ictal-eps-converted-to.pdf, id=1868, 421.57
 5pt x 316.18124pt>
 File: figuras/k_means_wavelet_1and6_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -2911,18 +2911,18 @@ Package pdftex.def Info: figuras/k_means_wavelet_1and6_sano_ictal-eps-converted
 as/k_means_wavelet_1and4_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/k_means_wavelet_2and3_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 173512 bytes
 (epstopdf)             Output file: <figuras/k_means_wavelet_2and3_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:50
 (epstopdf)                    size: 130887 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_wave
 let_2and3_sano_ictal-eps-converted-to.pdf figuras/k_means_wavelet_2and3_sano_ic
 tal.eps>
 (epstopdf)             \includegraphics on input line 910.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_wavelet_2and3_sano_ictal-eps-converted-to.pdf, id=1871, 421.57
+<figuras/k_means_wavelet_2and3_sano_ictal-eps-converted-to.pdf, id=1889, 421.57
 5pt x 316.18124pt>
 File: figuras/k_means_wavelet_2and3_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -2932,18 +2932,18 @@ Package pdftex.def Info: figuras/k_means_wavelet_2and3_sano_ictal-eps-converted
 (pdftex.def)             Requested size: 346.89732pt x 260.1773pt.
 Package epstopdf Info: Source file: <figuras/k_means_wavelet_2and4_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 62835 bytes
 (epstopdf)             Output file: <figuras/k_means_wavelet_2and4_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:50
 (epstopdf)                    size: 43267 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_wave
 let_2and4_sano_ictal-eps-converted-to.pdf figuras/k_means_wavelet_2and4_sano_ic
 tal.eps>
 (epstopdf)             \includegraphics on input line 916.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_wavelet_2and4_sano_ictal-eps-converted-to.pdf, id=1872, 421.57
+<figuras/k_means_wavelet_2and4_sano_ictal-eps-converted-to.pdf, id=1890, 421.57
 5pt x 316.18124pt>
 File: figuras/k_means_wavelet_2and4_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -2955,18 +2955,18 @@ Package pdftex.def Info: figuras/k_means_wavelet_2and4_sano_ictal-eps-converted
 as/k_means_wavelet_1and6_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/k_means_wavelet_2and5_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 364906 bytes
 (epstopdf)             Output file: <figuras/k_means_wavelet_2and5_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:50
 (epstopdf)                    size: 272135 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_wave
 let_2and5_sano_ictal-eps-converted-to.pdf figuras/k_means_wavelet_2and5_sano_ic
 tal.eps>
 (epstopdf)             \includegraphics on input line 922.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_wavelet_2and5_sano_ictal-eps-converted-to.pdf, id=1893, 421.57
+<figuras/k_means_wavelet_2and5_sano_ictal-eps-converted-to.pdf, id=1911, 421.57
 5pt x 316.18124pt>
 File: figuras/k_means_wavelet_2and5_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -2976,18 +2976,18 @@ Package pdftex.def Info: figuras/k_means_wavelet_2and5_sano_ictal-eps-converted
 (pdftex.def)             Requested size: 346.89732pt x 260.1773pt.
 Package epstopdf Info: Source file: <figuras/k_means_wavelet_2and6_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 42361 bytes
 (epstopdf)             Output file: <figuras/k_means_wavelet_2and6_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:50
 (epstopdf)                    size: 23188 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_wave
 let_2and6_sano_ictal-eps-converted-to.pdf figuras/k_means_wavelet_2and6_sano_ic
 tal.eps>
 (epstopdf)             \includegraphics on input line 928.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_wavelet_2and6_sano_ictal-eps-converted-to.pdf, id=1894, 421.57
+<figuras/k_means_wavelet_2and6_sano_ictal-eps-converted-to.pdf, id=1912, 421.57
 5pt x 316.18124pt>
 File: figuras/k_means_wavelet_2and6_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -2999,18 +2999,18 @@ Package pdftex.def Info: figuras/k_means_wavelet_2and6_sano_ictal-eps-converted
 as/k_means_wavelet_2and4_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/k_means_wavelet_3and4_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 23808 bytes
 (epstopdf)             Output file: <figuras/k_means_wavelet_3and4_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:50
 (epstopdf)                    size: 13077 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_wave
 let_3and4_sano_ictal-eps-converted-to.pdf figuras/k_means_wavelet_3and4_sano_ic
 tal.eps>
 (epstopdf)             \includegraphics on input line 934.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_wavelet_3and4_sano_ictal-eps-converted-to.pdf, id=1915, 421.57
+<figuras/k_means_wavelet_3and4_sano_ictal-eps-converted-to.pdf, id=1933, 421.57
 5pt x 316.18124pt>
 File: figuras/k_means_wavelet_3and4_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -3020,18 +3020,18 @@ Package pdftex.def Info: figuras/k_means_wavelet_3and4_sano_ictal-eps-converted
 (pdftex.def)             Requested size: 346.89732pt x 260.1773pt.
 Package epstopdf Info: Source file: <figuras/k_means_wavelet_3and5_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 237469 bytes
 (epstopdf)             Output file: <figuras/k_means_wavelet_3and5_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:50
 (epstopdf)                    size: 182214 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_wave
 let_3and5_sano_ictal-eps-converted-to.pdf figuras/k_means_wavelet_3and5_sano_ic
 tal.eps>
 (epstopdf)             \includegraphics on input line 940.
 Package epstopdf Info: Output file is already uptodate.
-<figuras/k_means_wavelet_3and5_sano_ictal-eps-converted-to.pdf, id=1916, 421.57
+<figuras/k_means_wavelet_3and5_sano_ictal-eps-converted-to.pdf, id=1934, 421.57
 5pt x 316.18124pt>
 File: figuras/k_means_wavelet_3and5_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -3043,11 +3043,11 @@ Package pdftex.def Info: figuras/k_means_wavelet_3and5_sano_ictal-eps-converted
 as/k_means_wavelet_2and6_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/k_means_wavelet_3and6_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 26398 bytes
 (epstopdf)             Output file: <figuras/k_means_wavelet_3and6_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:54
+(epstopdf)                    date: 2023-12-05 18:56:00
 (epstopdf)                    size: 13899 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_wave
 let_3and6_sano_ictal-eps-converted-to.pdf figuras/k_means_wavelet_3and6_sano_ic
@@ -3059,9 +3059,9 @@ ely (allowed).
 
 Package epstopdf Info: Result file: <figuras/k_means_wavelet_3and6_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:10:59
+(epstopdf)                    date: 2023-12-05 18:57:55
 (epstopdf)                    size: 13899 bytes.
-<figuras/k_means_wavelet_3and6_sano_ictal-eps-converted-to.pdf, id=1938, 421.57
+<figuras/k_means_wavelet_3and6_sano_ictal-eps-converted-to.pdf, id=1956, 421.57
 5pt x 316.18124pt>
 File: figuras/k_means_wavelet_3and6_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -3071,11 +3071,11 @@ Package pdftex.def Info: figuras/k_means_wavelet_3and6_sano_ictal-eps-converted
 (pdftex.def)             Requested size: 346.89732pt x 260.1773pt.
 Package epstopdf Info: Source file: <figuras/k_means_wavelet_4and5_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 76638 bytes
 (epstopdf)             Output file: <figuras/k_means_wavelet_4and5_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:56
+(epstopdf)                    date: 2023-12-05 18:56:01
 (epstopdf)                    size: 53200 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_wave
 let_4and5_sano_ictal-eps-converted-to.pdf figuras/k_means_wavelet_4and5_sano_ic
@@ -3087,9 +3087,9 @@ ely (allowed).
 
 Package epstopdf Info: Result file: <figuras/k_means_wavelet_4and5_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:11:00
+(epstopdf)                    date: 2023-12-05 18:57:56
 (epstopdf)                    size: 53200 bytes.
-<figuras/k_means_wavelet_4and5_sano_ictal-eps-converted-to.pdf, id=1939, 421.57
+<figuras/k_means_wavelet_4and5_sano_ictal-eps-converted-to.pdf, id=1957, 421.57
 5pt x 316.18124pt>
 File: figuras/k_means_wavelet_4and5_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -3101,11 +3101,11 @@ Package pdftex.def Info: figuras/k_means_wavelet_4and5_sano_ictal-eps-converted
 as/k_means_wavelet_3and5_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/k_means_wavelet_4and6_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 21518 bytes
 (epstopdf)             Output file: <figuras/k_means_wavelet_4and6_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:57
+(epstopdf)                    date: 2023-12-05 18:56:02
 (epstopdf)                    size: 9725 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_wave
 let_4and6_sano_ictal-eps-converted-to.pdf figuras/k_means_wavelet_4and6_sano_ic
@@ -3117,9 +3117,9 @@ ely (allowed).
 
 Package epstopdf Info: Result file: <figuras/k_means_wavelet_4and6_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:11:01
+(epstopdf)                    date: 2023-12-05 18:57:58
 (epstopdf)                    size: 9725 bytes.
-<figuras/k_means_wavelet_4and6_sano_ictal-eps-converted-to.pdf, id=1960, 421.57
+<figuras/k_means_wavelet_4and6_sano_ictal-eps-converted-to.pdf, id=1978, 421.57
 5pt x 316.18124pt>
 File: figuras/k_means_wavelet_4and6_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -3129,11 +3129,11 @@ Package pdftex.def Info: figuras/k_means_wavelet_4and6_sano_ictal-eps-converted
 (pdftex.def)             Requested size: 346.89732pt x 260.1773pt.
 Package epstopdf Info: Source file: <figuras/k_means_wavelet_5and6_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 61429 bytes
 (epstopdf)             Output file: <figuras/k_means_wavelet_5and6_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:08:58
+(epstopdf)                    date: 2023-12-05 18:56:03
 (epstopdf)                    size: 34887 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/k_means_wave
 let_5and6_sano_ictal-eps-converted-to.pdf figuras/k_means_wavelet_5and6_sano_ic
@@ -3145,9 +3145,9 @@ ely (allowed).
 
 Package epstopdf Info: Result file: <figuras/k_means_wavelet_5and6_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:11:03
+(epstopdf)                    date: 2023-12-05 18:58:00
 (epstopdf)                    size: 34887 bytes.
-<figuras/k_means_wavelet_5and6_sano_ictal-eps-converted-to.pdf, id=1961, 421.57
+<figuras/k_means_wavelet_5and6_sano_ictal-eps-converted-to.pdf, id=1979, 421.57
 5pt x 316.18124pt>
 File: figuras/k_means_wavelet_5and6_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -3161,11 +3161,11 @@ ns_wavelet_4and6_sano_ictal-eps-converted-to.pdf> <./figuras/k_means_wavelet_5a
 nd6_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/jerar_wavelets_1and_2_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:56
 (epstopdf)                    size: 58993 bytes
 (epstopdf)             Output file: <figuras/jerar_wavelets_1and_2_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:09:00
+(epstopdf)                    date: 2023-12-05 18:56:04
 (epstopdf)                    size: 37632 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_wavele
 ts_1and_2_sano_ictal-eps-converted-to.pdf figuras/jerar_wavelets_1and_2_sano_ic
@@ -3177,9 +3177,9 @@ ely (allowed).
 
 Package epstopdf Info: Result file: <figuras/jerar_wavelets_1and_2_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:11:04
+(epstopdf)                    date: 2023-12-05 18:58:01
 (epstopdf)                    size: 37632 bytes.
-<figuras/jerar_wavelets_1and_2_sano_ictal-eps-converted-to.pdf, id=2004, 421.57
+<figuras/jerar_wavelets_1and_2_sano_ictal-eps-converted-to.pdf, id=2022, 421.57
 5pt x 316.18124pt>
 File: figuras/jerar_wavelets_1and_2_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -3189,11 +3189,11 @@ Package pdftex.def Info: figuras/jerar_wavelets_1and_2_sano_ictal-eps-converted
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
 Package epstopdf Info: Source file: <figuras/jerar_wavelets_1and_3_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:56
 (epstopdf)                    size: 21161 bytes
 (epstopdf)             Output file: <figuras/jerar_wavelets_1and_3_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:09:01
+(epstopdf)                    date: 2023-12-05 18:56:06
 (epstopdf)                    size: 9419 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_wavele
 ts_1and_3_sano_ictal-eps-converted-to.pdf figuras/jerar_wavelets_1and_3_sano_ic
@@ -3205,9 +3205,9 @@ ely (allowed).
 
 Package epstopdf Info: Result file: <figuras/jerar_wavelets_1and_3_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:11:05
+(epstopdf)                    date: 2023-12-05 18:58:03
 (epstopdf)                    size: 9419 bytes.
-<figuras/jerar_wavelets_1and_3_sano_ictal-eps-converted-to.pdf, id=2005, 421.57
+<figuras/jerar_wavelets_1and_3_sano_ictal-eps-converted-to.pdf, id=2023, 421.57
 5pt x 316.18124pt>
 File: figuras/jerar_wavelets_1and_3_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -3217,11 +3217,11 @@ Package pdftex.def Info: figuras/jerar_wavelets_1and_3_sano_ictal-eps-converted
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
 Package epstopdf Info: Source file: <figuras/jerar_wavelets_1and_4_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:56
 (epstopdf)                    size: 19732 bytes
 (epstopdf)             Output file: <figuras/jerar_wavelets_1and_4_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:09:03
+(epstopdf)                    date: 2023-12-05 18:56:07
 (epstopdf)                    size: 7102 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_wavele
 ts_1and_4_sano_ictal-eps-converted-to.pdf figuras/jerar_wavelets_1and_4_sano_ic
@@ -3233,9 +3233,9 @@ ely (allowed).
 
 Package epstopdf Info: Result file: <figuras/jerar_wavelets_1and_4_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:11:07
+(epstopdf)                    date: 2023-12-05 18:58:04
 (epstopdf)                    size: 7102 bytes.
-<figuras/jerar_wavelets_1and_4_sano_ictal-eps-converted-to.pdf, id=2006, 421.57
+<figuras/jerar_wavelets_1and_4_sano_ictal-eps-converted-to.pdf, id=2024, 421.57
 5pt x 316.18124pt>
 File: figuras/jerar_wavelets_1and_4_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -3245,11 +3245,11 @@ Package pdftex.def Info: figuras/jerar_wavelets_1and_4_sano_ictal-eps-converted
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
 Package epstopdf Info: Source file: <figuras/jerar_wavelets_1and_5_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:56
 (epstopdf)                    size: 75038 bytes
 (epstopdf)             Output file: <figuras/jerar_wavelets_1and_5_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:09:04
+(epstopdf)                    date: 2023-12-05 18:56:08
 (epstopdf)                    size: 49121 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_wavele
 ts_1and_5_sano_ictal-eps-converted-to.pdf figuras/jerar_wavelets_1and_5_sano_ic
@@ -3261,9 +3261,9 @@ ely (allowed).
 
 Package epstopdf Info: Result file: <figuras/jerar_wavelets_1and_5_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:11:08
+(epstopdf)                    date: 2023-12-05 18:58:05
 (epstopdf)                    size: 49121 bytes.
-<figuras/jerar_wavelets_1and_5_sano_ictal-eps-converted-to.pdf, id=2007, 421.57
+<figuras/jerar_wavelets_1and_5_sano_ictal-eps-converted-to.pdf, id=2025, 421.57
 5pt x 316.18124pt>
 File: figuras/jerar_wavelets_1and_5_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -3275,11 +3275,11 @@ Package pdftex.def Info: figuras/jerar_wavelets_1and_5_sano_ictal-eps-converted
 as/jerar_wavelets_1and_3_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/jerar_wavelets_1and_6_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:56
 (epstopdf)                    size: 19495 bytes
 (epstopdf)             Output file: <figuras/jerar_wavelets_1and_6_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:09:05
+(epstopdf)                    date: 2023-12-05 18:56:09
 (epstopdf)                    size: 6846 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_wavele
 ts_1and_6_sano_ictal-eps-converted-to.pdf figuras/jerar_wavelets_1and_6_sano_ic
@@ -3291,9 +3291,9 @@ ely (allowed).
 
 Package epstopdf Info: Result file: <figuras/jerar_wavelets_1and_6_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:11:09
+(epstopdf)                    date: 2023-12-05 18:58:06
 (epstopdf)                    size: 6846 bytes.
-<figuras/jerar_wavelets_1and_6_sano_ictal-eps-converted-to.pdf, id=2022, 421.57
+<figuras/jerar_wavelets_1and_6_sano_ictal-eps-converted-to.pdf, id=2040, 421.57
 5pt x 316.18124pt>
 File: figuras/jerar_wavelets_1and_6_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -3303,11 +3303,11 @@ Package pdftex.def Info: figuras/jerar_wavelets_1and_6_sano_ictal-eps-converted
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
 Package epstopdf Info: Source file: <figuras/jerar_wavelets_2and_3_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:56
 (epstopdf)                    size: 172104 bytes
 (epstopdf)             Output file: <figuras/jerar_wavelets_2and_3_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:09:07
+(epstopdf)                    date: 2023-12-05 18:56:11
 (epstopdf)                    size: 125850 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_wavele
 ts_2and_3_sano_ictal-eps-converted-to.pdf figuras/jerar_wavelets_2and_3_sano_ic
@@ -3319,9 +3319,9 @@ ely (allowed).
 
 Package epstopdf Info: Result file: <figuras/jerar_wavelets_2and_3_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:11:11
+(epstopdf)                    date: 2023-12-05 18:58:08
 (epstopdf)                    size: 125850 bytes.
-<figuras/jerar_wavelets_2and_3_sano_ictal-eps-converted-to.pdf, id=2023, 421.57
+<figuras/jerar_wavelets_2and_3_sano_ictal-eps-converted-to.pdf, id=2041, 421.57
 5pt x 316.18124pt>
 File: figuras/jerar_wavelets_2and_3_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -3333,11 +3333,11 @@ Package pdftex.def Info: figuras/jerar_wavelets_2and_3_sano_ictal-eps-converted
 as/jerar_wavelets_1and_5_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/jerar_wavelets_2and_4_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:56
 (epstopdf)                    size: 61512 bytes
 (epstopdf)             Output file: <figuras/jerar_wavelets_2and_4_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:09:08
+(epstopdf)                    date: 2023-12-05 18:56:12
 (epstopdf)                    size: 39684 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_wavele
 ts_2and_4_sano_ictal-eps-converted-to.pdf figuras/jerar_wavelets_2and_4_sano_ic
@@ -3349,9 +3349,9 @@ ely (allowed).
 
 Package epstopdf Info: Result file: <figuras/jerar_wavelets_2and_4_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:11:12
+(epstopdf)                    date: 2023-12-05 18:58:09
 (epstopdf)                    size: 39684 bytes.
-<figuras/jerar_wavelets_2and_4_sano_ictal-eps-converted-to.pdf, id=2038, 421.57
+<figuras/jerar_wavelets_2and_4_sano_ictal-eps-converted-to.pdf, id=2056, 421.57
 5pt x 316.18124pt>
 File: figuras/jerar_wavelets_2and_4_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -3361,11 +3361,11 @@ Package pdftex.def Info: figuras/jerar_wavelets_2and_4_sano_ictal-eps-converted
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
 Package epstopdf Info: Source file: <figuras/jerar_wavelets_2and_5_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:56
 (epstopdf)                    size: 363193 bytes
 (epstopdf)             Output file: <figuras/jerar_wavelets_2and_5_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:09:10
+(epstopdf)                    date: 2023-12-05 18:56:14
 (epstopdf)                    size: 259814 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_wavele
 ts_2and_5_sano_ictal-eps-converted-to.pdf figuras/jerar_wavelets_2and_5_sano_ic
@@ -3377,9 +3377,9 @@ ely (allowed).
 
 Package epstopdf Info: Result file: <figuras/jerar_wavelets_2and_5_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:11:14
+(epstopdf)                    date: 2023-12-05 18:58:11
 (epstopdf)                    size: 259814 bytes.
-<figuras/jerar_wavelets_2and_5_sano_ictal-eps-converted-to.pdf, id=2039, 421.57
+<figuras/jerar_wavelets_2and_5_sano_ictal-eps-converted-to.pdf, id=2057, 421.57
 5pt x 316.18124pt>
 File: figuras/jerar_wavelets_2and_5_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -3391,11 +3391,11 @@ Package pdftex.def Info: figuras/jerar_wavelets_2and_5_sano_ictal-eps-converted
 as/jerar_wavelets_2and_3_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/jerar_wavelets_2and_6_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:56
 (epstopdf)                    size: 40636 bytes
 (epstopdf)             Output file: <figuras/jerar_wavelets_2and_6_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:09:11
+(epstopdf)                    date: 2023-12-05 18:56:15
 (epstopdf)                    size: 20038 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_wavele
 ts_2and_6_sano_ictal-eps-converted-to.pdf figuras/jerar_wavelets_2and_6_sano_ic
@@ -3407,9 +3407,9 @@ ely (allowed).
 
 Package epstopdf Info: Result file: <figuras/jerar_wavelets_2and_6_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:11:15
+(epstopdf)                    date: 2023-12-05 18:58:12
 (epstopdf)                    size: 20038 bytes.
-<figuras/jerar_wavelets_2and_6_sano_ictal-eps-converted-to.pdf, id=2055, 421.57
+<figuras/jerar_wavelets_2and_6_sano_ictal-eps-converted-to.pdf, id=2073, 421.57
 5pt x 316.18124pt>
 File: figuras/jerar_wavelets_2and_6_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -3419,11 +3419,11 @@ Package pdftex.def Info: figuras/jerar_wavelets_2and_6_sano_ictal-eps-converted
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
 Package epstopdf Info: Source file: <figuras/jerar_wavelets_3and_4_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:56
 (epstopdf)                    size: 22032 bytes
 (epstopdf)             Output file: <figuras/jerar_wavelets_3and_4_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:09:12
+(epstopdf)                    date: 2023-12-05 18:56:16
 (epstopdf)                    size: 10111 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_wavele
 ts_3and_4_sano_ictal-eps-converted-to.pdf figuras/jerar_wavelets_3and_4_sano_ic
@@ -3435,9 +3435,9 @@ ely (allowed).
 
 Package epstopdf Info: Result file: <figuras/jerar_wavelets_3and_4_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:11:17
+(epstopdf)                    date: 2023-12-05 18:58:13
 (epstopdf)                    size: 10111 bytes.
-<figuras/jerar_wavelets_3and_4_sano_ictal-eps-converted-to.pdf, id=2056, 421.57
+<figuras/jerar_wavelets_3and_4_sano_ictal-eps-converted-to.pdf, id=2074, 421.57
 5pt x 316.18124pt>
 File: figuras/jerar_wavelets_3and_4_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -3449,11 +3449,11 @@ Package pdftex.def Info: figuras/jerar_wavelets_3and_4_sano_ictal-eps-converted
 as/jerar_wavelets_2and_5_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/jerar_wavelets_3and_5_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:56
 (epstopdf)                    size: 236324 bytes
 (epstopdf)             Output file: <figuras/jerar_wavelets_3and_5_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:09:14
+(epstopdf)                    date: 2023-12-05 18:56:17
 (epstopdf)                    size: 175349 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_wavele
 ts_3and_5_sano_ictal-eps-converted-to.pdf figuras/jerar_wavelets_3and_5_sano_ic
@@ -3465,9 +3465,9 @@ ely (allowed).
 
 Package epstopdf Info: Result file: <figuras/jerar_wavelets_3and_5_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:11:18
+(epstopdf)                    date: 2023-12-05 18:58:15
 (epstopdf)                    size: 175349 bytes.
-<figuras/jerar_wavelets_3and_5_sano_ictal-eps-converted-to.pdf, id=2071, 421.57
+<figuras/jerar_wavelets_3and_5_sano_ictal-eps-converted-to.pdf, id=2089, 421.57
 5pt x 316.18124pt>
 File: figuras/jerar_wavelets_3and_5_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -3477,11 +3477,11 @@ Package pdftex.def Info: figuras/jerar_wavelets_3and_5_sano_ictal-eps-converted
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
 Package epstopdf Info: Source file: <figuras/jerar_wavelets_3and_6_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:56
 (epstopdf)                    size: 24723 bytes
 (epstopdf)             Output file: <figuras/jerar_wavelets_3and_6_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:09:15
+(epstopdf)                    date: 2023-12-05 18:56:19
 (epstopdf)                    size: 10938 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_wavele
 ts_3and_6_sano_ictal-eps-converted-to.pdf figuras/jerar_wavelets_3and_6_sano_ic
@@ -3493,9 +3493,9 @@ ely (allowed).
 
 Package epstopdf Info: Result file: <figuras/jerar_wavelets_3and_6_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:11:20
+(epstopdf)                    date: 2023-12-05 18:58:16
 (epstopdf)                    size: 10938 bytes.
-<figuras/jerar_wavelets_3and_6_sano_ictal-eps-converted-to.pdf, id=2072, 421.57
+<figuras/jerar_wavelets_3and_6_sano_ictal-eps-converted-to.pdf, id=2090, 421.57
 5pt x 316.18124pt>
 File: figuras/jerar_wavelets_3and_6_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -3508,11 +3508,11 @@ Package pdftex.def Info: figuras/jerar_wavelets_3and_6_sano_ictal-eps-converted
 s/jerar_wavelets_3and_4_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/jerar_wavelets_4and_5_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:56
 (epstopdf)                    size: 75298 bytes
 (epstopdf)             Output file: <figuras/jerar_wavelets_4and_5_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:09:17
+(epstopdf)                    date: 2023-12-05 18:56:20
 (epstopdf)                    size: 49412 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_wavele
 ts_4and_5_sano_ictal-eps-converted-to.pdf figuras/jerar_wavelets_4and_5_sano_ic
@@ -3524,9 +3524,9 @@ ely (allowed).
 
 Package epstopdf Info: Result file: <figuras/jerar_wavelets_4and_5_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:11:21
+(epstopdf)                    date: 2023-12-05 18:58:17
 (epstopdf)                    size: 49412 bytes.
-<figuras/jerar_wavelets_4and_5_sano_ictal-eps-converted-to.pdf, id=2087, 421.57
+<figuras/jerar_wavelets_4and_5_sano_ictal-eps-converted-to.pdf, id=2105, 421.57
 5pt x 316.18124pt>
 File: figuras/jerar_wavelets_4and_5_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -3536,11 +3536,11 @@ Package pdftex.def Info: figuras/jerar_wavelets_4and_5_sano_ictal-eps-converted
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
 Package epstopdf Info: Source file: <figuras/jerar_wavelets_4and_6_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:56
 (epstopdf)                    size: 19493 bytes
 (epstopdf)             Output file: <figuras/jerar_wavelets_4and_6_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:09:18
+(epstopdf)                    date: 2023-12-05 18:56:21
 (epstopdf)                    size: 6826 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_wavele
 ts_4and_6_sano_ictal-eps-converted-to.pdf figuras/jerar_wavelets_4and_6_sano_ic
@@ -3552,9 +3552,9 @@ ely (allowed).
 
 Package epstopdf Info: Result file: <figuras/jerar_wavelets_4and_6_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:11:22
+(epstopdf)                    date: 2023-12-05 18:58:18
 (epstopdf)                    size: 6826 bytes.
-<figuras/jerar_wavelets_4and_6_sano_ictal-eps-converted-to.pdf, id=2088, 421.57
+<figuras/jerar_wavelets_4and_6_sano_ictal-eps-converted-to.pdf, id=2106, 421.57
 5pt x 316.18124pt>
 File: figuras/jerar_wavelets_4and_6_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -3566,11 +3566,11 @@ Package pdftex.def Info: figuras/jerar_wavelets_4and_6_sano_ictal-eps-converted
 as/jerar_wavelets_3and_6_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/jerar_wavelets_5and_6_sano_ictal.e
 ps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:56
 (epstopdf)                    size: 59197 bytes
 (epstopdf)             Output file: <figuras/jerar_wavelets_5and_6_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:09:19
+(epstopdf)                    date: 2023-12-05 18:56:22
 (epstopdf)                    size: 31646 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/jerar_wavele
 ts_5and_6_sano_ictal-eps-converted-to.pdf figuras/jerar_wavelets_5and_6_sano_ic
@@ -3582,9 +3582,9 @@ ely (allowed).
 
 Package epstopdf Info: Result file: <figuras/jerar_wavelets_5and_6_sano_ictal-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:11:24
+(epstopdf)                    date: 2023-12-05 18:58:20
 (epstopdf)                    size: 31646 bytes.
-<figuras/jerar_wavelets_5and_6_sano_ictal-eps-converted-to.pdf, id=2103, 421.57
+<figuras/jerar_wavelets_5and_6_sano_ictal-eps-converted-to.pdf, id=2121, 421.57
 5pt x 316.18124pt>
 File: figuras/jerar_wavelets_5and_6_sano_ictal-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -3594,18 +3594,18 @@ Package pdftex.def Info: figuras/jerar_wavelets_5and_6_sano_ictal-eps-converted
 (pdftex.def)             Requested size: 303.53267pt x 227.65514pt.
  [85 <./figuras/jerar_wavelets_4and_5_sano_ictal-eps-converted-to.pdf> <./figur
 as/jerar_wavelets_4and_6_sano_ictal-eps-converted-to.pdf>]
-<figuras/39_VAT.png, id=2119, 534.798pt x 416.15475pt>
+<figuras/39_VAT.png, id=2137, 534.798pt x 416.15475pt>
 File: figuras/39_VAT.png Graphic file (type png)
 <use figuras/39_VAT.png>
 Package pdftex.def Info: figuras/39_VAT.png  used on input line 1069.
 (pdftex.def)             Requested size: 260.17465pt x 202.4571pt.
  [86 <./figuras/jerar_wavelets_5and_6_sano_ictal-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/vat_edf_n_Uban15_time.eps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 36293 bytes
 (epstopdf)             Output file: <figuras/vat_edf_n_Uban15_time-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:09:21
+(epstopdf)                    date: 2023-12-05 18:56:24
 (epstopdf)                    size: 19033 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_edf_n_Ub
 an15_time-eps-converted-to.pdf figuras/vat_edf_n_Uban15_time.eps>
@@ -3615,9 +3615,9 @@ runsystem(miktex-epstopdf --outfile=figuras/vat_edf_n_Uban15_time-eps-converted
 
 Package epstopdf Info: Result file: <figuras/vat_edf_n_Uban15_time-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:11:25
+(epstopdf)                    date: 2023-12-05 18:58:21
 (epstopdf)                    size: 19033 bytes.
-<figuras/vat_edf_n_Uban15_time-eps-converted-to.pdf, id=2134, 421.575pt x 316.1
+<figuras/vat_edf_n_Uban15_time-eps-converted-to.pdf, id=2152, 421.575pt x 316.1
 8124pt>
 File: figuras/vat_edf_n_Uban15_time-eps-converted-to.pdf Graphic file (type pdf
 )
@@ -3626,11 +3626,11 @@ Package pdftex.def Info: figuras/vat_edf_n_Uban15_time-eps-converted-to.pdf  us
 ed on input line 1086.
 (pdftex.def)             Requested size: 325.215pt x 243.9138pt.
 Package epstopdf Info: Source file: <figuras/vat_edf_n_Uban15_freq.eps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 536682 bytes
 (epstopdf)             Output file: <figuras/vat_edf_n_Uban15_freq-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:09:23
+(epstopdf)                    date: 2023-12-05 18:56:26
 (epstopdf)                    size: 515922 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_edf_n_Ub
 an15_freq-eps-converted-to.pdf figuras/vat_edf_n_Uban15_freq.eps>
@@ -3640,9 +3640,9 @@ runsystem(miktex-epstopdf --outfile=figuras/vat_edf_n_Uban15_freq-eps-converted
 
 Package epstopdf Info: Result file: <figuras/vat_edf_n_Uban15_freq-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:11:28
+(epstopdf)                    date: 2023-12-05 18:58:23
 (epstopdf)                    size: 515922 bytes.
-<figuras/vat_edf_n_Uban15_freq-eps-converted-to.pdf, id=2135, 1156.32pt x 564.1
+<figuras/vat_edf_n_Uban15_freq-eps-converted-to.pdf, id=2153, 1156.32pt x 564.1
 075pt>
 File: figuras/vat_edf_n_Uban15_freq-eps-converted-to.pdf Graphic file (type pdf
 )
@@ -3652,11 +3652,11 @@ ed on input line 1092.
 (pdftex.def)             Requested size: 325.215pt x 158.65483pt.
  [87 <./figuras/39_VAT.png>]
 Package epstopdf Info: Source file: <figuras/vat_edf_n_Uban15_wavelet.eps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 28239 bytes
 (epstopdf)             Output file: <figuras/vat_edf_n_Uban15_wavelet-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:09:24
+(epstopdf)                    date: 2023-12-05 18:56:28
 (epstopdf)                    size: 12315 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_edf_n_Ub
 an15_wavelet-eps-converted-to.pdf figuras/vat_edf_n_Uban15_wavelet.eps>
@@ -3666,9 +3666,9 @@ ted-to.pdf figuras/vat_edf_n_Uban15_wavelet.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_edf_n_Uban15_wavelet-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2023-12-01 19:11:30
+(epstopdf)                    date: 2023-12-05 18:58:25
 (epstopdf)                    size: 12315 bytes.
-<figuras/vat_edf_n_Uban15_wavelet-eps-converted-to.pdf, id=2141, 421.575pt x 31
+<figuras/vat_edf_n_Uban15_wavelet-eps-converted-to.pdf, id=2159, 421.575pt x 31
 6.18124pt>
 File: figuras/vat_edf_n_Uban15_wavelet-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -3680,51 +3680,129 @@ Package pdftex.def Info: figuras/vat_edf_n_Uban15_wavelet-eps-converted-to.pdf
 n_Uban15_freq-eps-converted-to.pdf>]
 [89 <./figuras/vat_edf_n_Uban15_wavelet-eps-converted-to.pdf>]
 Cap\'{\i }tulo 11.
-<figuras/44_ventana_aviso.png, id=2172, 275.8305pt x 439.04025pt>
-File: figuras/44_ventana_aviso.png Graphic file (type png)
-<use figuras/44_ventana_aviso.png>
-Package pdftex.def Info: figuras/44_ventana_aviso.png  used on input line 1118.
-
-(pdftex.def)             Requested size: 173.44534pt x 276.07428pt.
 [90
 
 ]
-<figuras/46_notes_debug.png, id=2178, 616.10175pt x 274.02374pt>
+<figuras/44_ventana_aviso.png, id=2196, 275.8305pt x 439.04025pt>
+File: figuras/44_ventana_aviso.png Graphic file (type png)
+<use figuras/44_ventana_aviso.png>
+Package pdftex.def Info: figuras/44_ventana_aviso.png  used on input line 1120.
+
+(pdftex.def)             Requested size: 173.44534pt x 276.07428pt.
+<figuras/46_notes_debug.png, id=2198, 616.10175pt x 274.02374pt>
 File: figuras/46_notes_debug.png Graphic file (type png)
 <use figuras/46_notes_debug.png>
-Package pdftex.def Info: figuras/46_notes_debug.png  used on input line 1127.
+Package pdftex.def Info: figuras/46_notes_debug.png  used on input line 1129.
 (pdftex.def)             Requested size: 281.85036pt x 125.35835pt.
- [91 <./figuras/44_ventana_aviso.png> <./figuras/46_notes_debug.png>])
-[92]
+ [91 <./figuras/44_ventana_aviso.png>]
+<figuras/47_fin_bd.png, id=2205, 725.71124pt x 434.22224pt>
+File: figuras/47_fin_bd.png Graphic file (type png)
+<use figuras/47_fin_bd.png>
+Package pdftex.def Info: figuras/47_fin_bd.png  used on input line 1140.
+(pdftex.def)             Requested size: 281.85036pt x 168.64366pt.
+<figuras/48_bd_gen.png, id=2206, 601.0455pt x 313.17pt>
+File: figuras/48_bd_gen.png Graphic file (type png)
+<use figuras/48_bd_gen.png>
+Package pdftex.def Info: figuras/48_bd_gen.png  used on input line 1146.
+(pdftex.def)             Requested size: 281.85036pt x 146.85541pt.
+ [92 <./figuras/46_notes_debug.png> <./figuras/47_fin_bd.png>]
+<figuras/49_multigraf.png, id=2212, 637.78275pt x 340.27126pt>
+File: figuras/49_multigraf.png Graphic file (type png)
+<use figuras/49_multigraf.png>
+Package pdftex.def Info: figuras/49_multigraf.png  used on input line 1156.
+(pdftex.def)             Requested size: 281.85036pt x 150.37921pt.
+ [93 <./figuras/48_bd_gen.png> <./figuras/49_multigraf.png>]
 Cap\'{\i }tulo 12.
-(k-conclusiones.tex) [93
+<figuras/50_install_chame.png, id=2219, 777.50475pt x 619.113pt>
+File: figuras/50_install_chame.png Graphic file (type png)
+<use figuras/50_install_chame.png>
+Package pdftex.def Info: figuras/50_install_chame.png  used on input line 1170.
+
+(pdftex.def)             Requested size: 303.53267pt x 241.68927pt.
+[94
 
 ]
+Package epstopdf Info: Source file: <figuras/51_Figure_1_chameleon.eps>
+(epstopdf)                    date: 2023-12-06 00:21:56
+(epstopdf)                    size: 127521 bytes
+(epstopdf)             Output file: <figuras/51_Figure_1_chameleon-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2023-12-05 18:56:29
+(epstopdf)                    size: 113043 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=figuras/51_Figure_1_
+chameleon-eps-converted-to.pdf figuras/51_Figure_1_chameleon.eps>
+(epstopdf)             \includegraphics on input line 1179.
+runsystem(miktex-epstopdf --outfile=figuras/51_Figure_1_chameleon-eps-converted
+-to.pdf figuras/51_Figure_1_chameleon.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <figuras/51_Figure_1_chameleon-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2023-12-05 18:58:26
+(epstopdf)                    size: 113043 bytes.
+<figuras/51_Figure_1_chameleon-eps-converted-to.pdf, id=2226, 462.72874pt x 347
+.2975pt>
+File: figuras/51_Figure_1_chameleon-eps-converted-to.pdf Graphic file (type pdf
+)
+<use figuras/51_Figure_1_chameleon-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/51_Figure_1_chameleon-eps-converted-to.pdf  us
+ed on input line 1179.
+(pdftex.def)             Requested size: 281.85036pt x 211.5438pt.
+Package epstopdf Info: Source file: <figuras/52_Figure_2_chameleon.eps>
+(epstopdf)                    date: 2023-12-06 00:21:56
+(epstopdf)                    size: 978246 bytes
+(epstopdf)             Output file: <figuras/52_Figure_2_chameleon-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2023-12-05 18:56:32
+(epstopdf)                    size: 1153620 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=figuras/52_Figure_2_
+chameleon-eps-converted-to.pdf figuras/52_Figure_2_chameleon.eps>
+(epstopdf)             \includegraphics on input line 1185.
+runsystem(miktex-epstopdf --outfile=figuras/52_Figure_2_chameleon-eps-converted
+-to.pdf figuras/52_Figure_2_chameleon.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <figuras/52_Figure_2_chameleon-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2023-12-05 18:58:29
+(epstopdf)                    size: 1153620 bytes.
+<figuras/52_Figure_2_chameleon-eps-converted-to.pdf, id=2227, 462.72874pt x 347
+.2975pt>
+File: figuras/52_Figure_2_chameleon-eps-converted-to.pdf Graphic file (type pdf
+)
+<use figuras/52_Figure_2_chameleon-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/52_Figure_2_chameleon-eps-converted-to.pdf  us
+ed on input line 1185.
+(pdftex.def)             Requested size: 281.85036pt x 211.5438pt.
+ [95 <./figuras/50_install_chame.png>]) [96 <./figuras/51_Figure_1_chameleon-ep
+s-converted-to.pdf> <./figuras/52_Figure_2_chameleon-eps-converted-to.pdf>]
 Cap\'{\i }tulo 13.
-(l-recomendaciones.tex) [94
+(k-conclusiones.tex) [97
 
 ]
 Cap\'{\i }tulo 14.
+(l-recomendaciones.tex) [98
+
+]
+Cap\'{\i }tulo 15.
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 4
 38.
 (C:\Users\Cris Pat\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-[95
+[99
 
 
-] [96] [97]
-Cap\'{\i }tulo 15.
-(n-anexos.tex [98
+] [100] [101]
+Cap\'{\i }tulo 16.
+(n-anexos.tex [102
 
 ]
 Package epstopdf Info: Source file: <figuras/vat_freq_100.eps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 104581 bytes
 (epstopdf)             Output file: <figuras/vat_freq_100-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2023-12-01 19:09:26
-(epstopdf)                    size: 87659 bytes
+(epstopdf)                    date: 2023-12-05 18:56:34
+(epstopdf)                    size: 87661 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_freq_100
 -eps-converted-to.pdf figuras/vat_freq_100.eps>
 (epstopdf)             \includegraphics on input line 17.
@@ -3733,20 +3811,20 @@ iguras/vat_freq_100.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_freq_100-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2023-12-01 19:11:32
+(epstopdf)                    date: 2023-12-05 18:58:31
 (epstopdf)                    size: 87661 bytes.
-<figuras/vat_freq_100-eps-converted-to.pdf, id=2240, 421.575pt x 316.18124pt>
+<figuras/vat_freq_100-eps-converted-to.pdf, id=2313, 421.575pt x 316.18124pt>
 File: figuras/vat_freq_100-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_freq_100-eps-converted-to.pdf>
 Package pdftex.def Info: figuras/vat_freq_100-eps-converted-to.pdf  used on inp
 ut line 17.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
 Package epstopdf Info: Source file: <figuras/vat_freq_500.eps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 321863 bytes
 (epstopdf)             Output file: <figuras/vat_freq_500-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2023-12-01 19:09:28
+(epstopdf)                    date: 2023-12-05 18:56:35
 (epstopdf)                    size: 132938 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_freq_500
 -eps-converted-to.pdf figuras/vat_freq_500.eps>
@@ -3756,20 +3834,20 @@ iguras/vat_freq_500.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_freq_500-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2023-12-01 19:11:33
+(epstopdf)                    date: 2023-12-05 18:58:33
 (epstopdf)                    size: 132938 bytes.
-<figuras/vat_freq_500-eps-converted-to.pdf, id=2241, 421.575pt x 316.18124pt>
+<figuras/vat_freq_500-eps-converted-to.pdf, id=2314, 421.575pt x 316.18124pt>
 File: figuras/vat_freq_500-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_freq_500-eps-converted-to.pdf>
 Package pdftex.def Info: figuras/vat_freq_500-eps-converted-to.pdf  used on inp
 ut line 23.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
 Package epstopdf Info: Source file: <figuras/vat_freq_1000.eps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:46
 (epstopdf)                    size: 358625 bytes
 (epstopdf)             Output file: <figuras/vat_freq_1000-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:09:30
+(epstopdf)                    date: 2023-12-05 18:56:37
 (epstopdf)                    size: 128580 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_freq_100
 0-eps-converted-to.pdf figuras/vat_freq_1000.eps>
@@ -3779,21 +3857,21 @@ figuras/vat_freq_1000.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_freq_1000-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:11:35
+(epstopdf)                    date: 2023-12-05 18:58:34
 (epstopdf)                    size: 128580 bytes.
-<figuras/vat_freq_1000-eps-converted-to.pdf, id=2242, 421.575pt x 316.18124pt>
+<figuras/vat_freq_1000-eps-converted-to.pdf, id=2315, 421.575pt x 316.18124pt>
 File: figuras/vat_freq_1000-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_freq_1000-eps-converted-to.pdf>
 Package pdftex.def Info: figuras/vat_freq_1000-eps-converted-to.pdf  used on in
 put line 29.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
- [99 <./figuras/vat_freq_100-eps-converted-to.pdf>]
+ [103 <./figuras/vat_freq_100-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/vat_freq_1500.eps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:52
 (epstopdf)                    size: 342227 bytes
 (epstopdf)             Output file: <figuras/vat_freq_1500-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:09:31
+(epstopdf)                    date: 2023-12-05 18:56:39
 (epstopdf)                    size: 118611 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_freq_150
 0-eps-converted-to.pdf figuras/vat_freq_1500.eps>
@@ -3803,20 +3881,20 @@ figuras/vat_freq_1500.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_freq_1500-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:11:37
+(epstopdf)                    date: 2023-12-05 18:58:36
 (epstopdf)                    size: 118611 bytes.
-<figuras/vat_freq_1500-eps-converted-to.pdf, id=2255, 421.575pt x 316.18124pt>
+<figuras/vat_freq_1500-eps-converted-to.pdf, id=2327, 421.575pt x 316.18124pt>
 File: figuras/vat_freq_1500-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_freq_1500-eps-converted-to.pdf>
 Package pdftex.def Info: figuras/vat_freq_1500-eps-converted-to.pdf  used on in
 put line 35.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
 Package epstopdf Info: Source file: <figuras/vat_freq_2000.eps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:52
 (epstopdf)                    size: 343790 bytes
 (epstopdf)             Output file: <figuras/vat_freq_2000-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:09:33
+(epstopdf)                    date: 2023-12-05 18:56:40
 (epstopdf)                    size: 124415 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_freq_200
 0-eps-converted-to.pdf figuras/vat_freq_2000.eps>
@@ -3826,22 +3904,23 @@ figuras/vat_freq_2000.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_freq_2000-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:11:38
+(epstopdf)                    date: 2023-12-05 18:58:37
 (epstopdf)                    size: 124415 bytes.
-<figuras/vat_freq_2000-eps-converted-to.pdf, id=2256, 421.575pt x 316.18124pt>
+<figuras/vat_freq_2000-eps-converted-to.pdf, id=2328, 421.575pt x 316.18124pt>
 File: figuras/vat_freq_2000-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_freq_2000-eps-converted-to.pdf>
 Package pdftex.def Info: figuras/vat_freq_2000-eps-converted-to.pdf  used on in
 put line 41.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
- [100 <./figuras/vat_freq_500-eps-converted-to.pdf> <./figuras/vat_freq_1000-ep
-s-converted-to.pdf>]
+
+[104 <./figuras/vat_freq_500-eps-converted-to.pdf> <./figuras/vat_freq_1000-eps
+-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/vat_freq_2500.eps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:52
 (epstopdf)                    size: 352110 bytes
 (epstopdf)             Output file: <figuras/vat_freq_2500-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:09:35
+(epstopdf)                    date: 2023-12-05 18:56:42
 (epstopdf)                    size: 125950 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_freq_250
 0-eps-converted-to.pdf figuras/vat_freq_2500.eps>
@@ -3851,20 +3930,20 @@ figuras/vat_freq_2500.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_freq_2500-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:11:40
+(epstopdf)                    date: 2023-12-05 18:58:39
 (epstopdf)                    size: 125950 bytes.
-<figuras/vat_freq_2500-eps-converted-to.pdf, id=2275, 421.575pt x 316.18124pt>
+<figuras/vat_freq_2500-eps-converted-to.pdf, id=2347, 421.575pt x 316.18124pt>
 File: figuras/vat_freq_2500-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_freq_2500-eps-converted-to.pdf>
 Package pdftex.def Info: figuras/vat_freq_2500-eps-converted-to.pdf  used on in
 put line 47.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
 Package epstopdf Info: Source file: <figuras/vat_freq_2600.eps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:52
 (epstopdf)                    size: 351026 bytes
 (epstopdf)             Output file: <figuras/vat_freq_2600-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:09:37
+(epstopdf)                    date: 2023-12-05 18:56:44
 (epstopdf)                    size: 128459 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_freq_260
 0-eps-converted-to.pdf figuras/vat_freq_2600.eps>
@@ -3874,22 +3953,22 @@ figuras/vat_freq_2600.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_freq_2600-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:11:42
-(epstopdf)                    size: 128459 bytes.
-<figuras/vat_freq_2600-eps-converted-to.pdf, id=2276, 421.575pt x 316.18124pt>
+(epstopdf)                    date: 2023-12-05 18:58:41
+(epstopdf)                    size: 128451 bytes.
+<figuras/vat_freq_2600-eps-converted-to.pdf, id=2348, 421.575pt x 316.18124pt>
 File: figuras/vat_freq_2600-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_freq_2600-eps-converted-to.pdf>
 Package pdftex.def Info: figuras/vat_freq_2600-eps-converted-to.pdf  used on in
 put line 53.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
- [101 <./figuras/vat_freq_1500-eps-converted-to.pdf> <./figuras/vat_freq_2000-e
+ [105 <./figuras/vat_freq_1500-eps-converted-to.pdf> <./figuras/vat_freq_2000-e
 ps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/vat_freq_2700.eps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:52
 (epstopdf)                    size: 347597 bytes
 (epstopdf)             Output file: <figuras/vat_freq_2700-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:09:38
+(epstopdf)                    date: 2023-12-05 18:56:46
 (epstopdf)                    size: 129151 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_freq_270
 0-eps-converted-to.pdf figuras/vat_freq_2700.eps>
@@ -3899,22 +3978,22 @@ figuras/vat_freq_2700.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_freq_2700-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:11:44
+(epstopdf)                    date: 2023-12-05 18:58:43
 (epstopdf)                    size: 129151 bytes.
-<figuras/vat_freq_2700-eps-converted-to.pdf, id=2295, 421.575pt x 316.18124pt>
+<figuras/vat_freq_2700-eps-converted-to.pdf, id=2368, 421.575pt x 316.18124pt>
 File: figuras/vat_freq_2700-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_freq_2700-eps-converted-to.pdf>
 Package pdftex.def Info: figuras/vat_freq_2700-eps-converted-to.pdf  used on in
 put line 59.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
- [102 <./figuras/vat_freq_2500-eps-converted-to.pdf> <./figuras/vat_freq_2600-e
+ [106 <./figuras/vat_freq_2500-eps-converted-to.pdf> <./figuras/vat_freq_2600-e
 ps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/vat_time_100.eps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:52
 (epstopdf)                    size: 105927 bytes
 (epstopdf)             Output file: <figuras/vat_time_100-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2023-12-01 19:09:40
+(epstopdf)                    date: 2023-12-05 18:56:47
 (epstopdf)                    size: 92166 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_time_100
 -eps-converted-to.pdf figuras/vat_time_100.eps>
@@ -3924,20 +4003,20 @@ iguras/vat_time_100.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_time_100-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2023-12-01 19:11:45
+(epstopdf)                    date: 2023-12-05 18:58:44
 (epstopdf)                    size: 92166 bytes.
-<figuras/vat_time_100-eps-converted-to.pdf, id=2316, 421.575pt x 316.18124pt>
+<figuras/vat_time_100-eps-converted-to.pdf, id=2389, 421.575pt x 316.18124pt>
 File: figuras/vat_time_100-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_time_100-eps-converted-to.pdf>
 Package pdftex.def Info: figuras/vat_time_100-eps-converted-to.pdf  used on inp
 ut line 69.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
 Package epstopdf Info: Source file: <figuras/vat_time_500.eps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:52
 (epstopdf)                    size: 164588 bytes
 (epstopdf)             Output file: <figuras/vat_time_500-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2023-12-01 19:09:41
+(epstopdf)                    date: 2023-12-05 18:56:49
 (epstopdf)                    size: 129988 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_time_500
 -eps-converted-to.pdf figuras/vat_time_500.eps>
@@ -3947,21 +4026,21 @@ iguras/vat_time_500.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_time_500-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2023-12-01 19:11:47
+(epstopdf)                    date: 2023-12-05 18:58:46
 (epstopdf)                    size: 129988 bytes.
-<figuras/vat_time_500-eps-converted-to.pdf, id=2317, 421.575pt x 316.18124pt>
+<figuras/vat_time_500-eps-converted-to.pdf, id=2390, 421.575pt x 316.18124pt>
 File: figuras/vat_time_500-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_time_500-eps-converted-to.pdf>
 Package pdftex.def Info: figuras/vat_time_500-eps-converted-to.pdf  used on inp
 ut line 75.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
- [103 <./figuras/vat_freq_2700-eps-converted-to.pdf>]
+ [107 <./figuras/vat_freq_2700-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/vat_time_1000.eps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:52
 (epstopdf)                    size: 162130 bytes
 (epstopdf)             Output file: <figuras/vat_time_1000-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:09:43
+(epstopdf)                    date: 2023-12-05 18:56:50
 (epstopdf)                    size: 119114 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_time_100
 0-eps-converted-to.pdf figuras/vat_time_1000.eps>
@@ -3971,20 +4050,20 @@ figuras/vat_time_1000.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_time_1000-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:11:48
+(epstopdf)                    date: 2023-12-05 18:58:47
 (epstopdf)                    size: 119114 bytes.
-<figuras/vat_time_1000-eps-converted-to.pdf, id=2329, 421.575pt x 316.18124pt>
+<figuras/vat_time_1000-eps-converted-to.pdf, id=2402, 421.575pt x 316.18124pt>
 File: figuras/vat_time_1000-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_time_1000-eps-converted-to.pdf>
 Package pdftex.def Info: figuras/vat_time_1000-eps-converted-to.pdf  used on in
 put line 81.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
 Package epstopdf Info: Source file: <figuras/vat_time_1500.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:52
 (epstopdf)                    size: 152183 bytes
 (epstopdf)             Output file: <figuras/vat_time_1500-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:09:44
+(epstopdf)                    date: 2023-12-05 18:56:51
 (epstopdf)                    size: 93573 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_time_150
 0-eps-converted-to.pdf figuras/vat_time_1500.eps>
@@ -3994,22 +4073,22 @@ figuras/vat_time_1500.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_time_1500-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:11:50
+(epstopdf)                    date: 2023-12-05 18:58:48
 (epstopdf)                    size: 93573 bytes.
-<figuras/vat_time_1500-eps-converted-to.pdf, id=2330, 421.575pt x 316.18124pt>
+<figuras/vat_time_1500-eps-converted-to.pdf, id=2403, 421.575pt x 316.18124pt>
 File: figuras/vat_time_1500-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_time_1500-eps-converted-to.pdf>
 Package pdftex.def Info: figuras/vat_time_1500-eps-converted-to.pdf  used on in
 put line 87.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
- [104 <./figuras/vat_time_100-eps-converted-to.pdf> <./figuras/vat_time_500-eps
+ [108 <./figuras/vat_time_100-eps-converted-to.pdf> <./figuras/vat_time_500-eps
 -converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/vat_time_2000.eps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:52
 (epstopdf)                    size: 62811 bytes
 (epstopdf)             Output file: <figuras/vat_time_2000-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:09:46
+(epstopdf)                    date: 2023-12-05 18:56:53
 (epstopdf)                    size: 33559 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_time_200
 0-eps-converted-to.pdf figuras/vat_time_2000.eps>
@@ -4019,20 +4098,20 @@ figuras/vat_time_2000.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_time_2000-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:11:51
+(epstopdf)                    date: 2023-12-05 18:58:50
 (epstopdf)                    size: 33559 bytes.
-<figuras/vat_time_2000-eps-converted-to.pdf, id=2349, 421.575pt x 316.18124pt>
+<figuras/vat_time_2000-eps-converted-to.pdf, id=2422, 421.575pt x 316.18124pt>
 File: figuras/vat_time_2000-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_time_2000-eps-converted-to.pdf>
 Package pdftex.def Info: figuras/vat_time_2000-eps-converted-to.pdf  used on in
 put line 93.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
 Package epstopdf Info: Source file: <figuras/vat_time_2100.eps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:52
 (epstopdf)                    size: 101713 bytes
 (epstopdf)             Output file: <figuras/vat_time_2100-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:09:47
+(epstopdf)                    date: 2023-12-05 18:56:54
 (epstopdf)                    size: 69542 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_time_210
 0-eps-converted-to.pdf figuras/vat_time_2100.eps>
@@ -4042,22 +4121,22 @@ figuras/vat_time_2100.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_time_2100-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:11:53
-(epstopdf)                    size: 69542 bytes.
-<figuras/vat_time_2100-eps-converted-to.pdf, id=2350, 421.575pt x 316.18124pt>
+(epstopdf)                    date: 2023-12-05 18:58:51
+(epstopdf)                    size: 69540 bytes.
+<figuras/vat_time_2100-eps-converted-to.pdf, id=2423, 421.575pt x 316.18124pt>
 File: figuras/vat_time_2100-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_time_2100-eps-converted-to.pdf>
 Package pdftex.def Info: figuras/vat_time_2100-eps-converted-to.pdf  used on in
 put line 99.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
- [105 <./figuras/vat_time_1000-eps-converted-to.pdf> <./figuras/vat_time_1500-e
+ [109 <./figuras/vat_time_1000-eps-converted-to.pdf> <./figuras/vat_time_1500-e
 ps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/vat_time_2200.eps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:52
 (epstopdf)                    size: 171831 bytes
 (epstopdf)             Output file: <figuras/vat_time_2200-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:09:49
+(epstopdf)                    date: 2023-12-05 18:56:56
 (epstopdf)                    size: 115406 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_time_220
 0-eps-converted-to.pdf figuras/vat_time_2200.eps>
@@ -4067,20 +4146,20 @@ figuras/vat_time_2200.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_time_2200-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:11:54
+(epstopdf)                    date: 2023-12-05 18:58:53
 (epstopdf)                    size: 115406 bytes.
-<figuras/vat_time_2200-eps-converted-to.pdf, id=2370, 421.575pt x 316.18124pt>
+<figuras/vat_time_2200-eps-converted-to.pdf, id=2442, 421.575pt x 316.18124pt>
 File: figuras/vat_time_2200-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_time_2200-eps-converted-to.pdf>
 Package pdftex.def Info: figuras/vat_time_2200-eps-converted-to.pdf  used on in
 put line 105.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
 Package epstopdf Info: Source file: <figuras/vat_time_2300.eps>
-(epstopdf)                    date: 2023-12-02 00:53:18
+(epstopdf)                    date: 2023-12-06 00:21:52
 (epstopdf)                    size: 151631 bytes
 (epstopdf)             Output file: <figuras/vat_time_2300-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:09:50
+(epstopdf)                    date: 2023-12-05 18:56:57
 (epstopdf)                    size: 94607 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_time_230
 0-eps-converted-to.pdf figuras/vat_time_2300.eps>
@@ -4090,23 +4169,24 @@ figuras/vat_time_2300.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_time_2300-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2023-12-01 19:11:56
+(epstopdf)                    date: 2023-12-05 18:58:54
 (epstopdf)                    size: 94607 bytes.
-<figuras/vat_time_2300-eps-converted-to.pdf, id=2371, 421.575pt x 316.18124pt>
+<figuras/vat_time_2300-eps-converted-to.pdf, id=2443, 421.575pt x 316.18124pt>
 File: figuras/vat_time_2300-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_time_2300-eps-converted-to.pdf>
 Package pdftex.def Info: figuras/vat_time_2300-eps-converted-to.pdf  used on in
 put line 111.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
- [106 <./figuras/vat_time_2000-eps-converted-to.pdf> <./figuras/vat_time_2100-e
-ps-converted-to.pdf>] [107 <./figuras/vat_time_2200-eps-converted-to.pdf> <./fi
-guras/vat_time_2300-eps-converted-to.pdf>]
+
+[110 <./figuras/vat_time_2000-eps-converted-to.pdf> <./figuras/vat_time_2100-ep
+s-converted-to.pdf>] [111 <./figuras/vat_time_2200-eps-converted-to.pdf> <./fig
+uras/vat_time_2300-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/vat_wavelets_100.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:52
 (epstopdf)                    size: 32287 bytes
 (epstopdf)             Output file: <figuras/vat_wavelets_100-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2023-12-01 19:09:51
+(epstopdf)                    date: 2023-12-05 18:56:58
 (epstopdf)                    size: 16405 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_wavelets
 _100-eps-converted-to.pdf figuras/vat_wavelets_100.eps>
@@ -4116,9 +4196,9 @@ df figuras/vat_wavelets_100.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_wavelets_100-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2023-12-01 19:11:57
+(epstopdf)                    date: 2023-12-05 18:58:55
 (epstopdf)                    size: 16405 bytes.
-<figuras/vat_wavelets_100-eps-converted-to.pdf, id=2410, 421.575pt x 316.18124p
+<figuras/vat_wavelets_100-eps-converted-to.pdf, id=2483, 421.575pt x 316.18124p
 t>
 File: figuras/vat_wavelets_100-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_wavelets_100-eps-converted-to.pdf>
@@ -4126,11 +4206,11 @@ Package pdftex.def Info: figuras/vat_wavelets_100-eps-converted-to.pdf  used on
  input line 122.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
 Package epstopdf Info: Source file: <figuras/vat_wavelets_500.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:52
 (epstopdf)                    size: 33535 bytes
 (epstopdf)             Output file: <figuras/vat_wavelets_500-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2023-12-01 19:09:53
+(epstopdf)                    date: 2023-12-05 18:57:00
 (epstopdf)                    size: 17145 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_wavelets
 _500-eps-converted-to.pdf figuras/vat_wavelets_500.eps>
@@ -4140,9 +4220,9 @@ df figuras/vat_wavelets_500.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_wavelets_500-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2023-12-01 19:11:59
+(epstopdf)                    date: 2023-12-05 18:58:56
 (epstopdf)                    size: 17145 bytes.
-<figuras/vat_wavelets_500-eps-converted-to.pdf, id=2411, 421.575pt x 316.18124p
+<figuras/vat_wavelets_500-eps-converted-to.pdf, id=2484, 421.575pt x 316.18124p
 t>
 File: figuras/vat_wavelets_500-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_wavelets_500-eps-converted-to.pdf>
@@ -4150,11 +4230,11 @@ Package pdftex.def Info: figuras/vat_wavelets_500-eps-converted-to.pdf  used on
  input line 128.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
 Package epstopdf Info: Source file: <figuras/vat_wavelets_1000.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:52
 (epstopdf)                    size: 34134 bytes
 (epstopdf)             Output file: <figuras/vat_wavelets_1000-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2023-12-01 19:09:54
+(epstopdf)                    date: 2023-12-05 18:57:01
 (epstopdf)                    size: 17209 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_wavelets
 _1000-eps-converted-to.pdf figuras/vat_wavelets_1000.eps>
@@ -4164,22 +4244,22 @@ pdf figuras/vat_wavelets_1000.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_wavelets_1000-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2023-12-01 19:12:02
+(epstopdf)                    date: 2023-12-05 18:58:58
 (epstopdf)                    size: 17209 bytes.
-<figuras/vat_wavelets_1000-eps-converted-to.pdf, id=2412, 421.575pt x 316.18124
+<figuras/vat_wavelets_1000-eps-converted-to.pdf, id=2485, 421.575pt x 316.18124
 pt>
 File: figuras/vat_wavelets_1000-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_wavelets_1000-eps-converted-to.pdf>
 Package pdftex.def Info: figuras/vat_wavelets_1000-eps-converted-to.pdf  used o
 n input line 134.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
- [108 <./figuras/vat_wavelets_100-eps-converted-to.pdf>]
+ [112 <./figuras/vat_wavelets_100-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/vat_wavelets_1500.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:52
 (epstopdf)                    size: 32624 bytes
 (epstopdf)             Output file: <figuras/vat_wavelets_1500-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2023-12-01 19:09:56
+(epstopdf)                    date: 2023-12-05 18:57:02
 (epstopdf)                    size: 15901 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_wavelets
 _1500-eps-converted-to.pdf figuras/vat_wavelets_1500.eps>
@@ -4189,9 +4269,9 @@ pdf figuras/vat_wavelets_1500.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_wavelets_1500-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2023-12-01 19:12:03
+(epstopdf)                    date: 2023-12-05 18:58:59
 (epstopdf)                    size: 15901 bytes.
-<figuras/vat_wavelets_1500-eps-converted-to.pdf, id=2424, 421.575pt x 316.18124
+<figuras/vat_wavelets_1500-eps-converted-to.pdf, id=2497, 421.575pt x 316.18124
 pt>
 File: figuras/vat_wavelets_1500-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_wavelets_1500-eps-converted-to.pdf>
@@ -4199,11 +4279,11 @@ Package pdftex.def Info: figuras/vat_wavelets_1500-eps-converted-to.pdf  used o
 n input line 140.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
 Package epstopdf Info: Source file: <figuras/vat_wavelets_2000.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:52
 (epstopdf)                    size: 35208 bytes
 (epstopdf)             Output file: <figuras/vat_wavelets_2000-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2023-12-01 19:09:57
+(epstopdf)                    date: 2023-12-05 18:57:03
 (epstopdf)                    size: 17309 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_wavelets
 _2000-eps-converted-to.pdf figuras/vat_wavelets_2000.eps>
@@ -4213,24 +4293,24 @@ pdf figuras/vat_wavelets_2000.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_wavelets_2000-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2023-12-01 19:12:05
+(epstopdf)                    date: 2023-12-05 18:59:00
 (epstopdf)                    size: 17309 bytes.
-<figuras/vat_wavelets_2000-eps-converted-to.pdf, id=2425, 421.575pt x 316.18124
+<figuras/vat_wavelets_2000-eps-converted-to.pdf, id=2498, 421.575pt x 316.18124
 pt>
 File: figuras/vat_wavelets_2000-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_wavelets_2000-eps-converted-to.pdf>
 Package pdftex.def Info: figuras/vat_wavelets_2000-eps-converted-to.pdf  used o
 n input line 146.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
- [109 <./figuras/vat_wavelets_500-eps-converted-to.pdf> <./figuras/vat_wavelets
+ [113 <./figuras/vat_wavelets_500-eps-converted-to.pdf> <./figuras/vat_wavelets
 _1000-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/vat_wavelets_2100.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:52
 (epstopdf)                    size: 35418 bytes
 (epstopdf)             Output file: <figuras/vat_wavelets_2100-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2023-12-01 19:09:58
-(epstopdf)                    size: 17508 bytes
+(epstopdf)                    date: 2023-12-05 18:57:05
+(epstopdf)                    size: 17520 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_wavelets
 _2100-eps-converted-to.pdf figuras/vat_wavelets_2100.eps>
 (epstopdf)             \includegraphics on input line 152.
@@ -4239,9 +4319,9 @@ pdf figuras/vat_wavelets_2100.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_wavelets_2100-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2023-12-01 19:12:07
+(epstopdf)                    date: 2023-12-05 18:59:02
 (epstopdf)                    size: 17520 bytes.
-<figuras/vat_wavelets_2100-eps-converted-to.pdf, id=2444, 421.575pt x 316.18124
+<figuras/vat_wavelets_2100-eps-converted-to.pdf, id=2517, 421.575pt x 316.18124
 pt>
 File: figuras/vat_wavelets_2100-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_wavelets_2100-eps-converted-to.pdf>
@@ -4249,11 +4329,11 @@ Package pdftex.def Info: figuras/vat_wavelets_2100-eps-converted-to.pdf  used o
 n input line 152.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
 Package epstopdf Info: Source file: <figuras/vat_wavelets_2200.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:52
 (epstopdf)                    size: 33089 bytes
 (epstopdf)             Output file: <figuras/vat_wavelets_2200-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2023-12-01 19:10:00
+(epstopdf)                    date: 2023-12-05 18:57:06
 (epstopdf)                    size: 15847 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_wavelets
 _2200-eps-converted-to.pdf figuras/vat_wavelets_2200.eps>
@@ -4263,23 +4343,23 @@ pdf figuras/vat_wavelets_2200.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_wavelets_2200-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2023-12-01 19:12:10
+(epstopdf)                    date: 2023-12-05 18:59:03
 (epstopdf)                    size: 15847 bytes.
-<figuras/vat_wavelets_2200-eps-converted-to.pdf, id=2445, 421.575pt x 316.18124
+<figuras/vat_wavelets_2200-eps-converted-to.pdf, id=2518, 421.575pt x 316.18124
 pt>
 File: figuras/vat_wavelets_2200-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_wavelets_2200-eps-converted-to.pdf>
 Package pdftex.def Info: figuras/vat_wavelets_2200-eps-converted-to.pdf  used o
 n input line 158.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
- [110 <./figuras/vat_wavelets_1500-eps-converted-to.pdf> <./figuras/vat_wavelet
+ [114 <./figuras/vat_wavelets_1500-eps-converted-to.pdf> <./figuras/vat_wavelet
 s_2000-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figuras/vat_wavelets_2300.eps>
-(epstopdf)                    date: 2023-12-02 00:53:20
+(epstopdf)                    date: 2023-12-06 00:21:52
 (epstopdf)                    size: 33309 bytes
 (epstopdf)             Output file: <figuras/vat_wavelets_2300-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2023-12-01 19:10:01
+(epstopdf)                    date: 2023-12-05 18:57:08
 (epstopdf)                    size: 15608 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=figuras/vat_wavelets
 _2300-eps-converted-to.pdf figuras/vat_wavelets_2300.eps>
@@ -4289,20 +4369,21 @@ pdf figuras/vat_wavelets_2300.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <figuras/vat_wavelets_2300-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2023-12-01 19:12:14
+(epstopdf)                    date: 2023-12-05 18:59:04
 (epstopdf)                    size: 15608 bytes.
-<figuras/vat_wavelets_2300-eps-converted-to.pdf, id=2464, 421.575pt x 316.18124
+<figuras/vat_wavelets_2300-eps-converted-to.pdf, id=2537, 421.575pt x 316.18124
 pt>
 File: figuras/vat_wavelets_2300-eps-converted-to.pdf Graphic file (type pdf)
 <use figuras/vat_wavelets_2300-eps-converted-to.pdf>
 Package pdftex.def Info: figuras/vat_wavelets_2300-eps-converted-to.pdf  used o
 n input line 164.
 (pdftex.def)             Requested size: 368.57965pt x 276.4408pt.
- [111 <./figuras/vat_wavelets_2100-eps-converted-to.pdf> <./figuras/vat_wavelet
-s_2200-eps-converted-to.pdf>]) [112 <./figuras/vat_wavelets_2300-eps-converted-
-to.pdf>]
+
+[115 <./figuras/vat_wavelets_2100-eps-converted-to.pdf> <./figuras/vat_wavelets
+_2200-eps-converted-to.pdf>]) [116 <./figuras/vat_wavelets_2300-eps-converted-t
+o.pdf>]
 No file z-main.gls.
-[113] (z-main.aux
+[117] (z-main.aux
 LaTeX Info: Redefining \sptext on input line 9.
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
@@ -4315,16 +4396,16 @@ LaTeX2e <2023-11-01>
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `z-main.out' has not changed.
-(rerunfilecheck)             Checksum: 7F5EE7F1F9500120ECAF5BE8D05EB95A;15675.
+(rerunfilecheck)             Checksum: 9876C949A9D9CC76FBB83D8019A89958;15908.
 Package logreq Info: Writing requests to 'z-main.run.xml'.
 \openout1 = `z-main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31393 strings out of 474586
- 612693 string characters out of 5744221
+ 31457 strings out of 474586
+ 614612 string characters out of 5744221
  1952558 words of memory out of 5000000
- 52659 multiletter control sequences out of 15000+600000
+ 52712 multiletter control sequences out of 15000+600000
  575780 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,10n,93p,2343b,2749s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -4396,9 +4477,9 @@ sers/Cris Pat/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi
 onts/cm/cmmi8.pfb><C:/Users/Cris Pat/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmr10.pfb><C:/Users/Cris Pat/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on z-main.pdf (129 pages, 17080713 bytes).
+Output written on z-main.pdf (133 pages, 18771827 bytes).
 PDF statistics:
- 3325 PDF objects out of 3580 (max. 8388607)
- 433 named destinations out of 1000 (max. 500000)
- 1370 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3403 PDF objects out of 3580 (max. 8388607)
+ 444 named destinations out of 1000 (max. 500000)
+ 1408 words of extra memory for PDF output out of 10000 (max. 10000000)
 
